@@ -24,6 +24,7 @@ about-stay-in-touch = Wula ka n mini ya pɔha yɛn yooi taba?
 about-stay-in-touch-button = Sabimi a yuli
 about-nav-why-common-voice = Bɔzuɣu?
 about-nav-how-it-works = Wula?
+about-nav-get-involved = Timmi nuuzaŋmi a nuu niŋ
 about-nav-how-it-works-2 = Wula ka Common Voice tuumda?
 about-nav-playbook = Bɔhimmi a ni yɛn niŋ shɛm m-pahi
 
@@ -31,6 +32,10 @@ about-nav-playbook = Bɔhimmi a ni yɛn niŋ shɛm m-pahi
 
 about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
 about-playbook-how-add-language-collecting-sentences-heading = yɛltɔɣa deebu
+
+## How does localization work
+
+about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni di tooi sɔŋ
 
 ## How to add sentences
 
