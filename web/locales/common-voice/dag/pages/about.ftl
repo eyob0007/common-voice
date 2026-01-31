@@ -7,8 +7,10 @@ how-does-it-work-title-v2 = Wula ka "Common Voice" tumda?
 
 about-language-req-subtitle = so bɔhimi ni o nya zuliya bali shɛli m-pahi
 about-sentence-collection-title = bo n lee nyɛ zuliya balli common voice zuɣu
+about-sentence-collection-subtitle = Yɛltɔɣa deei mi ni niriba karim ka di yi polo
 about-new-lang-title = Zuliya Balli Yuli Tibu
 about-voice-contrib-title = Kukoli tohibu
+about-voice-contrib-subtitle = niriba kamina n ti tɔhi bɛ kukɔya
 about-dataset-release-title = Dataset yihibuna
 about-dataset-release-subtitle = Ti yihirila dataset maa na chira ata kam
 about-subscribe-text = n bɔri mi ni n kuli zani n tuhi common voice
