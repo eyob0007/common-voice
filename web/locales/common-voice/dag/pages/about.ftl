@@ -53,6 +53,7 @@ about-playbook-how-grow-language-content-4 = pɔhim zuɣu
 
 ## How to validate
 
+about-playbook-how-validate = wula ka n yɛn n niŋ m- baŋ ni n saɣiti kukɔli kliipu?
 about-playbook-how-validate-content-4 = Niriba ayi yi zaɣisi anfooni ŋmaa, di yirimi labi dataset yaɣ' shɛli polo.
 
 ## How to access dataset

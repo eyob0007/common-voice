@@ -52,6 +52,11 @@ crh = Krimean Tatar
 cs = Czech
 dag = Dagbanli
 de = Gaamani
+ee = Ewe
+el = yɛl'kurili
+en = Anashaara
+es = Sipanish
+ig = yibo
 tw = Kambonsili
 
 # [/]
