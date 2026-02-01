@@ -43,3 +43,13 @@ not-found-page-header = រក​មិន​ឃើញ
 not-found-page-content = ទំព័រដែលអ្នកកំពុងស្វែងរកមិនអាចរកឃើញទេ
 # Privacy and Terms checkbox
 accept-privacy-and-terms = ខ្ញុំយល់ព្រមតាម <termsLink>លក្ខខណ្ឌ</termsLink> និង <privacyLink>ការជូនដំណឹងអំពីភាពឯកជន</privacyLink> របស់ Common Voice
+# Locales-Variants
+ms-MY = ភាសាម៉ាឡេ
+el-CY = ភាសាក្រិក ស៊ីព្រីយ៉ុត
+
+## Language search component
+
+language-search-placeholder = ស្វែងរកភាសា...
+language-search-aria-label = ស្វែងរកភាសា
+language-search-label = ផ្លាស់ប្តូរតែភាសានៃការរួមចំណែកសម្រាប់សំណុំទិន្នន័យប៉ុណ្ណោះ
+language-search-no-results = រកមិនឃើញភាសា
