@@ -102,6 +102,7 @@ fy-NL = Frisian
 ga-IE = Irish
 gaa = Ga
 gej = Mina
+ggg = Gurgula
 gju = Gujari
 gl = Galician
 gn = Guarani
