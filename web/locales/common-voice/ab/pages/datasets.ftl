@@ -94,6 +94,10 @@ release-version = Аверсиа
 dataset-date = Арыцхә
 license = Алицензиа: <licenseLink>{ $license }</licenseLink>
 license-mixed = Еилаԥсоуп
+# Support old genders in older datasets
+male = Ахацәа ртәы
 female = Аҳәса ртәы
+# MENU ITEM TOOLTIPS
+download-contribute-menu-tooltip = Ҳабжьытә дыррақәа реизга ҭыжәга
 datasets-show-more = Адыррақәа реизга зегьы рырбара
 datasets-show-less = Аҵыхәтәантәи адыррақәа реизга рырбара

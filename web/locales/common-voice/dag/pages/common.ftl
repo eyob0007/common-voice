@@ -66,6 +66,7 @@ cv = Chuvash
 cy = Welsh
 da = Danish
 dag = Dagbanli
+dar = Dargwa
 de = Gaamani
 din = Dinka
 dmk = Dawoodi
