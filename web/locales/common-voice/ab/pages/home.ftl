@@ -133,3 +133,8 @@ answer-questions-link = Азҵаарақәа рҭак аҟаҵара
 transcribe-answers-link = Аҭакқәа атранскрипциа рзура
 review-transcriptions-link = Атранскрипциақәа ргәаҭара
 press-and-stories-link = Апрессеи астатиақәеи
+
+## Partner section
+
+# icon is an arrow that points to the right
+get-in-touch-button = Шәыҽҳамажәда <icon></icon>
