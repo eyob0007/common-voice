@@ -1,7 +1,9 @@
 ## ABOUT US
 
 about-title = Bɔzuɣu ka a pii Common Voice?
+about-header-description-v2 = Commom voice nyɛla kukɔli lahabaya din be polo ni zaŋ ti salo wɔli,
 how-does-it-work-title-v2 = Wula ka "Common Voice" tumda?
+how-does-it-work-text = Ti laɣindila salo kukoya. Tɔhimi a kukoli, dihimi niriba ban gba pahi kukoya, che ka kpanjɔɣu ŋɔ mali anfaani ti sokam.
 
 ## How does it work section
 
@@ -14,6 +16,7 @@ about-new-lang-subtitle = Ti pili la Common Voice biɛhigushɛɛ balli ŋɔ ni.
 about-voice-contrib-title = Kukoli tohibu
 about-voice-contrib-subtitle = niriba kamina n ti tɔhi bɛ kukɔya
 about-voice-validation-title = Kukoli Saɣiti
+about-voice-validation-subtitle = Nivuɣ' shɛba ban dihitabili  lala kukoya  yaabu
 about-dataset-release-title = Dataset yihibuna
 about-dataset-release-subtitle = Ti yihirila dataset maa na chira ata kam
 about-subscribe-text = n bɔri mi ni n kuli zani n tuhi common voice
