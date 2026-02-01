@@ -117,6 +117,7 @@ easy-to-understand = Аилкаара мариоуп
 spelling-and-pronunciation = Аорфографиеи апунктуациеи
 spelling-and-pronunciation-explanation = Ииашоу аорфографиеи аграмматикеи  шәхы иашәырхәа.
 length = Аура
+length-avoid-explanation = 15 секунд рыла зҭак аҟаҵара уадаҩхо азҵаарақәа (аклип иреиҳаӡоу аура)
 process-steps = Апроцесс / Ашьаҿақәа
 example-questions-subheader = Азҵаарақәа рҿырԥштәқәа
 
