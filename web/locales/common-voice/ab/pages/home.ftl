@@ -118,6 +118,12 @@ join-discord-community = Discord аилазаара алалара
 find-us-on-matrix = Matrix аҿы ҳшәыԥшаа
 # label for button
 find-us-on-element-action-1 = Аелемент
+find-us-on-matrix-action-2 = Егьырҭ аклиентцәа
+
+## Developers section
+
+# icon is an arrow that points to the right
+explore-datasets = Адыррақәа реизгақәа шәрыхәаԥш <icon></icon>
 
 ## Get involved section
 

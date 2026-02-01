@@ -141,6 +141,7 @@ tags-table-header-1 = Адырга
 tags-table-header-2 = Аҵакы
 tags-laugh = Ачча
 tags-disfluency = Аилҟьамзаара
+tags-unclear = Аилататара
 tags-laugh-explanation = Аччабыжь
 transcribe-the-audio-subheader-4-explanation-1-example = Иара ихьӡ<underline>Џьо-Џьон-</underline>Џьонатан.
 transcribe-the-audio-subheader-4-explanation-2-example = Нас сара сцеит <underline>ашь- ашь-</underline> ашьҭаларҭахь
@@ -151,7 +152,9 @@ review-the-transcription = Атранскрипциа арецензиа азу�
 
 ## Code-Switching
 
+adding-a-question = Азҵаара ацҵара
 code-switching-avoid-intro = Азҵаарақәа зылшо:
+code-switching-dont-header = Мап
 # Reviewing a Question
 code-switching-review-subheader = Азҵаара агәаҭара
 code-switching-review-criterion-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
@@ -166,6 +169,7 @@ code-switching-pronunciation-explanation-example-2 = Аиспан: /ˈkable/
 code-switching-lookalikes-header = Еиԥшу ажәақәа рҿы шәгәышәҽаныз
 code-switching-not-tag-proper-names-example-1 = Ауаа:  Мариа, Џон
 code-switching-not-tag-proper-names-example-2 = Аҭыԥқәа: Лос-Анџьелес, Флорида
+code-switching-not-tag-proper-names-example-3 = Абрендқәа/Ахеидкылақәа:  Target, Burger King
 code-switching-not-tag-interjections-example-1 = «Е»
 code-switching-not-tag-interjections-example-2 = «Мап»
 code-switching-not-tag-interjections-example-3 = «Иеа»
