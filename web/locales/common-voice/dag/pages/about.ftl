@@ -23,7 +23,8 @@ about-subscribe-text = n bɔri mi ni n kuli zani n tuhi common voice
 about-speak = Yɛlima
 about-speak-text = Totɔhiriba yaari la kukɔya bini pun tɔhi yeltɔɣ' sheŋa puuni.
 about-listen-queue = wumbu foli
-about-listen = wumima
+about-listen-queue-text = Kukoya tɔhibu kpɛla zaŋtahi fɔli la ni n mali li shili guli wumbu.
+about-listen = wumma
 about-yes-votes = Ban' pii iin
 about-no-votes = Bam pii aayi
 about-dataset-new = Common Voice tɔhibunima
@@ -47,8 +48,9 @@ about-playbook-what-is-language-content-2 = Ti bɔri ni yɛltɔɣa tabiibi maʒi
 ## How do I add a language
 
 about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
-about-playbook-how-add-language-translating-content-1 = Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm
-about-playbook-how-add-language-collecting-sentences-heading = yɛltɔɣa deebu
+about-playbook-how-add-language-translating-content-1 = <translateVideoLink>Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm.</translateVideoLink>
+about-playbook-how-add-language-collecting-sentences-heading = Yɛltɔɣa Laɣimbu
+about-playbook-how-add-language-collecting-sentences-content-1 = <sentenceCollectorVideo>Lihimi ti sinii din wuhiri a ni yɛn zaŋ Yɛltɔɣa Laɣimbu n ku bukaata shɛm</sentenceCollectorVideo>
 
 ## How does localization work
 
