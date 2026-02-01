@@ -57,3 +57,33 @@ answer-questions-subheader = ការណែនាំទូទៅ
 transcribe-the-audio-subheader-1 = ការណែនាំទូទៅ
 transcribe-the-audio-subheader-3 = ស្លាកពិសេស
 tags-table-header-1 = ស្លាក
+tags-table-header-2 = អត្ថន័យ
+tags-laugh = សើច
+tags-disfluency = ភាពមិនច្បាស់លាស់
+tags-unclear = មិនច្បាស់លាស់
+tags-noise = សំឡេងរំខាន
+
+## Review the Transcription
+
+review-the-transcription-subheader = ការណែនាំទូទៅ
+
+## Code-Switching
+
+adding-a-question = ការបន្ថែមសំណួរ
+# What to Avoid
+code-switching-avoid-subheader = អ្វីដែលត្រូវជៀសវាង
+code-switching-avoid-intro = សំណួរដែលអាចមាន៖
+code-switching-dont-header = កុំ
+# Answering a Question
+code-switching-answer-subheader = ការឆ្លើយសំណួរ
+# Tagging
+code-switching-tagging-subheader = ការដាក់ស្លាក
+code-switching-pronunciation-explanation-example-1 = អង់គ្លេស៖ /ˈkeɪ.bəl/
+code-switching-pronunciation-explanation-example-2 = អេស្ប៉ាញ៖ /ˈkable/
+code-switching-not-tag-interjections-example-2 = “ទេ”
+code-switching-not-tag-interjections-example-4 = “អ័រ”
+
+## Reporting Content
+
+reporting-content = រាយការណ៍មាតិកា
+reporting-content-subheader = ការណែនាំទូទៅ

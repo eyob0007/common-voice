@@ -1,5 +1,9 @@
 ## ProfileForm
 
+settings = ការ​កំណត់
+edit-profile = កែសម្រួលប្រវត្តិរូប
+profile-create-success = ជោគជ័យ! ប្រវត្តិរូបត្រូវបានបង្កើតរួចរាល់
+profile-close = បិទ
 accept-privacy-title = គោលការណ៍ឯកជនភាព
 login = ចូល
 edit = កែសម្រួល​​
