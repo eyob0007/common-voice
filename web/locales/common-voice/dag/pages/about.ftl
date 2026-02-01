@@ -68,6 +68,7 @@ about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni d
 ## How to add sentences
 
 about-playbook-how-add-sentences = wula ka n yɛn tooi m-pahi yɛltɔɣa?
+about-playbook-how-add-sentences-content-1 = A ni tooi pahi yɛltɔɣa sabbu yaɣili maa bee ka a labilihi yɛltɔɣa labilihi yaɣili maa
 about-playbook-how-add-sentences-content-3 = A ni tooi zaŋ <scraperLink>din yihira yɛltɔɣa na</scraperLink> n-naabigi yɛltɔɣ' ŋahi din yi Wikipedia zuɣu na.
 
 ## How to record quality
