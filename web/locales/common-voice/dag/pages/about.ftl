@@ -23,8 +23,9 @@ about-yes-votes = Ban' pii iin
 about-no-votes = Bam pii aayi
 about-dataset-new = Common Voice tɔhibunima
 about-get-involved = Timmi nuu
+about-get-involved-text-2 = A Bɔrimi ni a niŋ Common Voice viɛnyɛlinga?
 about-stay-in-touch = Wula ka n mini ya pɔha yɛn yooi taba?
-about-stay-in-touch-button = Sabimi a yuli
+about-stay-in-touch-button = Wuhimi a maŋa
 about-nav-why-common-voice = Bɔzuɣu?
 about-nav-how-it-works = Wula?
 about-nav-partners = Taba
@@ -50,6 +51,7 @@ about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni d
 ## How to add sentences
 
 about-playbook-how-add-sentences = wula ka n yɛn tooi m-pahi yɛltɔɣa?
+about-playbook-how-add-sentences-content-3 = A ni tooi zaŋ <scraperLink>din yihira yɛltɔɣa na</scraperLink> n-naabigi yɛltɔɣ' ŋahi din yi Wikipedia zuɣu na.
 
 ## How to record quality
 
