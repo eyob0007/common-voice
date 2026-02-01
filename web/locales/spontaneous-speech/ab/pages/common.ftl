@@ -7,6 +7,7 @@ action-tap = Ақәыӷәӷәара
 # Label for language switcher
 platform-language = Аплатформа абызшәа:
 platform-language-tooltip-text = Авеб-саит атекст мацароуп иаԥсахуа.
+coming-soon = Лассы еиҳа еиҳаны абызшәақәа ацаҳҵоит
 # Toast message that is displayed when an item is skipped
 skipped = Ибжьажьуп
 audioplayer-header = Азыӡырҩра
@@ -23,10 +24,13 @@ respond-to-prompt-mobile = Аҭак
 transcribe = Атранскрипциа азура
 check-transcriptions = Атранскрипциақәа ргәаҭара
 check-transcriptions-mobile = Агәаҭара
+tag = Адыргақәа
 
 ## Not Found Page
 
 not-found-page-header = Иԥшаам
+# Locales-Variants
+ms-MY = Абахаса Малаи
 
 ## Language search component
 

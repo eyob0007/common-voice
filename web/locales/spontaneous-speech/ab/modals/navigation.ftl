@@ -6,6 +6,7 @@ respond = Аҭак аҟаҵара
 check = Агәаҭара
 # Link to the Transcribe page in the navigation modal for mobile users
 transcribe = Атранскрипциа азура
+loading = Аҭагалара…
 login-signup = Аҭалара/Аҽҭагалара
 login = Аҭалара
 logout = Аҭыҵра
