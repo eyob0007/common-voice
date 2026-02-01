@@ -1,4 +1,4 @@
-speak = Yɛlima
+speak = Yɛlima/speak
 speak-now = Yɛlimi pumpɔŋɔ
 speak-subtitle = Tohimi a kukɔli
 record-cta = Pilimi yaabu
