@@ -6,7 +6,8 @@ how-does-it-work-title-v2 = Wula ka "Common Voice" tumda?
 ## How does it work section
 
 about-language-req-subtitle = so bɔhimi ni o nya zuliya bali shɛli m-pahi
-about-sentence-collection-title = bo n lee nyɛ zuliya balli common voice zuɣu
+about-localization-subtitle = Wɛbsiɛti satarili maa nyɛla din lɛbigi bali shɛli dabam
+about-sentence-collection-title = Yeltɔɣili deebu
 about-sentence-collection-subtitle = Yɛltɔɣa deei mi ni niriba karim ka di yi polo
 about-new-lang-title = Zuliya Balli Yuli Tibu
 about-voice-contrib-title = Kukoli tohibu
