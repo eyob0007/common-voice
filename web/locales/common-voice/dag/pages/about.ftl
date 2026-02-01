@@ -33,6 +33,7 @@ about-nav-playbook = Bɔhimmi a ni yɛn niŋ shɛm m-pahi
 ## What is a language
 
 about-playbook-what-is-language = Bo n lee nyɛ balli Common Voice zuɣu?
+about-playbook-what-is-language-content-2 = Ti bɔri ni yɛlitɔɣa tabiibi ma
 
 ## How do I add a language
 
