@@ -499,3 +499,4 @@ dataset-searchbox-label = Аарԥшрақәеи адыррақәа реизге
 dataset-searchbox-placeholder = Абызшәа аԥшаара...
 dataset-searchbox-aria-label = Абызшәа аԥшаара
 dataset-search-no-results = Иақәнаго абызшәа ԥшаам
+request-new-language = Абызшәа ҿыц аҳәара
