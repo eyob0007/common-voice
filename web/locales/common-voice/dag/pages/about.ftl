@@ -51,6 +51,10 @@ about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
 about-playbook-how-add-language-translating-content-1 = <translateVideoLink>Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm.</translateVideoLink>
 about-playbook-how-add-language-collecting-sentences-heading = Yɛltɔɣa Laɣimbu
 about-playbook-how-add-language-collecting-sentences-content-1 = <sentenceCollectorVideo>Lihimi ti sinii din wuhiri a ni yɛn zaŋ Yɛltɔɣa Laɣimbu n ku bukaata shɛm</sentenceCollectorVideo>
+about-playbook-how-add-language-collecting-sentences-content-2 =
+    A ni tooi <sentenceCollectorLinkAdd>pahi yɛltɔɣa din kalinli bi galisi</sentenceCollectorLinkAdd>,
+    bee ka a zaŋ <bulkImportDocsLink> Github n kpɛhili pam jilli</bulkImportDocsLink>.
+    Teema ka dam yɛltɔɣa tu mi ni di <licenseLink>CC0 (bee public domain)</licenseLink>, bee ka a sabi amaŋmaŋ dini.
 
 ## How does localization work
 
