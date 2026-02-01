@@ -8,6 +8,7 @@ how-does-it-work-text = Ti laɣindila salo kukoya. Tɔhimi a kukoli, dihimi niri
 ## How does it work section
 
 about-language-req-subtitle = so bɔhimi ni o nya zuliya bali shɛli m-pahi
+about-localization-title = Wɛbsiɛti lunzahim niŋbu
 about-localization-subtitle = Wɛbsiɛti satarili maa nyɛla din lɛbigi bali shɛli dabam
 about-sentence-collection-title = Yeltɔɣili deebu
 about-sentence-collection-subtitle = Yɛltɔɣa nyɛla din deegi ni niriba karim ka di yi polo
@@ -96,6 +97,7 @@ about-playbook-how-access-dataset = Wula ka n yɛn niŋ nya ka zaŋ dataset tum 
 about-playbook-how-project-governance = Wula ka tuma shaawariti lee gbaara?
 about-playbook-how-project-governance-content-1 = Mozila Common Voice nyɛla naba zani ka di nyɛla mabiligu ban nyɛ tumtumdiba, zauliya yɛltɔɣa baŋdiba, lahabaya baŋdiba, karim' baŋdiba, ni tabibi kpatuɣa baŋdiba ban yi andunia yili zaa na. Mozila Foundation nima kpaŋmaŋa ni ka tuma ŋɔ be,.
 about-playbook-how-project-governance-content-4 = Mabilugu dundɔŋ laɣim tum mini shaawara gbaabu
+about-playbook-how-project-governance-content-6 = Tab'vihibu
 
 ## How is Common Voice funded
 

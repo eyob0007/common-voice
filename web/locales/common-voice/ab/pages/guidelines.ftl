@@ -119,7 +119,9 @@ spelling-and-pronunciation-explanation = Ииашоу аорфографиеи �
 length = Аура
 length-avoid-explanation = 15 секунд рыла зҭак аҟаҵара уадаҩхо азҵаарақәа (аклип иреиҳаӡоу аура)
 process-steps = Апроцесс / Ашьаҿақәа
+offensive-content-sensitive-information = Ихьымӡӷыргаго аҵакы ма имаӡоу аинформациа
 example-questions-subheader = Азҵаарақәа рҿырԥштәқәа
+example-questions-explanation-1 = Шәара ишәылшоит <examplePromptsLink>120 азҵаарақәа рҿырԥштәқәа ари атаблицаҿы шәыԥшаарц.</examplePromptsLink>
 
 ## Spontaneous Speech sidebar content
 
