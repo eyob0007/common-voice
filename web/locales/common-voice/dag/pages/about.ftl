@@ -45,6 +45,10 @@ about-playbook-what-is-language-content-2 = Ti bɔri ni yɛltɔɣa tabiibi maʒi
 ## How do I add a language
 
 about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
+about-playbook-how-add-language-content-1 =
+    Tuuli, vihi nyɛ nyaa a zuliya balli <languageLink>pun beni</languageLink>.
+    Di yi kani, a ni tooi <languageRequestLink>bohi zaŋ pka a zuliya balli pahibu polo</languageRequestLink>.
+    Di malila Yaɣ' ayi. Translating the site, mini yɛltɔɣa laɣimbu.
 about-playbook-how-add-language-collecting-sentences-heading = yɛltɔɣa deebu
 
 ## How does localization work
