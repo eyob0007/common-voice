@@ -130,13 +130,17 @@ answer-questions = Азҵаарақәа рҭак аҟаҵара
 # Transcribe the Audio
 transcribe-the-audio = Аудио атранскрипциа азура
 transcribe-the-audio-subheader-2 = Ахыԥхьаӡарақәеи акронимқәеи
+transcribe-the-audio-subheader-5 = Аграмматикатә гхақәеи ацәажәаратә жәаҳәахьақәеи
 # text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
 transcribe-the-audio-subheader-2-example-2-correct = <correct>Ииашоуп</корректно>: Ҳаибабоит <underline> ҩ-нызқьи жәохә </underline> шықәса рзы
 # text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
 transcribe-the-audio-subheader-2-example-2-wrong = <wrong>Ииашаӡам</wrong>: Ҳаибабоит <underline>2015</underline> шықәса рзы
 transcribe-the-audio-subheader-2-example-3-correct = <корректно>Ииашоуп</корректно>: Ҩажәа процент агырхан
 transcribe-the-audio-subheader-2-example-3-wrong = <wrong>Ииашаӡам</wrong>: 20% агырхан
+tags-table-header-1 = Адырга
+tags-table-header-2 = Аҵакы
 tags-laugh = Ачча
+tags-disfluency = Аилҟьамзаара
 tags-laugh-explanation = Аччабыжь
 transcribe-the-audio-subheader-4-explanation-1-example = Иара ихьӡ<underline>Џьо-Џьон-</underline>Џьонатан.
 transcribe-the-audio-subheader-4-explanation-2-example = Нас сара сцеит <underline>ашь- ашь-</underline> ашьҭаларҭахь

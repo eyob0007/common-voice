@@ -62,6 +62,7 @@ about-playbook-how-add-language-collecting-sentences-content-2 =
 
 ## How does localization work
 
+about-playbook-how-localize = Wula ka luɣili bayana niŋbu tumda
 about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni di tooi sɔŋ
 
 ## How to add sentences
