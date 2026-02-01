@@ -11,6 +11,9 @@ tag-page-shortcut-toogle-mouse-keyboard = 0
 tag-page-shortcut-tag-undo = Ctrl / CMD + Z
 undo = Аԥыхра
 tag-page-shortcut-select-all = А
+# Messages
+tag-success-toast-message = Адыргақәа қәҿиарала идәықәҵоуп
+tag-error-toast-message = Адыргақәа рынашьҭраан агха
 # Code switching Guidelines
 cs-tag-do-guideline-1 = Ииашоу аорфографиа шәхы иашәырхәа
 cs-tag-shortcuts-guideline-2 = <key>{ tag-page-shortcut-toogle-mouse-keyboard }</key>{ toogle-mouse-keyboard }{ toogle-mouse-keyboard }
