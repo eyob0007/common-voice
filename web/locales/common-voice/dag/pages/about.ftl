@@ -65,6 +65,7 @@ about-playbook-how-record-content-3 = zaŋmi a haŋkali n niŋ yɛltɔɣa maa ka
 about-playbook-how-grow-language = wula ka ti yɛn n niŋ ka ti zuliya balli tooi zooi common voice puuni?
 about-playbook-how-grow-language-content-2 = laɣinsi
 about-playbook-how-grow-language-content-4 = pɔhim zuɣu
+about-playbook-how-grow-language-content-6 = kpalanzuya gbunibu mini zuliya balli zoobu
 
 ## How to validate
 
