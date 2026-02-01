@@ -58,6 +58,8 @@ about-playbook-how-add-sentences-content-3 = A ni tooi zaŋ <scraperLink>din yih
 
 ## How to record quality
 
+about-playbook-how-record-quality = wula ka n ni tooi yaai kukɔ'viɛlli
+about-playbook-how-record-content-2 = Di che ka a ni be shɛli maa mali vuri. Di tu ni a yɛltɔɣa maa wumbu bi to.
 about-playbook-how-record-content-3 = zaŋmi a haŋkali n niŋ yɛltɔɣa maa karimbu ni, di che, di taɣi bee di pahi bachi nima
 
 ## How to grow language
