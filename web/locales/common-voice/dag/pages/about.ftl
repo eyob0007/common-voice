@@ -21,6 +21,8 @@ about-dataset-release-title = Dataset yihibuna
 about-dataset-release-subtitle = Ti yihirila dataset maa na chira ata kam
 about-subscribe-text = n bɔri mi ni n kuli zani n tuhi common voice
 about-speak = Yɛlima
+about-speak-text = Totɔhiriba yaari la kukɔya bini pun tɔhi yeltɔɣ' sheŋa puuni.
+about-listen-queue = wumbu foli
 about-listen = wumima
 about-yes-votes = Ban' pii iin
 about-no-votes = Bam pii aayi
@@ -45,6 +47,7 @@ about-playbook-what-is-language-content-2 = Ti bɔri ni yɛltɔɣa tabiibi maʒi
 ## How do I add a language
 
 about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
+about-playbook-how-add-language-translating-content-1 = Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm
 about-playbook-how-add-language-collecting-sentences-heading = yɛltɔɣa deebu
 
 ## How does localization work
