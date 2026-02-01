@@ -24,9 +24,15 @@ about-stay-in-touch = Wula ka n mini ya pɔha yɛn yooi taba?
 about-stay-in-touch-button = Sabimi a yuli
 about-nav-why-common-voice = Bɔzuɣu?
 about-nav-how-it-works = Wula?
-about-nav-get-involved = Timmi nuuzaŋmi a nuu niŋ
+about-nav-partners = Taba
+about-nav-get-involved = Timmi nuu
 about-nav-how-it-works-2 = Wula ka Common Voice tuumda?
 about-nav-playbook = Bɔhimmi a ni yɛn niŋ shɛm m-pahi
+
+## Community Playbook Content
+## What is a language
+
+about-playbook-what-is-language = Bo n lee nyɛ balli Common Voice zuɣu?
 
 ## How do I add a language
 
