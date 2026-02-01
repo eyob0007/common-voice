@@ -16,7 +16,7 @@ about-new-lang-subtitle = Ti pili la Common Voice biɛhigushɛɛ balli ŋɔ ni.
 about-voice-contrib-title = Kukoli tohibu
 about-voice-contrib-subtitle = niriba kamina n ti tɔhi bɛ kukɔya
 about-voice-validation-title = Kukoli Saɣiti
-about-voice-validation-subtitle = Nivuɣ' shɛba ban dihitabili  lala kukoya  yaabu
+about-voice-validation-subtitle = Nivuɣ' shɛba dabam saɣimi ti  lala kukoya yaabu maa.
 about-dataset-release-title = Dataset yihibuna
 about-dataset-release-subtitle = Ti yihirila dataset maa na chira ata kam
 about-subscribe-text = n bɔri mi ni n kuli zani n tuhi common voice
@@ -45,10 +45,6 @@ about-playbook-what-is-language-content-2 = Ti bɔri ni yɛltɔɣa tabiibi maʒi
 ## How do I add a language
 
 about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
-about-playbook-how-add-language-content-1 =
-    Tuuli, vihi nyɛ nyaa a zuliya balli <languageLink>pun beni</languageLink>.
-    Di yi kani, a ni tooi <languageRequestLink>bohi zaŋ pka a zuliya balli pahibu polo</languageRequestLink>.
-    Di malila Yaɣ' ayi. Translating the site, mini yɛltɔɣa laɣimbu.
 about-playbook-how-add-language-collecting-sentences-heading = yɛltɔɣa deebu
 
 ## How does localization work
