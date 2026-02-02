@@ -75,3 +75,4 @@ answer-questions-menu-item-tooltip = Шәбызшәала азҵаарақәеи
 ## MENU ITEM ARIA LABELS
 
 speak-contribute-menu-aria-label = Абжьы ахаҵара архиарақәа рыхкынҵа
+read-sentences-menu-item-aria-label = Аилазаара ишәыднагало еиуеиԥшым абызшәақәа рыла иҟоу аҳәоуқәа шәрыԥхьала
