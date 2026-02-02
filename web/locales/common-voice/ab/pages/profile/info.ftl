@@ -73,6 +73,7 @@ variant-contribution-warning-subtitle = Алагала аҟаҵараҿы ауа
 api-credentials-use-case-1 = Аудионҵамҭақәа рынашьҭра
 api-credentials-use-case-2 = Адыррақәа реизгақәа раиура
 save-api-key-info = <bold>Ишәарҭамкәа шәцаԥхақәа еиқәшәырха</bold>
+api-client-id-display-label = API аклиент иидентификатор
 api-key-modal-confirmation-header = Агәра ганы шәыҟоума?
 copy-api-credential-success-toast-message = Қәҿиарала ихкьыԥхьаауп
 copy-api-credential-error-toast-message = Ахкьыԥхьаара агха

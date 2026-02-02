@@ -1,5 +1,7 @@
 ## Tagging Page
 
+tag-popover-title = Адырга алхра
+select-a-tag = Адырга алхра
 # Shortcuts modal
 tag-page-shortcut-tag-language-1 = 1
 tag-page-shortcut-tag-language-2 = 2
