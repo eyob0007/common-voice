@@ -118,9 +118,11 @@ what-makes-a-good-question-subheader = Азҵаара бзиа изеиԥшра�
 what-makes-a-good-question-explanation = Иаарту адыррақәа реизгазы азҵаара бзиа ахәҭоуп:
 what-makes-a-good-question-explanation-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
 easy-to-understand = Аилкаара мариоуп
+easy-to-understand-explanation = Акультуреи аконтексти иахьмырԥшыкәа, дарбанзаалак еиликааша имариоу азҵаарақәа алышәхла.
 spelling-and-pronunciation = Аорфографиеи апунктуациеи
 spelling-and-pronunciation-explanation = Ииашоу аорфографиеи аграмматикеи  шәхы иашәырхәа.
 length = Аура
+dont-add-subheader = Иацҵатәым
 length-avoid-explanation = 15 секунд рыла зҭак аҟаҵара уадаҩхо азҵаарақәа (аклип иреиҳаӡоу аура)
 process-steps = Апроцесс / Ашьаҿақәа
 offensive-content-sensitive-information = Ихьымӡӷыргаго аҵакы ма имаӡоу аинформациа
@@ -131,9 +133,11 @@ example-questions-explanation-1 = Шәара ишәылшоит <examplePromptsL
 
 # Answer Questions
 answer-questions = Азҵаарақәа рҭак аҟаҵара
+answer-questions-tip-2 = Аинтернет бзиа ахьыҟоу аҭыԥ алышәх
 # Transcribe the Audio
 transcribe-the-audio = Аудио атранскрипциа азура
 transcribe-the-audio-subheader-2 = Ахыԥхьаӡарақәеи акронимқәеи
+transcribe-the-audio-subheader-3 = Иҷыдоу адыргақәа
 transcribe-the-audio-subheader-5 = Аграмматикатә гхақәеи ацәажәаратә жәаҳәахьақәеи
 # text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
 transcribe-the-audio-subheader-2-example-2-correct = <correct>Ииашоуп</корректно>: Ҳаибабоит <underline> ҩ-нызқьи жәохә </underline> шықәса рзы
@@ -157,6 +161,7 @@ review-the-transcription = Атранскрипциа арецензиа азу�
 ## Code-Switching
 
 adding-a-question = Азҵаара ацҵара
+code-switching-adding-question-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
 code-switching-avoid-intro = Азҵаарақәа зылшо:
 code-switching-dont-header = Мап
 # Reviewing a Question
@@ -169,6 +174,7 @@ code-switching-transcribe-subheader = Атранскрибациа
 code-switching-tagging-error-2 = Агхақәа
 code-switching-pronunciation-explanation-example-1 = Англыз: /ˈkeɪ.bəl/
 code-switching-pronunciation-explanation-example-2 = Аиспан: /ˈkable/
+code-switching-punctuation-tagging-explanation-example-2 = <purple>аха<</purple><blue>tú los puedes comprar rojo, negro, azul</blue>, <purple>иарбанзаалак азы.</purple>(BangorTank)
 # Be Careful with Lookalikes
 code-switching-lookalikes-header = Еиԥшу ажәақәа рҿы шәгәышәҽаныз
 code-switching-not-tag-proper-names-example-1 = Ауаа:  Мариа, Џон

@@ -132,6 +132,7 @@ validate-readings-link = Аԥхьашьа агәаҭара
 answer-questions-link = Азҵаарақәа рҭак аҟаҵара
 transcribe-answers-link = Аҭакқәа атранскрипциа рзура
 review-transcriptions-link = Атранскрипциақәа ргәаҭара
+contribute-text-link = Атекст адгалара
 press-and-stories-link = Апрессеи астатиақәеи
 
 ## Partner section
