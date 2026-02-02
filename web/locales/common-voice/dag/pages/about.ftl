@@ -88,10 +88,12 @@ about-playbook-how-grow-language = wula ka ti yɛn n niŋ ka ti zuliya balli too
 about-playbook-how-grow-language-content-2 = laɣinsi
 about-playbook-how-grow-language-content-4 = pɔhim zuɣu
 about-playbook-how-grow-language-content-6 = kpalanzuya gbunibu mini zuliya balli zoobu
+about-playbook-how-grow-language-content-8 = <strong>pilima!</strong>a zuliya balli yɛn bela di ko,ŋɔ maa mi kuli nyɛla so' shɛŋa a ni yɛn zaŋ pili.
 
 ## How to validate
 
 about-playbook-how-validate = wula ka n yɛn n niŋ m- baŋ ni n saɣiti kukɔli kliipu?
+about-playbook-how-validate-content-1 = Ayi ni tooi<strong>n wum bɛ yɛligu</strong> ka<strong>baŋ di gbunni</strong>, fi zooya<strong>pam ka a daɣi</strong>.
 about-playbook-how-validate-content-4 = Niriba ayi yi zaɣisi anfooni ŋmaa, di yirimi labi dataset yaɣ' shɛli polo.
 
 ## How to access dataset
@@ -104,6 +106,7 @@ about-playbook-how-project-governance = Wula ka tuma shaawariti lee gbaara?
 about-playbook-how-project-governance-content-1 = Mozila Common Voice nyɛla naba zani ka di nyɛla mabiligu ban nyɛ tumtumdiba, zauliya yɛltɔɣa baŋdiba, lahabaya baŋdiba, karim' baŋdiba, ni tabibi kpatuɣa baŋdiba ban yi andunia yili zaa na. Mozila Foundation nima kpaŋmaŋa ni ka tuma ŋɔ be,.
 about-playbook-how-project-governance-content-4 = Mabilugu dundɔŋ laɣim tum mini shaawara gbaabu
 about-playbook-how-project-governance-content-6 = Tab'vihibu
+about-playbook-how-project-governance-content-7 = <governanceLink>Karimmi pam zaŋ kpa ti gbubbu</governanceLink>
 
 ## How is Common Voice funded
 
