@@ -44,6 +44,7 @@ bn = Bengali
 bnn = Bunun
 brh = Brahui
 brx = Bodo
+bs = Bosnia tiŋ'bia
 bsh = Kateviri
 bsk = Brushaski
 bum = Bulu
@@ -141,6 +142,7 @@ ka = Georgian
 kaa = Karakalpak
 kab = Kabyle
 kbd = Kabardian
+ko = Koria tiŋ'bia
 tw = Kambonsili
 
 # [/]
