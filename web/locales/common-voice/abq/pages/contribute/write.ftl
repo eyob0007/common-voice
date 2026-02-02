@@ -151,7 +151,7 @@ add-sentences = Ажванахъаква тажвгӀвы
 write-contribute-menu-tooltip = Ажванахъаква ацшвцIала йгьи швырпшыхла, азцIгIараква ацшвцIала, абыжьква гIвырала йгIашвырбала
 add-sentences-menu-item-tooltip = Ажванахъаква тажвгӀвы
 review-sentences-menu-item-tooltip = Ажванахъаква йалакIыта рыквчважвара
-add-questions-menu-item-tooltip = Ажванахъаква тажвгӀвы
+add-questions-menu-item-tooltip = АзцӀгӀараква тажвгӀвы
 review-questions-menu-item-tooltip = Архъвыхга азцIгIараква
 transcribe-audio-menu-item-tooltip = Абыжьква гIвырала йгIарбара
 
