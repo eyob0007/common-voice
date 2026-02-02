@@ -36,3 +36,12 @@ cs-tag-dataset-name = សំណុំទិន្នន័យ [{ $datasetName }]
 ## Guidelines
 
 learn-how-to-use = ស្វែងយល់ពីរបៀបប្រើប្រាស់ទំព័រនេះ
+read-full-guidelines-here = <guidanceLink>សូមអានគោលការណ៍ណែនាំពេញលេញនៅទីនេះ</guidanceLink>
+
+## Answer Page Guidelines
+
+cs-learn-how-to-use-answer-explanation = ឆ្លើយតបទៅនឹងសំណួរដោយធម្មជាតិតាមដែលអាចធ្វើបាន។ អ្នកអាចប្ដូរលេខកូដរវាងភាសាផ្សេងៗបាន ប្រសិនបើវាមានអារម្មណ៍ថាធម្មជាតិ។ ត្រូវប្រាកដថាភាសារបស់អ្នកមានការគោរព និងមិនបង្កគ្រោះថ្នាក់។
+
+## Review Page Guidelines
+
+cs-learn-how-to-use-check-transcript-explanation = ការចម្លងអត្ថបទគួរតែចាប់យករាល់ពាក្យ ឬសំឡេងសន្ទនាដែលមិនមែនជាវាក្យសព្ទ ដែលបុគ្គលនោះនិយាយ រួមទាំងពាក្យដដែលៗផង។
