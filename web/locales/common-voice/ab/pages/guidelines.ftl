@@ -114,6 +114,9 @@ adding-questions = Азҵаарақәа рыцҵара
 
 ## Question collection sidebar content
 
+what-makes-a-good-question-subheader = Азҵаара бзиа изеиԥшразар ахәҭои?
+what-makes-a-good-question-explanation = Иаарту адыррақәа реизгазы азҵаара бзиа ахәҭоуп:
+what-makes-a-good-question-explanation-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
 easy-to-understand = Аилкаара мариоуп
 spelling-and-pronunciation = Аорфографиеи апунктуациеи
 spelling-and-pronunciation-explanation = Ииашоу аорфографиеи аграмматикеи  шәхы иашәырхәа.
