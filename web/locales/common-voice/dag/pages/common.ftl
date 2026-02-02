@@ -92,7 +92,7 @@ ewo = Ewondo
 fa = Persian
 fan = Fang
 ff = Fulah
-fi = Finnish
+fi = Naaibu
 fmp = Feʼefeʼe
 fo = Faroese
 fr = French
@@ -143,11 +143,22 @@ kaa = Karakalpak
 kab = Kabyle
 kbd = Kabardian
 ko = Koria tiŋ'bia
+mbo = Mbo
+mos = Mossi
+nso = Northern Sotho
 tw = Kambonsili
+uk = Ukrain nira
+vot = Votic
 
 # [/]
 
 
 ## Layout
 
+share-title = kpemi na ti dundɔŋ maa ni
+link-copied = Linki maa koopiya
+back-top = n labi zuɣusaa
 stayintouch = Tinima ban be Mozlila mɛrila laɣingu din jɛndi kukɔli tabibi. Ti nibɔri ni ti mali tibili zaŋ chaŋ lahabaya din kɔɣiri ka bihira polo , data pala yibu sheena ka ni lahi bɔri ni wumdi lahabaya din jɛndi yi ni mali data ŋɔ tumdi tuma shɛm.
+return-to-cv = Labimi common voice
+email-input =
+    .label = yimeel
