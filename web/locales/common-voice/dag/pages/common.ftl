@@ -339,6 +339,8 @@ zza = Zaza
 ## Layout
 
 profile = Profile
+help = sɔŋsim
+contact = bɔbu soli
 cookies = kookies
 faq = FAQ
 share-title = kpemi na ti dundɔŋ maa ni
