@@ -60,3 +60,11 @@ already-have-an-account = A pun m-mali akawunti? <login>Kpɛma</login>
 create-profile-button = Nammi purofaali
 # IMAGE TAGS
 img-alt-success-checkmark = Nasara dibo dalinli
+# menu item
+read-sentences = Karimmi yɛltɔɣili
+# text wrapped in <small></small> will be shown in a smaller font size
+read-sentences-coming-soon = Karimmi yɛltɔɣili<small>(din na yirina)</small>
+
+## MENU ITEM TOOLTIPS
+
+speak-contribute-menu-tooltip = Karimmi yɛltɔɣili,labisimi bɔhisi

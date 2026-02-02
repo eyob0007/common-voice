@@ -10,6 +10,7 @@ citation =
     .label = Dini yi shɛli na
 sc-write-submit-confirm = N dihi tabili ni yɛltɔɣili ŋɔ <wikipediaLink> nyɛla din ka ŋun su li </wikipediaLink> ka mali soli ni n zaŋ li pahi
 sc-review-write-title = Yɛltɔɣ' dininima ka n ni tooi pahi?
+sc-review-small-batch-title = A ni yɛn pahi yɛltɔɣa bɔbigu shɛm
 new-sentence-rule-1 = <noCopyright> Di ka sulinsi </noCopyright> Gaɣibu(<cc0>cc-0</cc0>)
 new-sentence-rule-2 = Yɛltɔɣili din bachinima bi paai pia ni anu
 new-sentence-rule-3 = Zaŋmi yɛltɔɣa biɛhigu din tuhi n-tum tuma
@@ -87,3 +88,14 @@ file-invalid-type = Di bi saɣi n-ti gbaŋ ŋɔ
 file-too-large = Gbaŋ maa bara pam
 file-too-small = Gbaŋ maa pɔri pam
 too-many-files = Gbana pam
+
+## SMALL BATCH SUBMISSION
+
+small-batch-sentences-rule-4 = Zaŋ pahi yɛltɔɣa tuhili zuɣu
+
+## MENU ITEM TOOLTIPS
+
+add-sentences-menu-item-tooltip = pahimi yɛltɔɣili
+review-sentences-menu-item-tooltip = labi n lihi yɛltɔɣili
+add-questions-menu-item-tooltip = Pahimi bɔhisi
+review-questions-menu-item-tooltip = Labi n lihi bɔhisi
