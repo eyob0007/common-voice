@@ -35,7 +35,7 @@ vote-yes = щта
 vote-no = мамо
 datasets = адырратара
 languages = абызшваква
-about = йгlазквчважвауа
+about = йгӀазквчважвауа
 partner = пщылагlв
 submit-form-action = аущтра
 
