@@ -26,6 +26,7 @@ about-speak-text = Totɔhiriba yaari la kukɔya bini pun tɔhi yeltɔɣ' sheŋa 
 about-listen-queue = wumbu foli
 about-listen-queue-text = Kukoya tɔhibu kpɛla zaŋtahi fɔli la ni n mali li shili guli wumbu.
 about-listen = wumma
+about-is-it-valid = clipu ŋɔ niŋ tumda?
 about-is-it-valid-text = Kukoli tɔhi sabi nyɛla din dalim "saɣiti" di yi niŋ ka
 about-yes-votes = Ban' pii iin
 about-yes-votes-text = A yi yan kpɛ Common Voice dataset puuni, shɛɛla ban gba tɔhiri niriba ayi n saɣiti a kukoli maa.
