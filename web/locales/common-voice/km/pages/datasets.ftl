@@ -91,6 +91,7 @@ data-other-title = សំណុំទិន្នន័យសំឡេងផ្�
 data-other-goto = ចូលទៅកាន់ { $name }
 data-other-download = ទាញយកទិន្នន័យ
 data-bundle-button = ទាញយកសំណុំទិន្នន័យ
+data-bundle-description = ទិន្នន័យ Common Voice បូករួមទាំងសំណុំទិន្នន័យសំឡេងទាំងអស់ផ្សេងទៀតខាងលើ។
 release-version = ជំនាន់
 dataset-date = កាលបរិច្ឆេទ
 license = អាជ្ញាប័ណ្ណ៖ <licenseLink>{ $license }</licenseLink>
