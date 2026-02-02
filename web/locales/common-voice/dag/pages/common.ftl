@@ -211,29 +211,50 @@ mug = Musgum
 mve = Marwari
 mvy = Indus Kohistani
 ncx = Central Puebla Nahuatl
+new = Newari
+nla = Ngombale
+nlv = Orizaba Nahuatl
+nmg = Kwasio
+nmz = Losso
 nso = Northern Sotho
 oru = Ormuri
 pap = Papiamento
+pau = Palauan
+pcd = Picard
+pez = Eastern Penan
 phl = Palula
 plk = Kohistani Shina
+pne = Western Penan
+prq = Asheninka Perene
+qug = Quichua Chimborazo Highland
+qur = Quechua Yanahuanca
+qus = Quechua Santiago del Estero
+qvj = Loja Highland Kichwa
 qxa = Quechua Chiquián
+qxq = Qashqai
 qxt = Quechua Pasco Santa Ana de Tusi
 qxu = Quechua Arequipa-La Unión
 qxw = Quechua Jauja Wanka
 rif = Tarifit
 rm-sursilv = Romansh Sursilvan
 rm-vallader = Romansh Vallader
+rn = Kirundi
 ro = Romanian
 ru = Russian
 ruc = Ruuli
+rup = Aromanian
 rw = Kinyarwanda
+rwm = Amba
 sah = Sakha
 sat = Santali (Ol Chiki)
+sbn = Sindhi Bhil
 sc = Sardinian
+scl = Shina
 scn = Sicilian
 sco = Scots
 sd = Sindhi
 sdh = Southern Kurdish
+sei = Seri
 shi = Tashlhiyt
 shn = Shan
 si = Sinhala
@@ -249,7 +270,9 @@ st = Southern Sotho
 sv-SE = Swedish
 sw = Swahili
 syr = Syriac
+szy = Sakizaya
 ta = Tamil
+tay = Atayal
 te = Telugu
 teg = Teke
 tg = Tajik
@@ -258,28 +281,48 @@ ti = Tigrinya
 tig = Tigre
 tk = Turkmen
 tl = Tagalog
+top = Papantla Totonac
+trv = Seediq
+trw = Torwali
 tw = Kambonsili
 ug = Uyghur
 uk = Ukrain nira
+ukv = Kuku
 ur = Urdu
+ush = Ushojo
 uz = Uzbek
+var = Huarijio
 ve = Tshivenda
 vec = Venetian
 vi = Vietnamese
 vmw = Emakhuwa
 vot = Votic
+wbl = Wakhi
 wep = Westphalian
 wes = Cameroon Pidgin
 wo = Wolof
 xh = Xhosa
+xhe = Khetrani
+xka = Kalkoti
+xmf = Mingrelian
 yi = Yiddish
 yo = Yoruba
+yue = Cantonese
+zgh = Tamazight
+zh-CN = Chinese (China)
+zh-HK = Chinese (Hong Kong)
+zh-TW = Chinese (Taiwan)
+zu = Zulu
+zza = Zaza
 
 # [/]
 
 
 ## Layout
 
+profile = Profile
+cookies = kookies
+faq = FAQ
 share-title = kpemi na ti dundɔŋ maa ni
 link-copied = Linki maa koopiya
 back-top = n labi zuɣusaa
@@ -288,6 +331,7 @@ return-to-cv = Labimi common voice
 email-input =
     .label = yimeel
 loading = di laɣinda....
+not-available-abbreviation = N/A
 # Text shown on a button that can be clicked to copy text to the clipboard
 copy = kɔɔpima
 # Text shown on a button that can be clicked to cancel an action
@@ -299,6 +343,8 @@ delete = nyahima
 
 # Text wrapped in <mark></mark> will have a white background.
 donate-banner-cta = <mark>Ti bɔri</mark><br/><mark>a sɔŋsim!</mark>
+localization-select =
+    .label = Piimi Zuliya Balli
 
 ## MDC Announcement
 
