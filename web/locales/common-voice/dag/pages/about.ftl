@@ -53,6 +53,7 @@ about-playbook-what-is-language-content-2 = Ti bɔri ni yɛltɔɣa tabiibi maʒi
 
 about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
 about-playbook-how-add-language-translating-content-1 = <translateVideoLink>Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm.</translateVideoLink>
+about-playbook-how-add-language-translating-content-2 = Ti malila Mozila kpatuɣili din yuli booni<pontoonLink>pontoon<pontoonLink>n lɛbigira.pontoon mali bala pam,a maa a dini yi bi pahi di puuni,a ni tooi <pontoonRequestLink>ka a balli maa gba pahi<\\pontoonRequestLink>di saha,a ni tooi che ka a balli maa gba niŋ bayana Common Voice Project puu ni.Suhu dee bal'palli GitHub</githubRepoLink> zuɣu.Lihi nya yaɣili ŋɔ lɛbigibu pam<localizationFragment> zuɣu.
 about-playbook-how-add-language-collecting-sentences-heading = Yɛltɔɣa Laɣimbu
 about-playbook-how-add-language-collecting-sentences-content-1 = <sentenceCollectorVideo>Lihimi ti sinii din wuhiri a ni yɛn zaŋ Yɛltɔɣa Laɣimbu n ku bukaata shɛm</sentenceCollectorVideo>
 about-playbook-how-add-language-collecting-sentences-content-2 =
