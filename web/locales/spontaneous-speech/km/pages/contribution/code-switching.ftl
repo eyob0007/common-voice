@@ -8,6 +8,16 @@ cs-error-fetching-transcriptions = មានអ្វីមួយខុសប្
 
 cs-locale-change-modal-subtitle = អ្នកមានការផ្លាស់ប្ដូរដែលមិនទាន់បានរក្សាទុកនៅលើទំព័រនេះ។ ប្រសិនបើអ្នកប្ដូរសំណុំទិន្នន័យ ការផ្លាស់ប្ដូររបស់អ្នកនឹងមិនត្រូវបានរក្សាទុកឡើយ។ តើអ្នកពិតជាចង់ប្ដូរមែនឬ?
 
+## Question Page Items
+
+cs-question-page-instruction = បន្ថែមសំណួររហូតដល់ 25 <icon></icon> ទៅក្នុងសំណុំទិន្នន័យ { $currentLocale } សម្រាប់ឱ្យមនុស្សឆ្លើយ
+cs-add-question-textarea-placeholder = សូមបញ្ចូលសំណួរដែលមានការប្ដូរលេខកូដ មួយក្នុងមួយបន្ទាត់។ មនុស្សទំនងជាឆ្លើយតបដោយការប្ដូរលេខកូដ នៅពេលដែលសំណួរក៏មានការប្ដូរលេខកូដផងដែរ។
+cs-question-dataset-name = សំណុំទិន្នន័យ៖ { $datasetName }
+
+## Validate Page Items
+
+cs-validate-page-instruction = សូមផ្ទៀងផ្ទាត់ <validateIcon></validateIcon> ថាសំណួរនេះបំពេញតាមគោលការណ៍ណែនាំ។
+
 ## Guidelines
 
 learn-how-to-use = ស្វែងយល់ពីរបៀបប្រើប្រាស់ទំព័រនេះ
