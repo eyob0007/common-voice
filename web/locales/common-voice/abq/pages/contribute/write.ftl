@@ -1,6 +1,6 @@
 ## WRITE PAGE
 
-write = Йыжвгlвы
+write = ЙыжвгӀвы
 write-instruction = Йацшвцlа <icon></icon> зымгlва йрызгlарысабапуаш ажванахъа
 write-page-subtitle = Араъа йаныргlалу ажванахъаква зымгlва йырзгlарысабапуата адатасет сс-0 апны йтазлгlуштl
 sentence =
