@@ -39,6 +39,7 @@ import { SecondPostSubmissionCTA } from './speak/secondSubmissionCTA/secondSubmi
 import Success from './success'
 
 import './contribution.css'
+import { isTyping } from '../../../utility'
 
 export const SET_COUNT = 5
 
@@ -192,6 +193,8 @@ class ContributionPage extends React.Component<ContributionPageProps, State> {
   }
 
   private handleKeyDown = (event: any) => {
+    if (isTyping()) return
+
     const { getString, isSubmitted, locale, onReset, onSubmit, type } =
       this.props
 
