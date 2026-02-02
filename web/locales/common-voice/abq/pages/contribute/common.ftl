@@ -1,8 +1,8 @@
 action-click = ацlцlра
 action-tap = аквсра
 contribute = Гlалалра
-review = Алапшра
-skip = абжьажьра
+review = Швалапш
+skip = быжьрышвтра
 shortcuts = Аквцlаласква
 clips-with-count-pluralized =
     { $count ->
