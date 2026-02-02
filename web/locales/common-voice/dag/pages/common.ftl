@@ -162,3 +162,29 @@ stayintouch = Tinima ban be Mozlila mɛrila laɣingu din jɛndi kukɔli tabibi. 
 return-to-cv = Labimi common voice
 email-input =
     .label = yimeel
+loading = di laɣinda....
+# Text shown on a button that can be clicked to copy text to the clipboard
+copy = kɔɔpima
+# Text shown on a button that can be clicked to cancel an action
+cancel = yihima
+# Text shown on a button that can be clicked to delete an item
+delete = nyahima
+
+## Donate banner
+
+# Text wrapped in <mark></mark> will have a white background.
+donate-banner-cta = <mark>Ti bɔri</mark><br/><mark>a sɔŋsim!</mark>
+
+## MDC Announcement
+
+# Aria text for button which opens MDC on a new page
+announcement-mdc-button-aria-text = yooimi shijiri palli
+
+## Common Language/Dataset Selector & SearchBox Related
+
+searchbox-default-placeholder = Vihima...
+searchbox-default-aria-label = Vihima
+# Common Voice Dataset=Language search box
+dataset-searchbox-label = Taɣimi din yina mini dataset balli
+dataset-searchbox-placeholder = Vihi bo zuliya balli...
+dataset-searchbox-aria-label = Vihi bo zuliya balli
