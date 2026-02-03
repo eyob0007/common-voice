@@ -20,3 +20,8 @@ validate-readings-coming-soon = Saɣiti karimbu nima <small>(dinna yirina)</smal
 listen-contribute-menu-tooltip = Dihitabili Karimbu,Labiyuli din sataranima
 validate-readings-menu-item-tooltip = Dihitabili ŋun mali tumdi ni puun vuli karimbu shaŋa a balli ni.
 review-transcriptions-menu-item-tooltip = Labi yuli ŋun malitumdi ni puun zaŋ satari shaŋa n ti a balli ni.
+
+## MENU ITEM ARIA LABELS
+
+listen-contribute-menu-aria-label = Wumma taɣabunima piibu gbaŋ.
+validate-readings-menu-item-aria-label = Dihitabili aya nima zaŋ karimbu n ti
