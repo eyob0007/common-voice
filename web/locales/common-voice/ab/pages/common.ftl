@@ -482,6 +482,8 @@ localization-select =
 
 ## MDC Announcement
 
+# Main text for MDC announcement. Text wrapped in <strong></strong> will be rendered with bold font
+announcement-mdc-text = <strong> Common Voice иҿыцу адыррақәа реизгақәа</strong>уажәшьҭа ихазхаҭалатәны Mozilla Data Collective ҳаиуаратә платформа ала аҭгаразы алшара ыҟоуп. Шәалал аилазаара иаԥнаҵаз, насгьы аилазааразы иаԥҵоу 300 инареиҳаны иҟоу аглобалтә дыррақәа реизгақәа шәоурц азы.
 # Button text for MDC announcement
 announcement-mdc-button-text = Mozilla Data Collective ахь алалара
 # Aria text for button which opens MDC on a new page
