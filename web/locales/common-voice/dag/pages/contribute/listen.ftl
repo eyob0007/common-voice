@@ -25,3 +25,4 @@ review-transcriptions-menu-item-tooltip = Labi yuli ŋun malitumdi ni puun zaŋ 
 
 listen-contribute-menu-aria-label = Wumma taɣabunima piibu gbaŋ.
 validate-readings-menu-item-aria-label = Dihitabili aya nima zaŋ karimbu n ti
+review-transcriptions-menu-item-aria-label = Labiyuli satari shɛŋa din yatuɣa niŋ dede n vuli doya

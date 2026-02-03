@@ -165,13 +165,19 @@ tags-table-header-2 = Аҵакы
 tags-laugh = Ачча
 tags-disfluency = Аилҟьамзаара
 tags-unclear = Аилататара
+tags-noise = Ашьҭыбжь
 tags-laugh-explanation = Аччабыжь
+# Note: do not translate any tag, like [noise] or [laugh]
+special-tags-example-2 =
+    Нас сара [ашьҭыбжь] аныҳәахь сцеит.
+    Нас, [ашьҭыбжь] [аччабжь] ныҳәаҵәҟьам [аччабжь]
 transcribe-the-audio-subheader-4-explanation-1-example = Иара ихьӡ<underline>Џьо-Џьон-</underline>Џьонатан.
 transcribe-the-audio-subheader-4-explanation-2-example = Нас сара сцеит <underline>ашь- ашь-</underline> ашьҭаларҭахь
 
 ## Review the Transcription
 
 review-the-transcription = Атранскрипциа арецензиа азура
+review-the-transcription-subheader = Азеиԥш хархәага
 
 ## Code-Switching
 
