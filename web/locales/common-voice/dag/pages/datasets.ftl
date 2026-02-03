@@ -12,5 +12,7 @@ close = Yima
 sha256-checksum-copied = SHA256 Checksum Yaaya!
 # dataset metadata - age of contributor
 dataset-metadata-age = A yuma
+data-download-yes = Iin
+data-download-deny = Aayi
 data-other-goto = Cham { $name }
 license-mixed = Gabbu

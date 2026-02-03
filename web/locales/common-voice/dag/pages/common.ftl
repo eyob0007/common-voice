@@ -451,7 +451,10 @@ announcement-mdc-button-aria-text = yooimi shijiri palli
 
 searchbox-default-placeholder = Vihima...
 searchbox-default-aria-label = Vihima
+dropdown-no-results = Di kpee kani
 # Common Voice Dataset=Language search box
 dataset-searchbox-label = Taɣimi din yina mini dataset balli
 dataset-searchbox-placeholder = Vihi bo zuliya balli...
 dataset-searchbox-aria-label = Vihi bo zuliya balli
+dataset-search-no-results = Zuliya balli maa kpee kani
+request-new-language = Suhimi zuliya bal' palli
