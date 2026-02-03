@@ -5,6 +5,7 @@ awards = Pina
 you = Nyini
 everyone = Eokam
 contribution-activity = Tɔhibu tuma
+top-contributors = Ban tooi n tɔhira Pam pam
 recorded-clips = Kukɔ' shɛŋa ŋan yaai
 validated-clips = Kukɔ'shɛŋa bɛ ni saɣi ti
 show-ranking = Wuhimi n zaa shee
