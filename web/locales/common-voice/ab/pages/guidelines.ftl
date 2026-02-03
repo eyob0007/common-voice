@@ -152,6 +152,8 @@ transcribe-the-audio-subheader-1-explanation = Ажәакала, ишәаҳау�
 transcribe-the-audio-subheader-1-explanation-example-1 = Аилагарқәа рҭаҩра, агәрамгареи аиҭаҳәарақәеи налаҵаны
 # text wrapped in correct will be shown as green text in the UI
 transcribe-the-audio-subheader-2-example-1-correct = <корректное>Ииашоуп</корректное>: Арантәи шә-мильк бжьоуп
+# text wrapped in wrong will be shown as red text in the UI
+transcribe-the-audio-subheader-2-example-1-wrong = <wrong>Ииашаӡам</word>: Арантәи 100 мильк бжьоуп
 # text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
 transcribe-the-audio-subheader-2-example-2-correct = <correct>Ииашоуп</корректно>: Ҳаибабоит <underline> ҩ-нызқьи жәохә </underline> шықәса рзы
 # text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI

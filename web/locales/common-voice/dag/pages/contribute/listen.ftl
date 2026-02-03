@@ -14,3 +14,7 @@ listen-abort-confirm = Naami zahimbu maa
 validate-readings = Dihitabili karimbu
 # text wrapped in <small></small> will be shown in a smaller font size
 validate-readings-coming-soon = Saɣiti karimbu nima <small>(dinna yirina)</small>
+
+## MENU ITEM TOOLTIPS
+
+listen-contribute-menu-tooltip = Dihitabili Karimbu,Labiyuli din sataranima
