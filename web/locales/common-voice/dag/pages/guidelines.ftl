@@ -2,12 +2,22 @@
 guidelines-header = tɔhibu sodola
 sentence-collection = Yɛltɔɣa labivihi
 
+## Voice Collection nav ids
+
+volume = kukɔli duhibu
+example = shɛhira
+
+## Sentence collection sidebar content
+
+adding-sentences-subheader-numbers = kalinli
+
 ## Question collection ids
 
 adding-questions = bohasi pahibu
 
 ## Question collection sidebar content
 
+spelling-and-pronunciation = bachiyisibu mini bihibahibu
 dont-add-subheader = Di pahi
 
 ## Spontaneous Speech sidebar content
