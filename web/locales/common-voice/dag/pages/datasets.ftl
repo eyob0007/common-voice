@@ -21,4 +21,9 @@ dataset-metadata-age = A yuma
 data-download-yes = Iin
 data-download-deny = Aayi
 data-other-goto = Cham { $name }
+dataset-date = Dabisili
 license-mixed = Gabbu
+# Support old genders in older datasets
+male = doo
+female = paɣa
+datasets-show-more = zaŋmi kpanjɔɣu maa zaa wuhi
