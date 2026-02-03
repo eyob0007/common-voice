@@ -7,10 +7,12 @@ everyone = Eokam
 contribution-activity = Tɔhibu tuma
 recorded-clips = Kukɔ' shɛŋa ŋan yaai
 validated-clips = Kukɔ'shɛŋa bɛ ni saɣi ti
+show-ranking = Wuhimi n zaa shee
 
 ## Custom Goals
 
 both-speak-and-listen = Di zaa
+both-speak-and-listen-long = Dizaa (Yɛlima ka Wum)
 easy-difficulty = Alaha
 want-to-continue = A bɔri ni a tuhi?
 goal-interval-weekly = Bakoi
