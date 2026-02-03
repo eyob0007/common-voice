@@ -425,10 +425,12 @@ back-top = n labi zuɣusaa
 logout = yima
 donate = tima
 stayintouch = Tinima ban be Mozlila mɛrila laɣingu din jɛndi kukɔli tabibi. Ti nibɔri ni ti mali tibili zaŋ chaŋ lahabaya din kɔɣiri ka bihira polo , data pala yibu sheena ka ni lahi bɔri ni wumdi lahabaya din jɛndi yi ni mali data ŋɔ tumdi tuma shɛm.
+privacy-info = Ti gbaai la alikawuli ni ti gbubi a lahibali venyala.Karimi pam ti daashili kpanjuɣu<privacyLink>ashilli gbaŋ<privacyLink>.
 return-to-cv = Labimi common voice
 email-input =
     .label = yimeel
 loading = di laɣinda....
+email-opt-in-info-title = Zammi a maŋa na ti pahi kukoya din mŋani taba taliŋ yuya ŋɔ ni
 not-available-abbreviation = N/A
 # Text shown on a button that can be clicked to copy text to the clipboard
 copy = kɔɔpima
