@@ -34,11 +34,14 @@ about-yes-votes-text = A yi yan kpɛ Common Voice dataset puuni, shɛɛla ban gb
 about-no-votes = Bam pii aayi
 about-no-votes-text = Ŋun mali tumdi yi zaɣisi kukoya,di labirila fooli.Di yi ti zaɣsi din pahiri ayi,kukoya maa labirila kukoya di ni yi shɛli na.
 about-dataset-new = Common Voice tɔhibunima
+about-dataset-new-text = Ti ni mi shɛli Common Voice la mali la laa sabu ka di wuhiri ni kɔbisi  tuha kɔkoya taba ka di suŋdi maandiba ban mŋɛri kukoya baŋbu kpatuɣa.
 about-clip-graveyard = Nambu yibu shɛɛ na
 about-get-involved = Timmi nuu
 about-get-involved-text-2 = A Bɔrimi ni a niŋ Common Voice viɛnyɛlinga?
 about-stay-in-touch = Wula ka n mini ya pɔha yɛn yooi taba?
 about-stay-in-touch-button = Wuhimi a maŋa
+about-stay-in-touch-text-1 = zaŋmi a maŋ pahi ti satara yuya ŋɔ zuɣu ka bohim a ni yen niŋ shem pahi ti molisi,laɣinsi mini di ŋmahima nahiŋgbana ti salo kukoli ŋɔ puuni
+about-stay-in-touch-text-2 = Ani tooi laɣim shebi ni dim be Mozila bala dundɔŋ la ni puuni.A yan pahila <discordLink>Discourd<\discourdlink>bee<discourseLink>Discoursrd><discordLink>n ti alizama din du zuɣu saa bee<matrixLink>Matrix<matrixLink>n ti yom saɣigu
 about-nav-why-common-voice = Bɔzuɣu?
 about-nav-how-it-works = Wula?
 about-nav-partners = Taba
@@ -55,6 +58,10 @@ about-playbook-what-is-language-content-2 = Ti bɔri ni yɛltɔɣa tabiibi maʒi
 ## How do I add a language
 
 about-playbook-how-add-language = Wula ka n ni tooi zaŋ zuliya balli m-pahi?
+about-playbook-how-add-language-content-1 =
+    Tuuli, vihi nyɛ nyaa a zuliya balli <languageLink>pun beni</languageLink>.
+    Di yi kani, a ni tooi <languageRequestLink>bohi zaŋ pka a zuliya balli pahibu polo</languageRequestLink>.
+    Di malila Yaɣ' ayi. Site lebigibu, mini yɛltɔɣa laɣimbu.
 about-playbook-how-add-language-translating-heading = lɛbigibu di yibuna polo
 about-playbook-how-add-language-translating-content-1 = <translateVideoLink>Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm.</translateVideoLink>
 about-playbook-how-add-language-translating-content-2 = Ti malila Mozila kpatuɣili din yuli booni<pontoonLink>pontoon<pontoonLink>n lɛbigira.pontoon mali bala pam,a maa a dini yi bi pahi di puuni,a ni tooi <pontoonRequestLink>ka a balli maa gba pahi<\\pontoonRequestLink>di saha,a ni tooi che ka a balli maa gba niŋ bayana Common Voice Project puu ni.Suhu dee bal'palli GitHub</githubRepoLink> zuɣu.Lihi nya yaɣili ŋɔ lɛbigibu pam<localizationFragment> zuɣu.
@@ -64,10 +71,13 @@ about-playbook-how-add-language-collecting-sentences-content-2 =
     A ni tooi <sentenceCollectorLinkAdd>pahi yɛltɔɣa din kalinli bi galisi</sentenceCollectorLinkAdd>,
     bee ka a zaŋ <bulkImportDocsLink> Github n kpɛhili pam jilli</bulkImportDocsLink>.
     Teema ka dam yɛltɔɣa tu mi ni di <licenseLink>CC0 (bee public domain)</licenseLink>, bee ka a sabi amaŋmaŋ dini.
+about-playbook-how-add-language-collecting-sentences-content-3 = <sentenceCollectorFragment>Yuli nyɛ di zaɣi bobigu   yɛtɔɣa deebu <sentenceCollectorFragment>
 
 ## How does localization work
 
-about-playbook-how-localize = Wula ka luɣili bayana niŋbu tumda
+about-playbook-how-localize-content-1 = Ani tooi lɛbigi Commom Voice yaɣi din tumdi kpe<strong>pontoon</strong>
+about-playbook-how-localize-content-3 = Lebigiritira yila silimiinsili ni na, a maa ani tooi nya<strong>buɣisiti<strong>bali shaŋa puuni.Dihimi ŋɔ<strong>Ayaɣtuɣ<strong>icon,ka<strong>m mali zali<strong>ka pahi yooi n pahi balisha a ni yara.gbini nu dirigu pali bila ŋɔ n yan nŋe lebigibu din boo ni<strong>locales<strong>. Lebigiri tiri din wuhiri yaɣ sheli dabisili nyanga nyaanga.
+about-playbook-how-localize-content-4 = Yaɣ' li ŋɔ mali shili ni di zaŋ wuhi salo di yi ti paagi percɛntegi pisopooi ni a nu naabu.
 about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni di tooi sɔŋ
 
 ## How to add sentences
