@@ -10,3 +10,7 @@ listen-loading-error = Ti bi tooi nya kukoya ni ti ti a ka a wum. Dim suɣulo, k
 listen-abort-title = A zahim kukoya maa n-naai?
 listen-abort-cancel = Tuɣimi zahimbu maa
 listen-abort-confirm = Naami zahimbu maa
+# Menu item
+validate-readings = Dihitabili karimbu
+# text wrapped in <small></small> will be shown in a smaller font size
+validate-readings-coming-soon = Saɣiti karimbu nima <small>(dinna yirina)</small>

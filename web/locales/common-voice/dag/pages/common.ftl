@@ -220,6 +220,7 @@ mfe = Kreol Morisien
 mg = Malagasy
 mgg = Kunabembe
 mhk = Mungaka
+mk = Macedonia nira
 mki = Dhakti
 mmc = Michoacaan Mazahua
 mos = Mossi
@@ -449,6 +450,8 @@ announcement-mdc-button-aria-text = yooimi shijiri palli
 
 ## Common Language/Dataset Selector & SearchBox Related
 
+# Generic search box defaults
+searchbox-default-label = Pilimi sabbu n vihi
 searchbox-default-placeholder = Vihima...
 searchbox-default-aria-label = Vihima
 dropdown-no-results = Di kpee kani
