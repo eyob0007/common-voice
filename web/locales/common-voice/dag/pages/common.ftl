@@ -270,6 +270,7 @@ pcd = Picard
 pcm = Nigerian Pidgin English
 pez = Eastern Penan
 phl = Palula
+phr = Pahari-Pothwari
 pl = Polish
 plk = Kohistani Shina
 pne = Western Penan
