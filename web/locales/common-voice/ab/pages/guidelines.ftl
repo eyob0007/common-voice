@@ -117,6 +117,7 @@ adding-questions = Азҵаарақәа рыцҵара
 what-makes-a-good-question-subheader = Азҵаара бзиа изеиԥшразар ахәҭои?
 what-makes-a-good-question-explanation = Иаарту адыррақәа реизгазы азҵаара бзиа ахәҭоуп:
 what-makes-a-good-question-explanation-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
+what-makes-a-good-question-tip = Иара убас ирызхәыцтәуп аконтекстқәеи атематикақәеи реиуеиԥшымра.
 easy-to-understand = Аилкаара мариоуп
 easy-to-understand-explanation = Акультуреи аконтексти иахьмырԥшыкәа, дарбанзаалак еиликааша имариоу азҵаарақәа алышәхла.
 spelling-and-pronunciation = Аорфографиеи апунктуациеи
@@ -139,6 +140,7 @@ answer-questions-subheader = Азеиԥш хархәага
 answer-questions-tip-1 = Акыр иҭынчу аҭыԥ аҿы иҭажәыҩла
 answer-questions-tip-2 = Аинтернет бзиа ахьыҟоу аҭыԥ алышәх
 answer-questions-tip-3b = Шәҽазышәшәа 15-30 секунд рыҽҭагӡара
+answer-questions-tip-5 = Иԥсабаратәны, шәҩыза шәиацәажәошәа шәцәажәала — шәвариант, шәдиалект, шәакцент шәхы иашәырхәала
 # Transcribe the Audio
 transcribe-the-audio = Аудио атранскрипциа азура
 transcribe-the-audio-subheader-1 = Азеиԥш хархәага
@@ -146,6 +148,7 @@ transcribe-the-audio-subheader-2 = Ахыԥхьаӡарақәеи акроним
 transcribe-the-audio-subheader-3 = Иҷыдоу адыргақәа
 transcribe-the-audio-subheader-4 = Ажәақәа рсегментқәа, афальстартқәа, еиҭаҳәоу ажәақәа
 transcribe-the-audio-subheader-5 = Аграмматикатә гхақәеи ацәажәаратә жәаҳәахьақәеи
+transcribe-the-audio-subheader-1-explanation = Ажәакала, ишәаҳауа зегьы ҭажәыҩлароуп. Уахь иаҵанакуеит:
 # text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
 transcribe-the-audio-subheader-2-example-2-correct = <correct>Ииашоуп</корректно>: Ҳаибабоит <underline> ҩ-нызқьи жәохә </underline> шықәса рзы
 # text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
