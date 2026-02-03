@@ -117,6 +117,7 @@ about-playbook-how-access-dataset = Wula ka n yɛn niŋ nya ka zaŋ dataset tum 
 
 about-playbook-how-project-governance = Wula ka tuma shaawariti lee gbaara?
 about-playbook-how-project-governance-content-1 = Mozila Common Voice nyɛla naba zani ka di nyɛla mabiligu ban nyɛ tumtumdiba, zauliya yɛltɔɣa baŋdiba, lahabaya baŋdiba, karim' baŋdiba, ni tabibi kpatuɣa baŋdiba ban yi andunia yili zaa na. Mozila Foundation nima kpaŋmaŋa ni ka tuma ŋɔ be,.
+about-playbook-how-project-governance-content-3 = Ashili ,gumaŋa ni kahigibu.
 about-playbook-how-project-governance-content-4 = Mabilugu dundɔŋ laɣim tum mini shaawara gbaabu
 about-playbook-how-project-governance-content-6 = Tab'vihibu
 about-playbook-how-project-governance-content-7 = <governanceLink>Karimmi pam zaŋ kpa ti gbubbu</governanceLink>
