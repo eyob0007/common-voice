@@ -1,3 +1,5 @@
+sentence-collection = Yɛltɔɣa labivihi
+
 ## Question collection ids
 
 adding-questions = bohasi pahibu
