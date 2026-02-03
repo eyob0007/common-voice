@@ -91,6 +91,8 @@ too-many-files = Gbana pam
 
 ## SMALL BATCH SUBMISSION
 
+multiple-sentences-error = A kutooi  pahi n laɣim yɛltɔɣa yinga n ti
+exceeds-small-batch-limit-error = A kutooi zaŋ yɛltɔɣa din yaɣi tuhi pia n ti
 small-batch-sentences-rule-1 = Doli zalizi ŋan yina "Yɛltɔɣa dini ka n ni tooi zaŋ pahi?"
 small-batch-sentences-rule-2 = Pahimi yɛltɔɣa yini kuliga kam ni
 small-batch-sentences-rule-3 = Dihimi "kpɛma" bee "labima" yim n-waligi yɛltɔɣa sɔŋ kuli' gaŋ ni
