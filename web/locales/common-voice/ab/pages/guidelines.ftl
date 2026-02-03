@@ -122,7 +122,9 @@ easy-to-understand-explanation = Акультуреи аконтексти иа�
 spelling-and-pronunciation = Аорфографиеи апунктуациеи
 spelling-and-pronunciation-explanation = Ииашоу аорфографиеи аграмматикеи  шәхы иашәырхәа.
 length = Аура
+length-explanation = Азҵаара аҭак ҩ-ҳәоук ирҭагӡазароуп.
 dont-add-subheader = Иацҵатәым
+culturally-specific-questions = Акультуратә ҷыдара зныԥшуа азҵаарақәа
 length-avoid-explanation = 15 секунд рыла зҭак аҟаҵара уадаҩхо азҵаарақәа (аклип иреиҳаӡоу аура)
 process-steps = Апроцесс / Ашьаҿақәа
 offensive-content-sensitive-information = Ихьымӡӷыргаго аҵакы ма имаӡоу аинформациа
@@ -133,6 +135,8 @@ example-questions-explanation-1 = Шәара ишәылшоит <examplePromptsL
 
 # Answer Questions
 answer-questions = Азҵаарақәа рҭак аҟаҵара
+answer-questions-subheader = Азеиԥш хархәага
+answer-questions-tip-1 = Акыр иҭынчу аҭыԥ аҿы иҭажәыҩла
 answer-questions-tip-2 = Аинтернет бзиа ахьыҟоу аҭыԥ алышәх
 # Transcribe the Audio
 transcribe-the-audio = Аудио атранскрипциа азура
