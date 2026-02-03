@@ -138,10 +138,13 @@ answer-questions = Азҵаарақәа рҭак аҟаҵара
 answer-questions-subheader = Азеиԥш хархәага
 answer-questions-tip-1 = Акыр иҭынчу аҭыԥ аҿы иҭажәыҩла
 answer-questions-tip-2 = Аинтернет бзиа ахьыҟоу аҭыԥ алышәх
+answer-questions-tip-3b = Шәҽазышәшәа 15-30 секунд рыҽҭагӡара
 # Transcribe the Audio
 transcribe-the-audio = Аудио атранскрипциа азура
+transcribe-the-audio-subheader-1 = Азеиԥш хархәага
 transcribe-the-audio-subheader-2 = Ахыԥхьаӡарақәеи акронимқәеи
 transcribe-the-audio-subheader-3 = Иҷыдоу адыргақәа
+transcribe-the-audio-subheader-4 = Ажәақәа рсегментқәа, афальстартқәа, еиҭаҳәоу ажәақәа
 transcribe-the-audio-subheader-5 = Аграмматикатә гхақәеи ацәажәаратә жәаҳәахьақәеи
 # text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
 transcribe-the-audio-subheader-2-example-2-correct = <correct>Ииашоуп</корректно>: Ҳаибабоит <underline> ҩ-нызқьи жәохә </underline> шықәса рзы
