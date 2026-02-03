@@ -1,3 +1,5 @@
+# GUIDELINES PAGE
+guidelines-header = tɔhibu sodola
 sentence-collection = Yɛltɔɣa labivihi
 
 ## Question collection ids

@@ -160,4 +160,6 @@ transcribe-audio-menu-item-tooltip = Шәбызшәала аудионҵамҭа
 write-contribute-menu-aria-label = Аҩышьа архиарақәа рыхкынҵа
 add-sentences-menu-item-aria-label = Аилазаара иаԥхьаша аҳәоу ҿыцқәа ацышәҵала
 review-sentences-menu-item-aria-label = Аилазаара инашьҭыз, иҟоу аҳәоуқәа гәашәҭ
+add-questions-menu-item-aria-label = Аилазаара иаԥхьарц, насгьы аҭак ҟанаҵарц азы азҵаара ҿыцқәа нашәышьҭла
+review-questions-menu-item-aria-label = Игәашәҭ, насгьы шәыбжьы шәҭии аилазаара ицәырнагаз азҵаара ҿыцқәа рзы
 transcribe-audio-menu-item-aria-label = Аудионҵамҭақәа атекст ахь риагара

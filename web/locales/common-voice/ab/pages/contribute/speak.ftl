@@ -76,3 +76,4 @@ answer-questions-menu-item-tooltip = Шәбызшәала азҵаарақәеи
 
 speak-contribute-menu-aria-label = Абжьы ахаҵара архиарақәа рыхкынҵа
 read-sentences-menu-item-aria-label = Аилазаара ишәыднагало еиуеиԥшым абызшәақәа рыла иҟоу аҳәоуқәа шәрыԥхьала
+answer-questions-menu-item-aria-label = Аилазаара иаԥхьарц, насгьы аҭак ҟанаҵарц азы азҵаара ҿыц адыжәгал
