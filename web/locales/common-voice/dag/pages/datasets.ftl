@@ -5,9 +5,12 @@ language = Zuliya Balli
 size = Barilim
 size-gigabyte = GB
 size-megabyte = MB
+subscribe = Dɔla
+get-started-speech = zaŋmi kukɔli baŋbu m-pili
 # This indicates that there is no data to display
 no-information = lahabali kani
 data-other-ted-name = TED-LIUM Corpus
+go-languages-page = chami zuliya balli yaɣili
 more = pam
 close = Yima
 download = vooma

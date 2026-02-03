@@ -20,6 +20,7 @@ goal-interval-weekly = Bakoi
 share-goal-type-speak = Yɛlibu
 share-goal-type-listen = wum'bu
 share-goal-type-both = Yɛlibu mini Wum'bu
+share-goal = zaŋmi n niyanima n-ti
 
 ## Goals
 
