@@ -195,6 +195,7 @@ code-switching-answer-subheader = Азҵаара аҭак
 code-switching-answer-bullet-4 = Иҟаӡам «зеиӷьыҟам» аҭак аҟаҵашьа
 # Don’t Overthink or Overedit
 code-switching-answer-dont-subheader = Мыцхәы шәазымхәыцлан, иара убас мыцхәы аредакциа азыжәымун
+code-switching-answer-dont-correct-language = <bold>Убызшәа «Ариашара».</bold> Ари ԥышәараӡам. «Ииашоу» аформа акәӡам ара аҵакы злоу, аҵакы злоу иԥсабаратәу абызшәа ауп.
 # Transcribing
 code-switching-transcribe-subheader = Атранскрибациа
 code-switching-tagging-error-2 = Агхақәа
