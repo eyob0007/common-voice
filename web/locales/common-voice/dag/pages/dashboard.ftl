@@ -2,7 +2,11 @@
 
 your-languages = a bala
 awards = Pina
+you = Nyini
 everyone = Eokam
+contribution-activity = Tɔhibu tuma
+recorded-clips = Kukɔ' shɛŋa ŋan yaai
+validated-clips = Kukɔ'shɛŋa bɛ ni saɣi ti
 
 ## Custom Goals
 
