@@ -18,3 +18,5 @@ validate-readings-coming-soon = Saɣiti karimbu nima <small>(dinna yirina)</smal
 ## MENU ITEM TOOLTIPS
 
 listen-contribute-menu-tooltip = Dihitabili Karimbu,Labiyuli din sataranima
+validate-readings-menu-item-tooltip = Dihitabili ŋun mali tumdi ni puun vuli karimbu shaŋa a balli ni.
+review-transcriptions-menu-item-tooltip = Labi yuli ŋun malitumdi ni puun zaŋ satari shaŋa n ti a balli ni.
