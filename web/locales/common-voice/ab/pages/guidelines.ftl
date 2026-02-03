@@ -183,13 +183,18 @@ review-the-transcription-subheader = Азеиԥш хархәага
 
 adding-a-question = Азҵаара ацҵара
 code-switching-adding-question-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
+code-switching-informal-scenarios-header = Иформалтәым асценариақәа ҭышәҵаала
 code-switching-avoid-intro = Азҵаарақәа зылшо:
 code-switching-dont-header = Мап
 # Reviewing a Question
 code-switching-review-subheader = Азҵаара агәаҭара
+code-switching-review-intro = Азҵаара аҭахрақәа ишрықәшәо агәра жәга:
 code-switching-review-criterion-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
 # Answering a Question
 code-switching-answer-subheader = Азҵаара аҭак
+code-switching-answer-bullet-4 = Иҟаӡам «зеиӷьыҟам» аҭак аҟаҵашьа
+# Don’t Overthink or Overedit
+code-switching-answer-dont-subheader = Мыцхәы шәазымхәыцлан, иара убас мыцхәы аредакциа азыжәымун
 # Transcribing
 code-switching-transcribe-subheader = Атранскрибациа
 code-switching-tagging-error-2 = Агхақәа

@@ -3,6 +3,7 @@ speak-now = Yɛlimi pumpɔŋɔ
 speak-subtitle = Tohimi a kukɔli
 record-cta = Pilimi yaabu
 record-platform-not-supported = Ti niŋdi a gaafara, a dundɔŋ maa na bi tumdi kpe.
+record-platform-not-supported-webview = A ni tooi zaŋ a nuchebaŋa n tuɣhi ammali sheli system browser zuɣu.
 record-platform-not-supported-desktop = A kɔmpiita zuɣu a ni tooi pahi ka di nyɛla a yɛn vooi li mi...
 record-platform-not-supported-ios-non-safari = iOS zuɣu dim suɣulo ka zaŋ Safari ka di sɔŋ a ka pili yaabu
 record-must-allow-microphone = Di tu ni a saɣi n-ti maakurofooni yoobu soli.
@@ -68,3 +69,4 @@ read-sentences-coming-soon = Karimmi yɛltɔɣili<small>(din na yirina)</small>
 ## MENU ITEM TOOLTIPS
 
 speak-contribute-menu-tooltip = Karimmi yɛltɔɣili,labisimi bɔhisi
+read-sentences-menu-item-tooltip = Vulimi a mammaŋa yɛltɔɣa karimbu a balli ni.
