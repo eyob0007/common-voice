@@ -96,10 +96,19 @@ small-batch-sentences-rule-2 = Pahimi yɛltɔɣa yini kuliga kam ni
 small-batch-sentences-rule-3 = Dihimi "kpɛma" bee "labima" yim n-waligi yɛltɔɣa sɔŋ kuli' gaŋ ni
 small-batch-sentences-rule-4 = Zaŋ pahi yɛltɔɣa tuhili zuɣu
 small-batch-sentences-rule-5 = Yɛltɔɣa zaa tu ni di mali "domain" yini
+small-batch-sentences-rule-6 = Yɛltɔɣa zaa tu ni di mali ŋa yibuna shee
+# menu item
+add-sentences = Pahimi yɛltɔɣa
 
 ## MENU ITEM TOOLTIPS
 
+write-contribute-menu-tooltip = Pahimi ka labi yuli yɛltɔɣa, pahimi bɔhisi, lɛbgim kukoli yɛltɔɣa
 add-sentences-menu-item-tooltip = pahimi yɛltɔɣili
 review-sentences-menu-item-tooltip = labi n lihi yɛltɔɣili
 add-questions-menu-item-tooltip = Pahimi bɔhisi
 review-questions-menu-item-tooltip = Labi n lihi bɔhisi
+
+## MENU ITEM ARIA LABELS
+
+add-sentences-menu-item-aria-label = Pahimi yɛltɔɣa pala ka dundɔŋ ŋɔ nim karim
+review-sentences-menu-item-aria-label = Labi yuli yɛltɔɣa shɛŋa dundɔŋ ŋɔ nima ni zaŋ bahina
