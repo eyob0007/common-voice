@@ -91,7 +91,11 @@ too-many-files = Gbana pam
 
 ## SMALL BATCH SUBMISSION
 
+small-batch-sentences-rule-1 = Doli zalizi ŋan yina "Yɛltɔɣa dini ka n ni tooi zaŋ pahi?"
+small-batch-sentences-rule-2 = Pahimi yɛltɔɣa yini kuliga kam ni
+small-batch-sentences-rule-3 = Dihimi "kpɛma" bee "labima" yim n-waligi yɛltɔɣa sɔŋ kuli' gaŋ ni
 small-batch-sentences-rule-4 = Zaŋ pahi yɛltɔɣa tuhili zuɣu
+small-batch-sentences-rule-5 = Yɛltɔɣa zaa tu ni di mali "domain" yini
 
 ## MENU ITEM TOOLTIPS
 
