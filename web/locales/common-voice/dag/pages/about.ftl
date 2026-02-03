@@ -2,22 +2,22 @@
 
 about-title = Bɔ zuɣu ka a pii Common Voice ?
 about-header-description-v2 = <p>Common voice nyɛla lahabali kukɔlaa kpanjɔɣu zaŋ ti salo zaa, di nyɛvuli jɛndila ninvuɣ' shɛba ban kpaŋdi bɛ maŋa zaŋ kpa di zoosim polo dunia yaɣa zaa. Niriba ban bɔri ni bɛ nam apilikeeshinnima ni tooi zaŋ lala lahabali kukɔli kpanjɔɣu ŋɔ n-wumsi bɛ maʒina.</p> <br/> <p>Saha ŋɔ puuni, tuma du' zuɣuri pam n-su lahibali kpanjɔri pam, din labisiri lɛbiginsim nyaaŋa. Niriba kamani nandaamba, ban ku tooi wum bee n-yɛli silimiinsili, paɣaba ni LGBTQIA nima zaa bi tooi mali kukɔli lahabali kpanjɔɣu maa niŋdi anfaani. Dimbɔŋɔ wuhiya ni ʒemana ŋɔ lahabali kukɔlaa maa daanfaani bi paari zuliya bala pam, hali di yi beni gba di nyɛla din pɔra, di ni tooi bi paari sokam. Ti bɔrimi ni ti dunia yaɣa zaa daadam kam niŋ kpaŋmaŋa n-tɔhi bɛ kukɔya ka ti zaŋ taɣi lala yɛltɔɣa shɛli din paai ti maa.</p>
-how-does-it-work-title-v2 = Wula ka "Common Voice" tumda?
-how-does-it-work-text = Ti laɣindila salo kukoya. Tɔhimi a kukoli, dihimi niriba ban gba pahi kukoya, che ka kpanjɔɣu ŋɔ mali anfaani ti sokam.
+how-does-it-work-title-v2 = Wula ka Common Voice tumda?
+how-does-it-work-text = Ti laɣindila salo kukoya. Tɔhimi a kukoli, wuhimi a dihitabili ni niriba ban gba pahi n tɔhiri kukoya, che ka kpanjɔɣu ŋɔ mali anfaani ti sokam.
 
 ## How does it work section
 
-about-language-req-subtitle = so bɔhimi ni o nya zuliya bali shɛli m-pahi
+about-language-req-subtitle = So n suhi soli ni bɛ pahi balli.
 about-localization-title = Wɛbsiɛti lunzahim niŋbu
-about-localization-subtitle = Wɛbsiɛti satarili maa nyɛla din lɛbigi bali shɛli dabam
-about-sentence-collection-title = Yeltɔɣili deebu
+about-localization-subtitle = Lala balli maa ni ka bɛ lɛbigi wɛbisati maa lahibali n niŋ.
+about-sentence-collection-title = Satara laɣimbu.
 about-sentence-collection-subtitle = Yɛltɔɣa nyɛla din deegi ni niriba karim ka di yi polo
 about-new-lang-title = Zuliya Balli Yuli Tibu
 about-new-lang-subtitle = Ti pili la Common Voice biɛhigushɛɛ balli ŋɔ ni.
 about-voice-contrib-title = Kukoli tohibu
 about-voice-contrib-subtitle = niriba kamina n ti tɔhi bɛ kukɔya
 about-voice-validation-title = Kukoli Saɣiti
-about-voice-validation-subtitle = Nivuɣ' shɛba dabam saɣimi ti  lala kukoya yaabu maa.
+about-voice-validation-subtitle = Ninvuɣ'shɛba pun wuhi bɛ dihitabili ni lala kukoya maa.
 about-dataset-release-title = Dataset yihibuna
 about-dataset-release-subtitle = Ti yihirila dataset maa na chira ata kam
 about-subscribe-text = n bɔri mi ni n kuli zani n tuhi common voice
@@ -26,11 +26,13 @@ about-speak-text = Totɔhiriba yaari la kukɔya bini pun tɔhi yeltɔɣ' sheŋa 
 about-listen-queue = wumbu foli
 about-listen-queue-text = Kukoya tɔhibu kpɛla zaŋtahi fɔli la ni n mali li shili guli wumbu.
 about-listen = wumma
+about-listen-text = Ban mali tumdi tuma dihitabili ni sinii bihi yaabu yi ti zani de de, di yirila kpahibu zaŋ jɛndi yalibu karimbu yaɣtuɣ yalibu venyala ni.
 about-is-it-valid = clipu ŋɔ niŋ tumda?
 about-is-it-valid-text = Kukoli tɔhi sabi nyɛla din dalim "saɣiti" di yi niŋ ka
 about-yes-votes = Ban' pii iin
 about-yes-votes-text = A yi yan kpɛ Common Voice dataset puuni, shɛɛla ban gba tɔhiri niriba ayi n saɣiti a kukoli maa.
 about-no-votes = Bam pii aayi
+about-no-votes-text = Ŋun mali tumdi yi zaɣisi kukoya,di labirila fooli.Di yi ti zaɣsi din pahiri ayi,kukoya maa labirila kukoya di ni yi shɛli na.
 about-dataset-new = Common Voice tɔhibunima
 about-clip-graveyard = Nambu yibu shɛɛ na
 about-get-involved = Timmi nuu
