@@ -18,6 +18,7 @@ adding-questions = bohasi pahibu
 ## Question collection sidebar content
 
 spelling-and-pronunciation = bachiyisibu mini bihibahibu
+length = waɣilim
 dont-add-subheader = Di pahi
 
 ## Spontaneous Speech sidebar content
