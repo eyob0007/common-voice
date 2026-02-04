@@ -160,6 +160,8 @@ transcribe-the-audio-subheader-2-example-2-correct = <correct>Ииашоуп</к
 transcribe-the-audio-subheader-2-example-2-wrong = <wrong>Ииашаӡам</wrong>: Ҳаибабоит <underline>2015</underline> шықәса рзы
 transcribe-the-audio-subheader-2-example-3-correct = <корректно>Ииашоуп</корректно>: Ҩажәа процент агырхан
 transcribe-the-audio-subheader-2-example-3-wrong = <wrong>Ииашаӡам</wrong>: 20% агырхан
+transcribe-the-audio-subheader-2-example-4-correct = <корректно>Ииашоуп</корректно>: <underline>ФБР</underline> урҭ иааннакылеит ииасыз аԥшьашаҽны
+transcribe-the-audio-subheader-2-example-4-wrong = <wrong>Ииашаӡам</wrong>:<underline>еф бе ер</underline> урҭ иааннакылеит ииасыз аԥшьашаҽны
 tags-table-header-1 = Адырга
 tags-table-header-2 = Аҵакы
 tags-laugh = Ачча
@@ -181,6 +183,7 @@ review-the-transcription-subheader = Азеиԥш хархәага
 
 ## Code-Switching
 
+code-switching = Акод аиагара
 adding-a-question = Азҵаара ацҵара
 code-switching-adding-question-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
 code-switching-informal-scenarios-header = Иформалтәым асценариақәа ҭышәҵаала
