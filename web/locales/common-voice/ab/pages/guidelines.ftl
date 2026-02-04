@@ -194,6 +194,7 @@ code-switching-adding-question-note = Иара убас ирызхәыцтәуп
 # What types of questions to add
 code-switching-types-subheader = Иарбан азҵаара хкқәоу иацҵатәу?
 code-switching-use-bilingual-prompts-header = Ибилингвалтәу аҳәарақәа рхархәара
+code-switching-use-bilingual-prompts-explanation = Шәхы иашәырхәа ҩ-бызшәак рыла ишьақәгылоу аҳәарақәа, шәызҵаара аҩбызшәак рыла еиқәыршәазароуп. Аҿырԥштәы:
 code-switching-informal-scenarios-header = Иформалтәым асценариақәа ҭышәҵаала
 code-switching-avoid-intro = Азҵаарақәа зылшо:
 code-switching-dont-header = Мап
