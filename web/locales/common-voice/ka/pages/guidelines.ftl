@@ -324,6 +324,7 @@ code-switching-pronunciation-header = დაუკვირდით გამ�
 code-switching-pronunciation-explanation = ზოგიერთი სიტყვა ორივე ენაში მსგავსი შეიძლება იყოს, მაგრამ განსხვავებულად წარმოითქვას.  კარგად მოუსმინეთ გამოთქმას ჭდეების სწორად მითითებისთვის.  მაგალითად: ყურზენი, წვანე, ძალიერი, ნაბეტანი, ს(ტ)უმარი, წყარი.
 code-switching-pronunciation-explanation-example-1 = ქართული: /χʼuɾd͡zeni/
 code-switching-pronunciation-explanation-example-2 = მეგრული: /ʾurʒeni/
+code-switching-punctuation-tagging-explanation-example-2 = <purple>ჩამჩურჩულა</purple> <blue> მიშგუ დოშდულ</blue>, - <purple>და ხელი ჩამკიდა.</purple>
 # Be Careful with Lookalikes
 code-switching-lookalikes-header = ყურადღება გამოიჩინეთ მსგავსი სიტყვების მიმართ
 code-switching-lookalikes-explanation = ზოგიერთი სიტყვა შეიძლება ერთი ენის კუთვნილება ჩანდეს, მაგრამ სხვა ენიდან იყოს გამოყენებული. ჭდეებით მონიშვნა უნდა ითვალისწინებდეს შინაარსს და გარეგნულ სახეს. მაგალითები:
