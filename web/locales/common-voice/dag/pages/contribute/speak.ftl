@@ -70,3 +70,7 @@ read-sentences-coming-soon = Karimmi yɛltɔɣili<small>(din na yirina)</small>
 
 speak-contribute-menu-tooltip = Karimmi yɛltɔɣili,labisimi bɔhisi
 read-sentences-menu-item-tooltip = Vulimi a mammaŋa yɛltɔɣa karimbu a balli ni.
+
+## MENU ITEM ARIA LABELS
+
+read-sentences-menu-item-aria-label = karimmi  yɛltɔa din do a polo ballaa asham zuɣu
