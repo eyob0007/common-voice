@@ -199,6 +199,7 @@ code-switching-ask-bilingual-contexts-explanation = Шәхы иашәырхәа 
 code-switching-focus-emotional-header = Шәгәы иҵхо амоментқәа шәыхшыҩ рзышәышьҭ
 code-switching-focus-emotional-explanation-example = «Ажәабжь дуқәа шәҭаацәа анрашәҳәа, урҭ ишәарҳәаз — дара ишырҳәаз еиԥшҵәҟьа сзеиҭашәҳәа».
 code-switching-cultural-topics-header = Акультуратә ҷыдара ҳасаб азуны атемақәа алышәхла
+code-switching-cultural-topics-explanation = Афатә, аҵасқәа, аныҳәақәа, аҭаацәаратә динамика акод уԥсахратәы лассы-лассы иҟарҵоит.
 code-switching-informal-scenarios-header = Иформалтәым асценариақәа ҭышәҵаала
 code-switching-avoid-intro = Азҵаарақәа зылшо:
 code-switching-dont-header = Мап
