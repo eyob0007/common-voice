@@ -36,6 +36,10 @@ about-no-votes-text = Ŋun mali tumdi yi zaɣisi kukoya,di labirila fooli.Di yi 
 about-dataset-new = Common Voice tɔhibunima
 about-dataset-new-text = Ti ni mi shɛli Common Voice la mali la laa sabu ka di wuhiri ni kɔbisi  tuha kɔkoya taba ka di suŋdi maandiba ban mŋɛri kukoya baŋbu kpatuɣa.
 about-clip-graveyard = Nambu yibu shɛɛ na
+about-clip-graveyard-text =
+    Clip Graveyard nyɛla din gbubi kukɔya yaabu din bɛ tooi kpe Common Voice puuni. Kamani Deetaseti kam, Clip Graveyard nyɛla A ni tooi yaai shɛli.
+    
+    Ti nyɛla ban yɛn zaŋ puhirisuŋ n ti niriba ni dundɔŋ shɛŋa ban dɔli ŋɔ ni bɛ sɔŋsim ni ti projeti ŋɔ:
 about-get-involved = Timmi nuu
 about-get-involved-text-2 = A Bɔrimi ni a niŋ Common Voice viɛnyɛlinga?
 about-stay-in-touch = Wula ka n mini ya pɔha yɛn yooi taba?
