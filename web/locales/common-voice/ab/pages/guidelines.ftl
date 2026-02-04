@@ -185,6 +185,9 @@ review-the-transcription-subheader = Азеиԥш хархәага
 
 code-switching = Акод аиагара
 adding-a-question = Азҵаара ацҵара
+# Adding a Question
+code-switching-adding-question-subheader = Азҵаара бзиа изеиԥшразар ахәҭои?
+code-switching-adding-question-explanation = Ауаа рацәа злахәу адыррақәа реизгақәа рзы азҵаара бзиа:
 code-switching-adding-question-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
 code-switching-informal-scenarios-header = Иформалтәым асценариақәа ҭышәҵаала
 code-switching-avoid-intro = Азҵаарақәа зылшо:
