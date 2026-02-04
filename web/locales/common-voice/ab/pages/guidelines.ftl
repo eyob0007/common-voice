@@ -189,6 +189,11 @@ adding-a-question = Азҵаара ацҵара
 code-switching-adding-question-subheader = Азҵаара бзиа изеиԥшразар ахәҭои?
 code-switching-adding-question-explanation = Ауаа рацәа злахәу адыррақәа реизгақәа рзы азҵаара бзиа:
 code-switching-adding-question-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
+code-switching-adding-question-criteria-2 = Ирелевантратәны аҟазаара
+code-switching-adding-question-note = Иара убас ирызхәыцтәуп аконтекстқәеи атематикақәеи реиуеиԥшымра.
+# What types of questions to add
+code-switching-types-subheader = Иарбан азҵаара хкқәоу иацҵатәу?
+code-switching-use-bilingual-prompts-header = Ибилингвалтәу аҳәарақәа рхархәара
 code-switching-informal-scenarios-header = Иформалтәым асценариақәа ҭышәҵаала
 code-switching-avoid-intro = Азҵаарақәа зылшо:
 code-switching-dont-header = Мап
