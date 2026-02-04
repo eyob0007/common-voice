@@ -463,6 +463,8 @@ delete = nyahima
 
 # Text wrapped in <mark></mark> will have a white background.
 donate-banner-cta = <mark>Ti bɔri</mark><br/><mark>a sɔŋsim!</mark>
+# Text wrapped in <mark></mark> will have a white background.
+languages-donate-banner-cta = <mark> zaŋ mi CV ti</mark> <br/> <mark> a viɛhibu </mark>
 localization-select =
     .label = Piimi Zuliya Balli
 
