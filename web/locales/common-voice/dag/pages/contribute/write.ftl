@@ -109,6 +109,7 @@ add-sentences-menu-item-tooltip = pahimi yɛltɔɣili
 review-sentences-menu-item-tooltip = labi n lihi yɛltɔɣili
 add-questions-menu-item-tooltip = Pahimi bɔhisi
 review-questions-menu-item-tooltip = Labi n lihi bɔhisi
+transcribe-audio-menu-item-tooltip = Labi yaa kukoya vulindisi
 
 ## MENU ITEM ARIA LABELS
 
