@@ -2,15 +2,19 @@
 
 datasets-heading = lahabali kpanjɔɣu
 language = Zuliya Balli
+download-dataset-header = voomi lahabali kpanjɔɣu maa
 # File size in gigabytes
 size = Barilim
+dataset-splits = wɔligibu(yuma mini paɣa/doo)
 number-of-voices = kukɔya kalinli
+splits = wɔligibu
 email-to-download = kpɛhimi a iimeeli ka vooi
 size-gigabyte = GB
 size-megabyte = MB
 download-language = vooma{ $language }
 subscribe = Dɔla
 get-started-speech = zaŋmi kukɔli baŋbu m-pili
+other-datasets = lahabali kpanjɔri dimpahi
 # This indicates that there is no data to display
 no-information = lahabali kani
 data-other-ted-name = TED-LIUM Corpus
