@@ -102,6 +102,7 @@ about-playbook-how-grow-language = wula ka ti yɛn n niŋ ka ti zuliya balli too
 about-playbook-how-grow-language-content-2 = laɣinsi
 about-playbook-how-grow-language-content-4 = pɔhim zuɣu
 about-playbook-how-grow-language-content-6 = kpalanzuya gbunibu mini zuliya balli zoobu
+about-playbook-how-grow-language-content-7 = Yulibo ninvuɣi shɛbi ban mali zaɣa,di ni tooi nyɛ yunivɛsiti nima,balla shikuruti,laɣisi ban mali kukoya bee tabiibi baŋsim yaɣ'.Bomi bi shee ka bi taɣisi kahiga bi ni soŋdi sham,ni bintahili.<outreachTemplates>yulimi di mŋahinli sodolisi ŋɔ zuɣu<outreachTemplates>.
 about-playbook-how-grow-language-content-8 = <strong>pilima!</strong>a zuliya balli yɛn bela di ko,ŋɔ maa mi kuli nyɛla so' shɛŋa a ni yɛn zaŋ pili.
 
 ## How to validate
