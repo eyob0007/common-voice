@@ -113,6 +113,7 @@ transcribe-audio-menu-item-tooltip = Labi yaa kukoya vulindisi
 
 ## MENU ITEM ARIA LABELS
 
+write-contribute-menu-aria-label = sabimi gaham bɔŋ ni
 add-sentences-menu-item-aria-label = Pahimi yɛltɔɣa pala ka dundɔŋ ŋɔ nim karim
 review-sentences-menu-item-aria-label = Labi yuli yɛltɔɣa shɛŋa dundɔŋ ŋɔ nima ni zaŋ bahina
 add-questions-menu-item-aria-label = Zaŋmi bɔhi' pala sɔŋna ka dundɔŋnim karim ka labisi

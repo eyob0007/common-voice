@@ -36,6 +36,7 @@ be = Belarusian
 beb = Bamvele
 bew = Betawi
 bfd = Bafut
+bft = Baiti
 bg = Bulgarian
 bgp = Yuli
 bkh = Bakoko

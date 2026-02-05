@@ -64,7 +64,6 @@ about-playbook-how-add-language-content-1 =
     Tuuli, vihi nyɛ nyaa a zuliya balli <languageLink>pun beni</languageLink>.
     Di yi kani, a ni tooi <languageRequestLink>bohi zaŋ pka a zuliya balli pahibu polo</languageRequestLink>.
     Di malila Yaɣ' ayi. Site lebigibu, mini yɛltɔɣa laɣimbu.
-about-playbook-how-add-language-translating-heading = lɛbigibu di yibuna polo
 about-playbook-how-add-language-translating-content-1 = <translateVideoLink>Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm.</translateVideoLink>
 about-playbook-how-add-language-translating-content-2 = Ti malila Mozila kpatuɣili din yuli booni<pontoonLink>pontoon<pontoonLink>n lɛbigira.pontoon mali bala pam,a maa a dini yi bi pahi di puuni,a ni tooi <pontoonRequestLink>ka a balli maa gba pahi<\\pontoonRequestLink>di saha,a ni tooi che ka a balli maa gba niŋ bayana Common Voice Project puu ni.Suhu dee bal'palli GitHub</githubRepoLink> zuɣu.Lihi nya yaɣili ŋɔ lɛbigibu pam<localizationFragment> zuɣu.
 about-playbook-how-add-language-collecting-sentences-heading = Yɛltɔɣa Laɣimbu
@@ -84,18 +83,16 @@ about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni d
 
 ## How to add sentences
 
-about-playbook-how-add-sentences = wula ka n yɛn tooi m-pahi yɛltɔɣa?
+about-playbook-how-add-sentences = wula ka n yɛn tooi m-pahi kukɔɣa?
 about-playbook-how-add-sentences-content-1 = A ni tooi pahi yɛltɔɣa sabbu yaɣili maa bee ka a labilihi yɛltɔɣa labilihi yaɣili maa
 about-playbook-how-add-sentences-content-3 = A ni tooi zaŋ <scraperLink>din yihira yɛltɔɣa na</scraperLink> n-naabigi yɛltɔɣ' ŋahi din yi Wikipedia zuɣu na.
 
 ## How to record quality
 
-about-playbook-how-record-quality = wula ka n ni tooi yaai kukɔ'viɛlli
+about-playbook-how-record-quality = Wula ka n ni tooi yaai kukɔ'viɛlli
 about-playbook-how-record-content-1 = yɛlima ni amaŋmaŋa kukɔli. Ti bɔri a kukɔli ni be shɛm-a ni kuli yɛri shɛm, ni a yee duhibu,siɣisibu ni niɣimbu ni nyɛ shɛm.
 about-playbook-how-record-content-2 = Di che ka a ni be shɛli maa mali vuri. Di tu ni a yɛltɔɣa maa wumbu bi to.
-about-playbook-how-record-content-3 = zaŋmi a haŋkali n niŋ yɛltɔɣa maa karimbu ni, di che, di taɣi bee di pahi bachi nima
 about-playbook-how-record-content-4 = kpaŋmi amaŋa ka dundɔŋ maa gbaaira pɔi ka a naan yi pili yɛlibu, di mi kuli yɛn chɛmi saha shɛli a ni naai.
-about-playbook-how-record-content-5 = <accuracyLink>nyami pam ni di yɛlimaŋli nima.</accuracyLink>
 
 ## How to grow language
 
