@@ -28,6 +28,7 @@ about-listen-queue-text = Kukoya tɔhibu kpɛla zaŋtahi fɔli la ni n mali li s
 about-listen = wumima
 about-listen-text = Ban mali tumdi tuma dihitabili ni sinii bihi yaabu yi ti zani de de, di yirila kpahibu zaŋ jɛndi yalibu karimbu yaɣtuɣ yalibu venyala ni.
 about-is-it-valid = clipu ŋɔ niŋ tumda?
+about-is-it-valid-text = Kukɔli nyɛla din mali dihitabli di yi niŋ ka so saɣitili.
 about-yes-votes = Ban' pii iin
 about-yes-votes-text = A yi yan kpɛ Common Voice dataset puuni, shɛɛla ban gba tɔhiri niriba ayi n saɣiti a kukoli maa.
 about-no-votes = Bam pii aayi
