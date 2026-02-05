@@ -329,6 +329,7 @@ code-switching-single-token-header = ჭდეები მონიშვნა
 code-switching-single-token-explanation = გამოტოვებული სივრცეებით გამოყოფილ ცალკეული ნაწილებს უნდა ახლდეს არაერთი მონიშვნა.
 # Tag Punctuation Based on Nearby Language
 code-switching-punctuation-tagging-header = ჭდეებში სასვენი ნიშნების მოქცევა ახლომდებარე ენის მიხედვით
+code-switching-punctuation-tagging-explanation = ჭდეებში სასვენი ნიშნები მოექცევა მარცხნივ ახლომდებარე ენის მიხედვით. მაგალითები:
 # text wrapped in purple and blue will be shown with a purple and blue background in the UI respectively
 code-switching-punctuation-tagging-explanation-example-1 = <purple>და ხმამაღლა თქვა</purple> ცირამ <purple>გულში გავლებული</purple> <blue>მუშენ,</blue> <purple>რადგან მეტად გაოცებული დარჩა,</purple> მეძობელი <blue>ძღაბის</blue> <purple>მოქმედებით.</purple> (წყარო)
 code-switching-punctuation-tagging-explanation-example-2 = <purple>ჩამჩურჩულა</purple> <blue> მიშგუ დოშდულ</blue>, - <purple>და ხელი ჩამკიდა.</purple>
