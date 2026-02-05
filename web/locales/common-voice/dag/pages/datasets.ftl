@@ -1,5 +1,6 @@
 ## Datasets Page
 
+datasets-heading = lahabali kpanjɔɣu
 language = Zuliya Balli
 # File size in gigabytes
 size = Barilim

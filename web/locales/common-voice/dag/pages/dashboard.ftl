@@ -8,6 +8,8 @@ contribution-activity = Tɔhibu tuma
 top-contributors = Ban tooi n tɔhira Pam pam
 recorded-clips = Kukɔ' shɛŋa ŋan yaai
 validated-clips = Kukɔ'shɛŋa bɛ ni saɣi ti
+total-approved = Bɛ ni saɣiti shɛŋa zaa
+overall-accuracy = Din kam tam kalinli zuɣu
 show-ranking = Wuhimi n zaa shee
 
 ## Custom Goals
