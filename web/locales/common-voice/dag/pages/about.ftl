@@ -1,6 +1,7 @@
 ## ABOUT US
 
 about-title = Bɔ zuɣu ka a pii Common Voice ?
+about-header-description-v2 = Common voice nyɛla lahabali kukɔlaa kpanjɔɣu zaŋ ti salo zaa, di nyɛvuli jɛndila ninvuɣ' shɛba ban kpaŋdi bɛ maŋa zaŋ kpa di zoosim polo dunia yaɣa zaa. Niriba ban bɔri ni bɛ nam apilikeeshinnima ni tooi zaŋ lala lahabali kukɔli kpanjɔɣu ŋɔ n-wumsi bɛ maʒina. Saha ŋɔ puuni, tuma du' zuɣuri pam n-su lahibali kpanjɔri pam, di labisirila  lɛbiginsim nyaaŋa. Niriba kamani nandaamba, ban bɛ tooi wumdi bee n-yɛri silimiinsili, paɣaba ni LGBTQIA nima zaa ka kukɔli lahabali kpanjɔɣu maa anfaani domi di be gbai bɛ kukɔya. Dimbɔŋɔ wuhiya ni ʒemana ŋɔ lahabali kukɔlaa maa daanfaani bi paari zuliya bala pam, hali di yi beni gba di nyɛla din pɔra, di ni tooi bi paari sokam. Ti bɔrimi ni ti dunia yaɣa zaa daadam kam niŋ kpaŋmaŋa n-tɔhi bɛ kukɔya ka ti zaŋ taɣi lala yɛltɔɣa shɛli din paai ti maa.
 how-does-it-work-title-v2 = Wula ka Common Voice tumda?
 how-does-it-work-text = Ti laɣindila salo kukoya. Tɔhimi a kukoli, wuhimi a dihitabili ni niriba ban gba pahi n tɔhiri kukoya, che ka kpanjɔɣu ŋɔ mali anfaani ti sokam.
 
