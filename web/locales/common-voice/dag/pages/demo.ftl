@@ -5,6 +5,7 @@ demo-welcome = Amaraaba kukɔlaa zuɣu
 
 ## Demo Datasets
 
+card-button-next = Din paya
 card-button-back = nyaaŋa
 demo-eofy-header = 2019 yuuni bahigu bahibu
 demo-account = acounti

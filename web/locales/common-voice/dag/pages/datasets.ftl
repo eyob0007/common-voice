@@ -5,6 +5,7 @@ language = Zuliya Balli
 download-dataset-header = voomi lahabali kpanjɔɣu maa
 # File size in gigabytes
 size = Barilim
+cv-license = laansisi
 dataset-splits = wɔligibu(yuma mini paɣa/doo)
 number-of-voices = kukɔya kalinli
 splits = wɔligibu
