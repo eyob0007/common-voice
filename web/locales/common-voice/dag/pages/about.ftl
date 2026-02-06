@@ -66,6 +66,7 @@ about-playbook-how-add-language-content-1 =
     Tuuli, vihi nyɛ nyaa a zuliya balli <languageLink>pun beni</languageLink>.
     Di yi kani, a ni tooi <languageRequestLink>bohi zaŋ pka a zuliya balli pahibu polo</languageRequestLink>.
     Di malila Yaɣ' ayi. Site lebigibu, mini yɛltɔɣa laɣimbu.
+about-playbook-how-add-language-translating-heading = Yaɣili ŋɔ lɛbiɣibu
 about-playbook-how-add-language-translating-content-1 = <translateVideoLink>Lihimi ti sinii ŋmaa din wuhiri a ni tooi zaŋ Pontoon ku bukaata shɛm.</translateVideoLink>
 about-playbook-how-add-language-translating-content-2 = Ti malila Mozila kpatuɣili din yuli booni<pontoonLink>pontoon<pontoonLink>n lɛbigira.pontoon mali bala pam,a maa a dini yi bi pahi di puuni,a ni tooi <pontoonRequestLink>ka a balli maa gba pahi<\\pontoonRequestLink>di saha,a ni tooi che ka a balli maa gba niŋ bayana Common Voice Project puu ni.Suhu dee bal'palli GitHub</githubRepoLink> zuɣu.Lihi nya yaɣili ŋɔ lɛbigibu pam<localizationFragment> zuɣu.
 about-playbook-how-add-language-collecting-sentences-heading = Yɛltɔɣa Laɣimbu
