@@ -97,6 +97,7 @@ about-playbook-how-record-content-1 = yɛlima ni amaŋmaŋa kukɔli. Ti bɔri a 
 about-playbook-how-record-content-2 = Di che ka a ni be shɛli maa mali vuri. Di tu ni a yɛltɔɣa maa wumbu bi to.
 about-playbook-how-record-content-3 = maami a maŋa n-karim yɛltɔɣili ŋɔ viɛnyɛliŋa - di poogi, di taɣi bee m-pahi bachinima
 about-playbook-how-record-content-4 = kpaŋmi amaŋa ka dundɔŋ maa gbaaira pɔi ka a naan yi pili yɛlibu, di mi kuli yɛn chɛmi saha shɛli a ni naai.
+about-playbook-how-record-content-5 = lihi bo soya din tam kalinli zuɣu
 
 ## How to grow language
 
