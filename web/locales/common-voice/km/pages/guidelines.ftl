@@ -32,6 +32,7 @@ misreadings-explanation-1 = ការអានរាល់ពាក្យនៅ�
 misreadings-explanation-2 = កំហុសដែលជួបប្រទះញឹកញាប់រួមមាន៖
 misreadings-explanation-3 = ខ្វះពាក្យ 'A' ឬ 'The' នៅដើមសំឡេងដែលបានថត។
 misreadings-explanation-4 = ខ្វះអក្សរ 'S' នៅខាងចុងពាក្យ។​
+misreadings-explanation-5 = ការអានពាក្យបំព្រួញដែលមិនមាននៅក្នុងប្រយោគដូចជា “We’re” ជំនួស “We are” ឬផ្ទុយទៅវិញ។
 background-voices-tip-1 = តើអ្នកមកទេ? [ហៅដោយអ្នកផ្សេង]
 still-have-questions = នៅតែមានសំណួរមែនទេ?
 
