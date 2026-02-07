@@ -10,6 +10,7 @@ recorded-clips = Kukɔ' shɛŋa ŋan yaai
 validated-clips = Kukɔ'shɛŋa bɛ ni saɣi ti
 total-approved = Bɛ ni saɣiti shɛŋa zaa
 overall-accuracy = Din kam tam kalinli zuɣu
+set-visibility = mali niŋ n nyabu
 show-ranking = Wuhimi n zaa shee
 
 ## Custom Goals
