@@ -2,11 +2,20 @@
 guidelines-header = tɔhibu sodola
 voice-collection = Kukoya deebu
 sentence-collection = Yɛltɔɣa labivihi
+question-collection = Bɔhisi deebu
 
 ## Voice Collection nav ids
 
+varying-pronunciations = Bɔlibu din wɔli
+offensive-content = Barina lahabali
 volume = kukɔli duhibu
 example = shɛhira
+
+## Sentence collection nav ids
+
+citing-sentences = Yɛltɔɣa yibushee
+adding-sentences = yɛltɔɣa pahibu
+reviewing-sentences = Yɛltɔɣa labivihi
 
 ## Sentence collection sidebar content
 
@@ -15,6 +24,7 @@ citing-sentences-subheader-websites-explanation = A ni tooi pahi wɛbsaati, koto
 citing-sentences-subheader-academic-reference = Kundivihira
 citation =
     .label = Dini yi shɛli na
+adding-sentences-subheader-length = waɣilim
 adding-sentences-subheader-numbers = kalinli
 
 ## Question collection ids

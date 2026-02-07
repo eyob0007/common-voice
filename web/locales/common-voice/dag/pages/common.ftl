@@ -453,6 +453,7 @@ return-to-cv = Labimi common voice
 email-input =
     .label = yimeel
 loading = di laɣinda....
+email-opt-in-info = M be  bɔri ka n nyari satara din teerima ni mali tahama sheŋɔ,n toontibo ni satari sheŋa din jandi Common Voice
 email-opt-in-info-title = Zammi a maŋa na ti pahi kukoya din mŋani taba taliŋ yuya ŋɔ ni
 not-available-abbreviation = N/A
 # Text shown on a button that can be clicked to copy text to the clipboard
