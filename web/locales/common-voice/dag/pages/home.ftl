@@ -4,6 +4,8 @@ home-title = Common Voice nyɛla Mozilla tuma din sɔŋdi maʒina ninsal'nima ni
 default-tagline = Mozilla Common Voice nyɛla tuun shɛli din sɔŋdi maʒina ninsal'nima ni yɛri yɛltɔɣa shɛm.
 home-cta = Yɛlima, tɔhimi kpe!
 show-wall-of-text = Karimma m pahi
+help-us-title = Sɔŋmi ti ka bo dihitabili n-ti satara!
+listen-goal-text = Kilipinima dihitabili naaya
 hours-validated = Awanima dihitabili
 voices-online = Kukɔya pa du pɔhim zuɣu
 todays-progress = Zuŋɔ kpaŋmaŋa
@@ -11,6 +13,11 @@ read-terms-q = A karimmi ti zalisi?
 ready-to-record = A niŋ shili ni A tɔhi A kukɔli?
 all-locales = zaa
 today = Zuŋɔ
+x-weeks-short =
+    { $count ->
+        [one] Bakɔi
+       *[other] shɛli
+    }
 
 ## Account Benefits
 
