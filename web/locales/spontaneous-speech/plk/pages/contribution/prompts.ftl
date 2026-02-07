@@ -9,8 +9,14 @@ no-prompts-continue-skipped-message = آ جِبے کِرِیا مُتہ سوال
 error-skipping = پرامپٹ پھتونے وخ دہ ایْک غلطی بِلِن۔
 error-recording = ریکارڈنگ تھون دہ ایْک غلطی بِلِن۔
 error-recording-too-short = ریکارڈنگ لئی کُھٹِن۔ کم جیْ کم { $minDurationSeconds } سیکنڈ بون پکارِن۔
+error-recording-too-long = ریکارڈنگ لئی ڙِگِن۔ لئی جیْ لئی { $maxDurationMinutes }منٹ بون پکارن۔
 error-fetching-prompts = پرامپٹس حاصل تھونے وخ دہ جوکَک غلطی بِلِن۔ مہربانی تھے پھری کوشِش تِھیا۔
 error-uploading-response = څھے جُواب اپ لوڈ تھون دہ ایْک غلطی بِلِن۔
+error-empty-audio = ریکارڈنگ نہ بوبالِن۔ آڈیو فائل خالی (گُچھیْ) معلوم بِینیْ۔ ست دُبار کوشِش تِھیا۔
+error-platform-webview = آئے محدود براؤزر ریکارڈنگے سہولت نہ دوبانُو۔ مہربانی تھے مکمل براؤزر ایپ  استعمال تِھیا۔
+error-recording-too-short-seconds = ریکارڈنگ لئی کُھٹِن۔ کم از کم دورانیہ (ڙِگِیار) { $minDurationSeconds } سیکنڈ بون پکارِن۔
+error-recording-too-long-minutes = ریکارڈنگ لئی ڙِگِن۔ لئی جیْ لئی { $maxDurationMinutes }منٹ بون پکارن۔
+cannot-play-audio = آڈیو پلے نہ تِھجِلِن۔ مہربانی تھے پِھری کوشِش تِھیا۔
 prompt-submitted-success = جُواب کامیابی گیْ جمع بِلُن۔
 prompt-response-deleted-success = جُواب کامیابی گیْ حذف بِلُن۔
 # For the button to delete a response to a prompt
