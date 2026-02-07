@@ -11,3 +11,6 @@ submit-all-button = Зегьы анашьҭра
 ## Explainer text (Respond to Prompt)
 
 learn-how-to-use-prompts = Ари адаҟьа шәхы ишашәырхәаша еилышәкаа
+learn-how-to-use-prompts-guidance = <guidanceLink>Абра</guidanceLink>шәақәыӷәӷәа ари адаҟьа шәхы ишашәырхәаша еилышәкаарц азы
+learn-how-to-use-transcribe-guidance = <guidanceLink>Абра</guidanceLink>шәақәыӷәӷәа ари адаҟьа шәхы ишашәырхәаша еилышәкаарц азы
+learn-how-to-use-check-transcript-guidance = <guidanceLink>Абра</guidanceLink>шәақәыӷәӷәа ари адаҟьа шәхы ишашәырхәаша еилышәкаарц азы
