@@ -117,6 +117,7 @@ about-playbook-how-grow-language-content-8 = <strong>pilima!</strong>a zuliya ba
 
 about-playbook-how-validate = wula ka n yɛn n niŋ m- baŋ ni n saɣiti kukɔli kliipu?
 about-playbook-how-validate-content-1 = Ayi ni tooi<strong>n wum bɛ yɛligu</strong> ka<strong>baŋ di gbunni</strong>, fi zooya<strong>pam ka a daɣi</strong>.
+about-playbook-how-validate-content-2 = Di zaɣisi vulindi shaŋɔ din yari yɛltɔɣ'  din waligi ka che a zilil kum<strong>-dinboŋɔ kpa talahi n ti kukoli baŋbu din yan che ka di tu viɛnyɛla n ti sokam
 about-playbook-how-validate-content-4 = Niriba ayi yi zaɣisi anfooni ŋmaa, di yirimi labi dataset yaɣ' shɛli polo.
 
 ## How to access dataset
