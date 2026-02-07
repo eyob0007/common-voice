@@ -271,7 +271,9 @@ nr = อีซีอึนเดเบเล (ตอนใต้)
 nso = โซโทเหนือ
 ny = ชินยันจา
 nyn = เนียงโกเล่
+nyu = ญุงเว
 oc = อ็อกซิตัน
+odk = โอดกิ
 om = อะฟานโอโรโม
 or = โอเดีย
 oru = ออร์มูรี
@@ -279,6 +281,7 @@ os = ออสซีเชีย
 pa-IN = ปัญจาบี
 pap = ปาเปียเมนตู
 pap-AW = ปาเปียเมนตู (อารูบา)
+pcd = ปิการ์ด
 pcm = อังกฤษพิดจินไนจีเรีย
 phl = ปาลูลา
 pl = โปแลนด์
@@ -424,6 +427,12 @@ email-opt-in-info-sub-with-challenge = รับอีเมล เช่น ค
 email-opt-in-privacy-v2 = การเลือกรับอีเมลถือว่าคุณตกลงให้ Mozilla จัดการข้อมูลนี้ตามที่ได้อธิบายไว้ใน<privacyLink>นโยบายความเป็นส่วนตัว<privacyLink>ของ Mozilla
 indicates-required = * ระบุถึงช่องที่จำเป็นต้องกรอก
 not-available-abbreviation = ไม่ระบุ
+# Text shown on a button that can be clicked to copy text to the clipboard
+copy = คัดลอก
+# Text shown on a button that can be clicked to cancel an action
+cancel = ยกเลิก
+# Text shown on a button that can be clicked to delete an item
+delete = ลบ
 
 ## Donate banner
 
@@ -445,3 +454,17 @@ announcement-mdc-text = <strong>ชุดข้อมูล Common Voice ให�
 announcement-mdc-button-text = เข้าร่วม Mozilla Data Collective
 # Aria text for button which opens MDC on a new page
 announcement-mdc-button-aria-text = เปิดในแท็บใหม่
+
+## Common Language/Dataset Selector & SearchBox Related
+
+# Generic search box defaults
+searchbox-default-label = เริ่มพิมพ์เพื่อค้นหา
+searchbox-default-placeholder = ค้นหา...
+searchbox-default-aria-label = ค้นหา
+dropdown-no-results = ไม่พบรายการที่ตรงกัน
+# Common Voice Dataset=Language search box
+dataset-searchbox-label = จะเปลี่ยนทั้งภาษาสำหรับการแสดงผลและชุดข้อมูล
+dataset-searchbox-placeholder = ค้นหาภาษา...
+dataset-searchbox-aria-label = ค้นหาภาษา
+dataset-search-no-results = ไม่พบภาษาที่ตรงกัน
+request-new-language = ขอภาษาใหม่
