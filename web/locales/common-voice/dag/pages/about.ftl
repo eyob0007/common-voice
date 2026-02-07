@@ -106,6 +106,7 @@ about-playbook-how-record-content-5 = lihi bo soya din tam kalinli zuɣu
 about-playbook-how-grow-language = wula ka ti yɛn n niŋ ka ti zuliya balli tooi zooi common voice puuni?
 about-playbook-how-grow-language-content-1 = Soli yoo mi ti nirikam ŋun ni tooi pahi o haŋkali zaŋ ti common voice din yan che ka di pohim zuɣu biɛhigu tum tuma ti niriba pam.Ti yooi la soya ka bo di tuma nɛma ni ŋmahama sheŋa n-ni too zaŋ tum!
 about-playbook-how-grow-language-content-2 = laɣinsi
+about-playbook-how-grow-language-content-3 = A ni tooi laɣim laɣ'si di yan soŋ ka niriba tɔhi bi haŋkaya.Di niŋ asama gari a ni tɛhari sham. A ni tooi zaŋli pa pɔhim zuɣu n niŋ li sinii ti  niriba pam,bee a ko din dee yi ka muɣisigu.Yuli nya di mŋahama ni yalbori sheŋɔ din tu ni a mali ka ni tooi  laɣim laɣ'gu.
 about-playbook-how-grow-language-content-4 = pɔhim zuɣu
 about-playbook-how-grow-language-content-6 = kpalanzuya gbunibu mini zuliya balli zoobu
 about-playbook-how-grow-language-content-7 = Yulibo ninvuɣi shɛbi ban mali zaɣa,di ni tooi nyɛ yunivɛsiti nima,balla shikuruti,laɣisi ban mali kukoya bee tabiibi baŋsim yaɣ'.Bomi bi shee ka bi taɣisi kahiga bi ni soŋdi sham,ni bintahili.<outreachTemplates>yulimi di mŋahinli sodolisi ŋɔ zuɣu<outreachTemplates>.
