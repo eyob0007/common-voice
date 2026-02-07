@@ -89,6 +89,7 @@ about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni d
 
 about-playbook-how-add-sentences = wula ka n yɛn tooi m-pahi kukɔɣa?
 about-playbook-how-add-sentences-content-1 = A ni tooi pahi yɛltɔɣa sabbu yaɣili maa bee ka a labilihi yɛltɔɣa labilihi yaɣili maa
+about-playbook-how-add-sentences-content-2 = Yatuɣa kpa talahi ni di labi yuli ka taɣi deegi niriba s yi sunsuuni poi ka naiyi tooi pahi Common Voice puuni.Nammi tarisi nti a balli<languageGuidelinesLink>kpe </languageGuidelinesLink>yatuɣa kpa talahi ni de be<licenseLink>n ti so kam<licenseLink>ka kuli nyɛla din waɣalim bi pai minti pinaanu.A ni tooi bɔhi ŋɔ su satarili ŋɔ din yan che ka di lɛbi<waiverLink>CC0 m mali tumdi waiver soli zuɣu<<waiverLink>ka zaŋ tina common voice@mozilla.com.
 about-playbook-how-add-sentences-content-3 = A ni tooi zaŋ <scraperLink>din yihira yɛltɔɣa na</scraperLink> n-naabigi yɛltɔɣ' ŋahi din yi Wikipedia zuɣu na.
 
 ## How to record quality
