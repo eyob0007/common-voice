@@ -52,6 +52,8 @@ join-discord-community = Pahimi ti  Discord mabiligu ni
 # label for button
 join-discord-community-action = Pahimi ti zuɣu Discord zuɣu
 find-us-on-matrix = Nyami ti Matrix zuɣu
+# label for button
+download-contribution-certificate-action = Deemi a shɛhira gbaŋ
 
 ## Get involved section
 
