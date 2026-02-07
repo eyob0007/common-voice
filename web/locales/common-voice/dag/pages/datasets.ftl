@@ -16,8 +16,10 @@ download-language = vooma{ $language }
 subscribe = Dɔla
 get-started-speech = zaŋmi kukɔli baŋbu m-pili
 other-datasets = lahabali kpanjɔri dimpahi
+feedback-q = A mali shɛli ni a yɛli?
 # This indicates that there is no data to display
 no-information = lahabali kani
+resource-nemo-info = NeMo</githubLink>™ nyɛla <docsLink>open-source toolkit</docsLink> zaŋ n-ti vihivihiriba ban be AI yɛltɔɣa ni.
 data-other-ted-name = TED-LIUM Corpus
 go-languages-page = chami zuliya balli yaɣili
 more = pam

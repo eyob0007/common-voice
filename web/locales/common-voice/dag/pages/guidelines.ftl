@@ -9,6 +9,8 @@ example = shɛhira
 
 ## Sentence collection sidebar content
 
+citation =
+    .label = Dini yi shɛli na
 adding-sentences-subheader-numbers = kalinli
 
 ## Question collection ids
