@@ -37,15 +37,15 @@ about-dataset-new = Common Voice tɔhibunima
 about-dataset-new-text = Ti ni mi shɛli Common Voice la malila lala sabbu ka di wuhiri kukɔya tuhi' kɔb' bɔbigu ka di sɔŋdi ban ŋmɛri kukɔya baŋbu kpatuɣa.
 about-clip-graveyard = Nambu yibu shee na
 about-clip-graveyard-text =
-    Clip Graveyard nyɛla din gbubi kukɔya yaabu din bɛ tooi kpe Common Voice puuni. Kamani Deetaseti kam, Clip Graveyard nyɛla A ni tooi yaai shɛli.
+    Clip Graveyard nyɛla din gbubi kukɔya yaabu din bi tooi kpe kukɔya lahabali kpanjɔɣu puuni. Kamani lahabali kpanjɔɣu kam, Clip Graveyard nyɛla a ni tooi yaai shɛli.
     
-    Ti nyɛla ban yɛn zaŋ puhirisuŋ n ti niriba ni dundɔŋ shɛŋa ban dɔli ŋɔ ni bɛ sɔŋsim ni ti projeti ŋɔ:
+    Ti ni puhi ka paɣi laɣinsi mini ban zaa sɔŋsi zaŋ kpa kukɔya lahibali kpanjɔɣu ŋɔ zoosim polo:
 about-get-involved = Timmi nuu
-about-get-involved-text-2 = A Bɔrimi ni a niŋ Common Voice viɛnyɛlinga?
-about-stay-in-touch = Wula ka n mini ya pɔha yɛn yooi taba?
+about-get-involved-text-2 = A bɔrimi ni a niŋ Common Voice viɛnyɛlinga?
+about-stay-in-touch = Wula ka m mini ya puha yɛn yooi taba?
 about-stay-in-touch-button = Wuhimi a maŋa
-about-stay-in-touch-text-1 = zaŋmi a maŋ pahi ti satara yuya ŋɔ zuɣu ka bohim a ni yen niŋ shem pahi ti molisi,laɣinsi mini di ŋmahima nahiŋgbana ti salo kukoli ŋɔ puuni
-about-stay-in-touch-text-2 = Ani tooi laɣim shebi ni dim be Mozila bala dundɔŋ la ni puuni.A yan pahila <discordLink>Discourd<\discourdlink>bee<discourseLink>Discoursrd><discordLink>n ti alizama din du zuɣu saa bee<matrixLink>Matrix<matrixLink>n ti yom saɣigu
+about-stay-in-touch-text-1 = zaŋmi a maŋ pahi ti satara yuya ŋɔ zuɣu ka bohim a ni yen niŋ shem pahi ti molisi, laɣinsi mini di ŋmahima nahiŋgbana ti salo kukoli ŋɔ puuni
+about-stay-in-touch-text-2 = Ani tooi laɣim shɛba ni din be Mozila bala dundɔŋ la ni puuni.A yɛn pahila <discordLink>Discourd<\\discourdlink>bee<discourseLink>Discoursrd><discordLink>n-ti alizama din du zuɣu saa bee<matrixLink>Matrix<matrixLink>n-ti yom saɣigu
 about-nav-why-common-voice = Bɔzuɣu?
 about-nav-how-it-works = Wula?
 about-nav-partners = Taba

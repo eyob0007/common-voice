@@ -25,7 +25,11 @@ citing-sentences-subheader-academic-reference = Kundivihira
 citation =
     .label = Dini yi shɛli na
 adding-sentences-subheader-length = waɣilim
+adding-sentences-subheader-spelling-punctuation = bachiyisibu mini bihibahibu
+adding-sentences-subheader-spelling-punctuation-explanation = Yɛltɔɣili maa bachinima simdi ka di yiɣisi dede.
+adding-sentences-subheader-speakable = Din tooi yɛli
 adding-sentences-subheader-numbers = kalinli
+adding-sentences-subheader-punctuation = Bihibahibu
 
 ## Question collection ids
 
