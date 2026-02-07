@@ -81,6 +81,7 @@ about-playbook-how-add-language-collecting-sentences-content-3 = <sentenceCollec
 
 about-playbook-how-localize = Wula ka sodoligu din be ti dundona ni tumda?
 about-playbook-how-localize-content-1 = Ani tooi lɛbigi Commom Voice yaɣi din tumdi kpe<strong>pontoon</strong>
+about-playbook-how-localize-content-2 = Nammi akunti, di yi niŋ ka a na ka shɛli. Din ŋuna piimi a zuliya balli ka piigi tuma yaɣili Common Voice. Kundinima nyɛla din yɛn beni n ti a ka a lɛbigi li. Dihimi zaɣ'yini zuɣu, di ni yihi bachinima din sabi silimiinsili ni ka adaka beni ka a lɛbigi li.
 about-playbook-how-localize-content-3 = Lebigiritira yila silimiinsili ni na, a maa ani tooi nya<strong>buɣisiti<strong>bali shaŋa puuni.Dihimi ŋɔ<strong>Ayaɣtuɣ<strong>icon,ka<strong>m mali zali<strong>ka pahi yooi n pahi balisha a ni yara.gbini nu dirigu pali bila ŋɔ n yan nŋe lebigibu din boo ni<strong>locales<strong>. Lebigiri tiri din wuhiri yaɣ sheli dabisili nyanga nyaanga.
 about-playbook-how-localize-content-4 = Yaɣ' li ŋɔ mali shili ni di zaŋ wuhi salo di yi ti paagi percɛntegi pisopooi ni a nu naabu.
 about-playbook-how-localize-content-5 = yulimi ti viidio din kahigili sɔŋ ni di tooi sɔŋ
