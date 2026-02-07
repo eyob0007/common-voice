@@ -8,6 +8,7 @@ prompt-page-instruction = { $actionType }<micIcon></micIcon> آں قدرتی ش�
 no-prompts-continue-skipped-message = آ جِبے کِرِیا مُتہ سوالات نِش۔ اگر څھا جوْ پھتیتَن، توْ پھتیلوْ مواد سے ساتیْ جاری پھتبانَت یا آڈیو ٹرانسکرائب جیْ گیے پتو ست دُبار کوشش تھوبانَت۔
 error-skipping = پرامپٹ پھتونے وخ دہ ایْک غلطی بِلِن۔
 error-recording = ریکارڈنگ تھون دہ ایْک غلطی بِلِن۔
+error-recording-too-short = ریکارڈنگ لئی کُھٹِن۔ کم جیْ کم { $minDurationSeconds } سیکنڈ بون پکارِن۔
 error-fetching-prompts = پرامپٹس حاصل تھونے وخ دہ جوکَک غلطی بِلِن۔ مہربانی تھے پھری کوشِش تِھیا۔
 error-uploading-response = څھے جُواب اپ لوڈ تھون دہ ایْک غلطی بِلِن۔
 prompt-submitted-success = جُواب کامیابی گیْ جمع بِلُن۔
