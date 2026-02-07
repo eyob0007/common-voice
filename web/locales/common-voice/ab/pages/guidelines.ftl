@@ -227,7 +227,10 @@ code-switching-answer-dont-subheader = Мыцхәы шәазымхәыцлан, 
 code-switching-answer-dont-correct-language = <bold>Убызшәа «Ариашара».</bold> Ари ԥышәараӡам. «Ииашоу» аформа акәӡам ара аҵакы злоу, аҵакы злоу иԥсабаратәу абызшәа ауп.
 # Transcribing
 code-switching-transcribe-subheader = Атранскрибациа
+code-switching-cleanup-2 = «Ииашоу» аграмматика, ма аҳәашьа — иԥсабаратәу абызшәа еиқәшәырхала.
 code-switching-tagging-error-2 = Агхақәа
+# Use Pronunciation to Help Determine the Language
+code-switching-pronunciation-header = Абызшәа аилкаара шәацхраарц азы аҳәашьа шәхы иашәырхәа
 code-switching-pronunciation-explanation-example-1 = Англыз: /ˈkeɪ.bəl/
 code-switching-pronunciation-explanation-example-2 = Аиспан: /ˈkable/
 code-switching-punctuation-tagging-explanation-example-2 = <purple>аха<</purple><blue>tú los puedes comprar rojo, negro, azul</blue>, <purple>иарбанзаалак азы.</purple>(BangorTank)
@@ -240,3 +243,7 @@ code-switching-not-tag-interjections-example-1 = «Е»
 code-switching-not-tag-interjections-example-2 = «Мап»
 code-switching-not-tag-interjections-example-3 = «Иеа»
 code-switching-not-tag-interjections-example-4 = «Ем»
+
+## Reporting Content
+
+reporting-content-subheader = Азеиԥш хархәага
