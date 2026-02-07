@@ -1,5 +1,6 @@
 # GUIDELINES PAGE
 guidelines-header = tɔhibu sodola
+voice-collection = Kukoya deebu
 sentence-collection = Yɛltɔɣa labivihi
 
 ## Voice Collection nav ids

@@ -34,8 +34,8 @@ about-yes-votes-text = A yi yɛn kpe Common Voice dataset puuni, sheela ban gba 
 about-no-votes = Bam pii aayi
 about-no-votes-text = Ŋun mali tumdi yi zaɣisi kukoya,di labirila fooli.Di yi ti zaɣsi din pahiri ayi,kukoya maa labirila kukoya di ni yi shɛli na.
 about-dataset-new = Common Voice tɔhibunima
-about-dataset-new-text = Ti ni mi shɛli Common Voice la mali la laa sabu ka di wuhiri ni kɔbisi  tuha kɔkoya taba ka di suŋdi maandiba ban mŋɛri kukoya baŋbu kpatuɣa.
-about-clip-graveyard = Nambu yibu shɛɛ na
+about-dataset-new-text = Ti ni mi shɛli Common Voice la malila lala sabbu ka di wuhiri kukɔya tuhi' kɔb' bɔbigu ka di sɔŋdi ban ŋmɛri kukɔya baŋbu kpatuɣa.
+about-clip-graveyard = Nambu yibu shee na
 about-clip-graveyard-text =
     Clip Graveyard nyɛla din gbubi kukɔya yaabu din bɛ tooi kpe Common Voice puuni. Kamani Deetaseti kam, Clip Graveyard nyɛla A ni tooi yaai shɛli.
     

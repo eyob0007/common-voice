@@ -275,6 +275,7 @@ nso = Northern Sotho
 ny = Chinyanja
 nyn = Runyankole
 oc = Oksitan
+odk = sodoligu
 om = Afaan Oromo
 or = Odia
 oru = Ormuri
