@@ -104,6 +104,7 @@ about-playbook-how-record-content-5 = lihi bo soya din tam kalinli zuɣu
 ## How to grow language
 
 about-playbook-how-grow-language = wula ka ti yɛn n niŋ ka ti zuliya balli tooi zooi common voice puuni?
+about-playbook-how-grow-language-content-1 = Soli yoo mi ti nirikam ŋun ni tooi pahi o haŋkali zaŋ ti common voice din yan che ka di pohim zuɣu biɛhigu tum tuma ti niriba pam.Ti yooi la soya ka bo di tuma nɛma ni ŋmahama sheŋa n-ni too zaŋ tum!
 about-playbook-how-grow-language-content-2 = laɣinsi
 about-playbook-how-grow-language-content-4 = pɔhim zuɣu
 about-playbook-how-grow-language-content-6 = kpalanzuya gbunibu mini zuliya balli zoobu
