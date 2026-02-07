@@ -117,6 +117,7 @@ adding-questions = Азҵаарақәа рыцҵара
 what-makes-a-good-question-subheader = Азҵаара бзиа изеиԥшразар ахәҭои?
 what-makes-a-good-question-explanation = Иаарту адыррақәа реизгазы азҵаара бзиа ахәҭоуп:
 what-makes-a-good-question-explanation-criteria-1 = Аилкаареи аҭак аҟаҵареи рзы имарианы аҟазаара
+what-makes-a-good-question-explanation-criteria-2 = Ирелевантратәны аҟазаара
 what-makes-a-good-question-tip = Иара убас ирызхәыцтәуп аконтекстқәеи атематикақәеи реиуеиԥшымра.
 easy-to-understand = Аилкаара мариоуп
 easy-to-understand-explanation = Акультуреи аконтексти иахьмырԥшыкәа, дарбанзаалак еиликааша имариоу азҵаарақәа алышәхла.

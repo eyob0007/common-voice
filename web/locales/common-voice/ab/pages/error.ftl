@@ -14,3 +14,9 @@ error-title-502 = Аимадара еиԥырҟьоуп
 error-title-503 = Ҳара ҳҿы узқәымгәыӷуа имариоу
 error-content-503 = Асаит хара имгакәа аусура еиҭалагоит. Аҵыхәтәантәи аинформациа аиуразы, шәалал<matrixLink>аилазаара ачат Matrix</matrixLink> аҿы, шәаҭаа <githubLink>GitHub</githubLink> мамзаргьы <discourseLink>ҳ-Discoure  форумқәа</discourseLink> азҵаарақәа рзы адырра аҭаразы, насгьы урҭ рыцклаԥшразы.
 error-code = Агха акод: { $code }
+# Warning message shown when none of the clips could be uploaded
+error-duplicate-clips-all =
+    { $total ->
+        [one] Шәыклип аҭагалара ҳалымшаӡеит. Уи уаанӡа иҭагалахьан. Шәааи анаҩстәи апачкала иацаҳҵап!
+       *[other] Ҳара { $total } клипк рҭагалара ҳалымшаӡеит. Урҭ уаанӡа иҭагалахьан. Шәааи анаҩстәи апачкала иацаҳҵап!
+    }
