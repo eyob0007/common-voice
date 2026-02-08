@@ -44,6 +44,7 @@ coming-soon = Di be sɔli
 ## Action items section
 
 coming-soon = Di be sɔli
+add-text = Pahimi sabbu
 answer = Labisima
 
 ## Community section
