@@ -3,12 +3,16 @@ guidelines-header = tɔhibu sodola
 voice-collection = Kukoya deebu
 sentence-collection = Yɛltɔɣa labivihi
 question-collection = Bɔhisi deebu
+dont-subheader = Mira
 
 ## Voice Collection nav ids
 
 varying-pronunciations = Bɔlibu din wɔli
 offensive-content = Barina lahabali
+background-voices = Kukoya ni vuri
 volume = kukɔli duhibu
+reader-effects = Karinda kukoli taɣibu
+just-unsure = A nini dii bi tiɣi?
 example = shɛhira
 
 ## Sentence collection nav ids
