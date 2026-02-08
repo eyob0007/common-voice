@@ -15,6 +15,13 @@ reader-effects = Karinda kukoli taɣibu
 just-unsure = A nini dii bi tiɣi?
 example = shɛhira
 
+## Voice collection sidebar content
+
+misreadings-example-1 = Ti yɛn yimi n-ti bo kɔfi.
+misreadings-example-2 = Ti yɛn yimi n-ti bɔ kɔfi
+misreadings-example-3 = Ti yɛn yimi n-ti bo kɔfi.
+background-voices-tip-1 = A kanna?
+
 ## Sentence collection nav ids
 
 citing-sentences = Yɛltɔɣa yibushee

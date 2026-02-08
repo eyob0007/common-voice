@@ -34,8 +34,8 @@ about-yes-votes-text = A yi yɛn kpe lahabaya kukɔli kpanjɔɣu puuni, sheela b
 about-no-votes = Ban pii aayi
 about-no-votes-text = Ŋun mali tumdi yi zaɣisi kukɔya,di labirila fɔli maa ni. Bɛ yi ti zaɣisi li pahi ayi, kukɔya maa labirila di ni yi shɛli na.
 about-dataset-new = Lahabali kukɔli kpanjɔɣu
-about-dataset-new-text = Ti ni mi shɛli Common Voice la malila lala sabbu ka di wuhiri kukɔya tuhi' kɔb' bɔbigu ka di sɔŋdi ban ŋmɛri kukɔya baŋbu kpatuɣa.
-about-clip-graveyard = Nambu yibu shee na
+about-dataset-new-text = Kukɔli lahabali kpanjɔɣu malila kukɔya lahabaya kamani tuhi' kɔb' bɔbigu ka di sɔŋdi ban tɔhiri ka bɛ tooi namdi kukɔya baŋbu kpatuɣa.
+about-clip-graveyard = Kukɔli yibu shee na
 about-clip-graveyard-text =
     Clip Graveyard nyɛla din gbubi kukɔya yaabu din bi tooi kpe kukɔya lahabali kpanjɔɣu puuni. Kamani lahabali kpanjɔɣu kam, Clip Graveyard nyɛla a ni tooi yaai shɛli.
     
