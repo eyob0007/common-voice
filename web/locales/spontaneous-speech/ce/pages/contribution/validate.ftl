@@ -16,3 +16,5 @@ validate-page-skip-button-shortcut = S
 validation-guidelines-title = Куьйгаллин низам
 validation-guideline-1 = Долара хаамаш бехар дихкина ду (масала: цӀераш, финансашца боьзна хаамаш)
 validation-guideline-2 = Сийсаз а, кхераме хаттарш а дихкина ду
+validation-guideline-3 = Массо кхеташ а, атта а долуш
+validation-guideline-4 = Масех аламца жоп дала йиш йу
