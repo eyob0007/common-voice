@@ -1,7 +1,12 @@
 ## Dashboard
 
 your-languages = a bala
+toward-next-goal = Zaŋ jandi tahama din paya
+goal-reached = Tahama din tum
+clips-you-recorded = Shinii sheŋa ani vuli soŋ
 clips-you-validated = Vulindi sheŋa ani dihitabili
+todays-recorded-progress = Zuŋɔ Common Voice shinii shaŋa din vuli doya
+todays-validated-progress = Zuŋɔ Common Voice shinii sheŋa din dihitabili toontibo
 awards = Pina
 you = Nyini
 everyone = Eokam
