@@ -29,3 +29,6 @@ data-bubble-subtitle = Хаамийн гулар рогӀаллехь арахо
 contact-us = Тхоьца зӀе
 contact-us-title = Проектехь дакъалаца йа накъосталла дан лаьий хьуна?
 contact-us-email = Электрони пошта<emailFragment>commonvoice@mozilla.com</emailFragment>
+signup-form-title = Хьо Common Voice-ан шашех долчу къамел тергам бечу (Beta) тобанехь вуй?
+signup-terms = "Сан поште хьажорг (линк) дӀаяхьийта" тӀе таӀийначул тӀаьхьа, хьо реза хуьлу тхан <termsLink>Лелоран бакъонашна а,</termsLink>  <privacyLink>Къайлен политикана</privacyLink> а. Иштта хьо реза хуьлу Mozilla-но хьан поште Common Voice проектан шашех къамелан (Spontaneous Speech) Beta-тестированехь муха дакъалаца деза боху хаамаш дӀабахьийтарна.
+signup-input-placeholder = Хьайн пошта йазъе
