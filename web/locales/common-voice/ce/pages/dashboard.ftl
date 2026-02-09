@@ -14,3 +14,7 @@ everyone = ХӀора стаг
 contribution-activity = Декъашхочун жигаралла
 top-contributors = Коьрта декъашхой
 recorded-clips = ДӀаязйина кийсикаш
+
+## Custom Goals
+
+get-started-goals = Ӏалашонашца болх дӀаболабе
