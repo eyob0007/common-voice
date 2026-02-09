@@ -494,3 +494,4 @@ announcement-mdc-button-aria-text = نیوو ټېب نره وه میوز
 # Generic search box defaults
 searchbox-default-label = ته تلاش پاره ا ټائنګ شوري کَۀ
 searchbox-default-placeholder = تلاش وه کَۀ
+searchbox-default-aria-label = دُشؤ
