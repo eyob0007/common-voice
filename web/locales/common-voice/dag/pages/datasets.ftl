@@ -1,6 +1,7 @@
 ## Datasets Page
 
 datasets-heading = lahabali kpanjɔɣu
+datasets-headline = Ti namdila zuliya bɔbigu bala, sokam ni ni tooi n tohi kukɔli kpanjɔɣu shɛli zuɣu ti zaŋ n-wuhi maʒina shɛŋa din ni tooi n-yɛli yɛltɔɣa.
 language = Zuliya Balli
 download-dataset-header = voomi lahabali kpanjɔɣu maa
 # File size in gigabytes
