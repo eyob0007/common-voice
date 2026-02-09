@@ -92,7 +92,11 @@ player-pause-button-aria-label = Pause audio
 player-skip-backward-aria-label = Skip backwards 5 seconds
 # Skip forward button accessibility/aria label
 player-skip-forward-aria-label = Skip forwards 5 seconds
+# Audio playback progress slider accessibility/aria label
+player-progress-slider-aria-label = Audio playback progress slider
 
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = Toggle mode menu
 # Slower playback speed button accessibility/aria label
 player-speed-slow-aria-label = Slower playback speed
 # Normal playback speed button accessibility/aria label
