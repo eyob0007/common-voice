@@ -21,6 +21,7 @@ confirm-join-mailing-list = A bɔri ni a pahila ninvuɣ' shɛba Common Voice ni 
 download-language = vooma{ $language }
 validated-hours = Dihitabili saha la
 recorded-hours = Yaabu la saha
+whats-inside = Bɔ n-lee m-be lala Common Voice maa kpanjɔɣu puuni?
 subscribe = Dɔla
 get-started-speech = zaŋmi kukɔli baŋbu m-pili
 other-datasets = lahabali kpanjɔri dimpahi
