@@ -41,6 +41,7 @@ share-goal = zaŋmi n niyanima n-ti
 
 ## Goals
 
+streaks = Saha kam toontibo
 days =
     { $count ->
         [one] dabisili
@@ -50,4 +51,9 @@ recordings =
     { $count ->
         [one] Yaabu
        *[other] Yaabunima
+    }
+validations =
+    { $count ->
+        [one] Dihitabili niŋbu
+       *[other] Dihitabili niŋbunima
     }
