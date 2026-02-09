@@ -26,6 +26,8 @@ how-many-per-day = M-bo, klipu dibaala dabisili puuni?
 how-many-a-week = M-bo,clipu dibaala dakulo puuni?
 which-goal-type = A bɔrimi ni a yɛli, n wum bee dizaa?
 goal-interval-weekly = Bakoi
+# $type is one of share-goal-type-*
+share-n-weekly-contribution-goal = zaŋmi a { $count } n wuhi kilipi nia ni nyɛ shɛli bakɔi kam puuni ka nya { $type }
 share-goal-type-speak = Yɛlibu
 share-goal-type-listen = wum'bu
 share-goal-type-both = Yɛlibu mini Wum'bu
