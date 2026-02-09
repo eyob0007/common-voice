@@ -44,6 +44,11 @@ edit = កែសម្រួល​​
 api-credentials = API
 off = បិទ
 on = បើក
+api-key-modal-confirmation-header = តើអ្នកប្រាកដទេ?
+copy-api-credential-success-toast-message = បានចម្លងដោយជោគជ័យ
+copy-api-credential-error-toast-message = កំហុសក្នុងការចម្លង
+# Genders
+male_masculine = ប្រុស / បុរស
 female_feminine = ស្រី / ភេទស្រី
 intersex = អន្តរភេទ
 non-binary = មិនជាប្រុសឬស្រី

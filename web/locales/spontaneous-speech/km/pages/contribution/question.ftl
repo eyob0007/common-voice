@@ -20,4 +20,5 @@ do-not-section-guideline-3 = សួរសំណួរដែលមានលក្
 cs-do-section-guideline-1 = ប្រើសំណួរ ឬបរិបទពីរភាសា
 cs-do-section-guideline-2 = ស្វែងយល់ពីសេណារីយ៉ូ ស្ថានភាព ឬការសម្ដែងឡើងវិញក្រៅផ្លូវការ
 cs-do-not-section-guideline-1 = ស្នើសុំព័ត៌មានកំណត់អត្តសញ្ញាណផ្ទាល់ខ្លួន (ដូចជាឈ្មោះ ឬព័ត៌មានហិរញ្ញវត្ថុ) ឬអារម្មណ៍ប្រមាថ
+cs-do-not-section-guideline-2 = ស្នើសុំការប្តូរលេខកូដ ឬស្នើសុំការបកប្រែ
 cs-do-not-section-guideline-3 = ប្រើភាសាផ្លូវការខ្លាំងពេក
