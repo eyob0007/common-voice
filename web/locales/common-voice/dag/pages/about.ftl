@@ -141,3 +141,4 @@ about-playbook-how-project-governance-content-7 = <governanceLink>Karimmi pam za
 ## How is Common Voice funded
 
 about-playbook-how-funded = Wula ka Common voice niŋda nyari liɣiri?
+about-playbook-how-funded-content-3 = Di yi niŋ ka a nyini bee a tuma duzuɣu bori ni yi suŋsi ti tuma ŋɔ, yi ni tooi <donateLink>tɔhi</donateLink> bee ka yi sabi n-ti  ti kpalaŋzuya laɣiŋgu <emailFragment>commonvoice@mozilla.com</emailFragment>.

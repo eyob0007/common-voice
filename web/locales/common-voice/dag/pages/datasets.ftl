@@ -2,6 +2,9 @@
 
 datasets-heading = lahabali kpanjɔɣu
 datasets-headline = Ti namdila zuliya bɔbigu bala, sokam ni ni tooi n tohi kukɔli kpanjɔɣu shɛli zuɣu ti zaŋ n-wuhi maʒina shɛŋa din ni tooi n-yɛli yɛltɔɣa.
+# New/upcoming datasets page headline
+datasets-headline-mdc = Mozilla Common Voice kpanjɔɣu pa nyɛla din m-be Mozilla Data Collective puuni ko.
+datasets-speech-bubble-content = Suhupiɛlli lahibali! Diri n toli fiila nyɛla din m-be soli! Na kuli n-gbulisimi tibili lahibaya na nyɛla din m-be soli ka lahi kpaŋ a maŋa ka a yuli ti <discordLink>Discord</discordLink> n wum lahibaya din yoil n kpɛna.
 language = Zuliya Balli
 download-dataset-header = voomi lahabali kpanjɔɣu maa
 # File size in gigabytes
