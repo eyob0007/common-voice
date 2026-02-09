@@ -479,3 +479,18 @@ languages-donate-banner-cta = ته CV </mark> <br/> <mark> ترتُو ا ریس�
 languages-donate-banner-cta-explanation = مشترک آواز بُو په چندي او په پېشکشي چلا۔  ترماخ يې بُو تعلیمیافته خلق، عام خلق، صنعت کارنی، ریسرچرنی او کسبدري ګیرډ تعلق بَۀ۔ ته مشترک آواز ا اِستعمال يې په لیۀ هۀ، خه پلېټ فارم کی يې ته چنده ا ڒیوک او ته پۀ ته ساتؤ پناره ته امداد ضرورت هۀ
 localization-select =
     .label = ته زبان ا خؤشؤ/ مقامی کؤ
+
+## MDC Announcement
+
+# Main text for MDC announcement. Text wrapped in <strong></strong> will be rendered with bold font
+announcement-mdc-text = نیوکامن ډېټاسېټس پېری ته ډاؤن لوډ کؤ پاره ته سِسټر پلېټ فارم موزیلا ډډېټا کولېکټېو په ذریعه موجود هۀ۔ ڒی سوه لاسته ݫات ډېټاسېټس کی ا ځان رسېون که ته کمیونېټی ا خلق يې ته رئ خوئ پاره جوړ داک هۀ
+# Button text for MDC announcement
+announcement-mdc-button-text = موزیلا ډېټا سېټس کلېکټېو ګېرډ مل سُن
+# Aria text for button which opens MDC on a new page
+announcement-mdc-button-aria-text = نیوو ټېب نره وه میوز
+
+## Common Language/Dataset Selector & SearchBox Related
+
+# Generic search box defaults
+searchbox-default-label = ته تلاش پاره ا ټائنګ شوري کَۀ
+searchbox-default-placeholder = تلاش وه کَۀ
