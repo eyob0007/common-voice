@@ -7,9 +7,12 @@ datasets-headline-mdc = Mozilla Common Voice kpanjɔɣu pa nyɛla din m-be Mozil
 datasets-speech-bubble-content = Suhupiɛlli lahibali! Diri n toli fiila nyɛla din m-be soli! Na kuli n-gbulisimi tibili lahibaya na nyɛla din m-be soli ka lahi kpaŋ a maŋa ka a yuli ti <discordLink>Discord</discordLink> n wum lahibaya din yoil n kpɛna.
 language = Zuliya Balli
 download-dataset-header = voomi lahabali kpanjɔɣu maa
+download-delta-explainer = Ti niŋla taɣibu .Delta Segments kuli nyɛla din mali vulindi pala tum di yihibuna ni<deltaLink>karimmi lahibaya pam zaŋ kpa tuma ŋɔ polo<deltaLink>.
 download-dataset-tag = Piimi zuliya bal' shɛli kpanjɔɣu a ni bɔra ka m pii di bal' shɛli a ni bɔri ni a zaŋ n kpɛhi a maʒini puuni.
 # File size in gigabytes
 size = Barilim
+validated-hr-total = Dihitabili Hr.Total
+overall-hr-total = ŋɔn gendi di zaa Hr.Total
 cv-license = laansisi
 audio-format = Kukɔli ŋmahimli puuni
 dataset-splits = wɔligibu(yuma mini paɣa/doo)
