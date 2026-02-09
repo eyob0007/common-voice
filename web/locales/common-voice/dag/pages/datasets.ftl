@@ -24,6 +24,7 @@ why-donate-datasets-page = Mozila Common Voice nyala andunya yatuɣa so cheb sh�
 confirm-size = Aniŋ shili ni a vuli dinboŋɔ sonŋ kpe<b>{ $size }</b>
 size-gigabyte = GB
 size-megabyte = MB
+confirm-no-identify = <b>Asagya</b>ni a ku saɣi tilim ni a baŋ ban yari ti ri Common Voice dinpun laɣ'm doya
 confirm-join-mailing-list = A bɔri ni a pahila ninvuɣ' shɛba Common Voice ni n-tiri yimaali maa zuɣu
 download-language = vooma{ $language }
 validated-hours = Dihitabili saha la
