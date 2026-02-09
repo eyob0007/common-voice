@@ -25,6 +25,13 @@ cant-decide = kutooi pii
 how-many-per-day = M-bo, klipu dibaala dabisili puuni?
 how-many-a-week = M-bo,clipu dibaala dakulo puuni?
 which-goal-type = A bɔrimi ni a yɛli, n wum bee dizaa?
+n-clips-pluralized =
+    { $count ->
+        [one] yinga { $count }vulindigu
+       *[other] shebi{ $count }vulidisi
+    }
+help-share-goal = Soŋmiti ka ti bo kukoya pam,kagi ti a tahima
+confirm-goal = Saɣiti Tahima
 goal-interval-weekly = Bakoi
 # $type is one of share-goal-type-*
 share-n-daily-contribution-goal = Tarimi a { $count } Vulidigu Dabsili Tahima dinboŋɔ zuɣu { $type }
