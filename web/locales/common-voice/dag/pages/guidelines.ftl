@@ -17,6 +17,7 @@ example = shɛhira
 
 ## Voice collection sidebar content
 
+misreadings-explanation-2 = Chiriŋ shɛŋa din tooi bɛni n-nyɛ;
 misreadings-example-1 = Ti yɛn yimi n-ti bo kɔfi.
 misreadings-example-2 = Ti yɛn yimi n-ti bɔ kɔfi
 misreadings-example-3 = Ti yɛn yimi n-ti bo kɔfi.
@@ -66,6 +67,11 @@ tags-laugh-explanation = Lari komsi
 
 ## Code-Switching
 
+# What to Avoid
+code-switching-avoid-subheader = Din tu ni a che
+code-switching-avoid-intro = Bɔhisi din ni tooi:
+# Answering a Question
+code-switching-answer-subheader = Bɔhigu labsibu
 code-switching-not-tag-proper-names-example-2 = Tiŋsi: Los Angeles, Florida
 code-switching-not-tag-interjections-example-2 = "Aayi"
 code-switching-not-tag-interjections-example-3 = "Iin"

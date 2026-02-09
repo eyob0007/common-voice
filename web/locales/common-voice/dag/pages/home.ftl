@@ -58,5 +58,6 @@ download-contribution-certificate-action = Deemi a shɛhira gbaŋ
 
 ## Get involved section
 
+read-sentences-link = Karimmi yɛltɔɣa
 validate-readings-link = Dihimi satara n tabili
 answer-questions-link = Labisimi bɔhisi
