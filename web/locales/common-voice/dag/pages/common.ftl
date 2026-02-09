@@ -177,6 +177,7 @@ kcn = Nubi
 kdh = Kotokoli
 khw = Khowar
 ki = Kikuyu
+kjh = Yuli
 kk = Kazakh
 kln = Kalenjin
 kls = Yuli

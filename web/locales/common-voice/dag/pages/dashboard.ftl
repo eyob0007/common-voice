@@ -1,6 +1,7 @@
 ## Dashboard
 
 your-languages = a bala
+clips-you-validated = Vulindi sheŋa ani dihitabili
 awards = Pina
 you = Nyini
 everyone = Eokam
