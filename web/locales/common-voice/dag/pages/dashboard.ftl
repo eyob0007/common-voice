@@ -31,6 +31,10 @@ share-n-weekly-contribution-goal = zaŋmi a { $count } n wuhi kilipi nia ni nyɛ
 share-goal-type-speak = Yɛlibu
 share-goal-type-listen = wum'bu
 share-goal-type-both = Yɛlibu mini Wum'bu
+# LINK will be replaced with the current URL
+goal-share-text = N kuli yolimi n kpuri m maŋmaŋa nia ni n yaari kukɔya n niŋdi CommonVoice puuni -- pahimiya n zuɣu ka ti yina nti n-wuhi maʒina daadama ni diri fiila shɛm { $link }
+weekly-goal-created = A bakɔi kam nia la nyɛla din nam
+daily-goal-created = A bakɔi kam puuni nia la nyɛla din n nam
 share-goal = zaŋmi n niyanima n-ti
 
 ## Goals
