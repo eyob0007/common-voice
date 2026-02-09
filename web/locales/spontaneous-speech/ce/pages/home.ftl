@@ -20,3 +20,12 @@ respond-bubble-subtitle = Ма-дарра (кечам боцуш) жоп ло
 # text wrapped in <mark></mark> will have a blue background
 transcribe-bubble-title = <mark>Йозане ерзор</mark>
 transcribe-bubble-subtitle = Аудио-клипаш чохь хьайна хезарг дӀаязде
+# text wrapped in <mark></mark> will have a blue background
+check-bubble-title = <mark>Тергам бе</mark>
+check-bubble-subtitle = Йоза аудиоца догӀуш дуй хьажа
+# text wrapped in <mark></mark> will have a blue background
+data-bubble-title = <mark>Хаамаш</mark>
+data-bubble-subtitle = Хаамийн гулар рогӀаллехь арахоьцу оха
+contact-us = Тхоьца зӀе
+contact-us-title = Проектехь дакъалаца йа накъосталла дан лаьий хьуна?
+contact-us-email = Электрони пошта<emailFragment>commonvoice@mozilla.com</emailFragment>
