@@ -19,6 +19,7 @@ dataset-splits = wɔligibu(yuma mini paɣa/doo)
 number-of-voices = kukɔya kalinli
 splits = wɔligibu
 email-to-download = kpɛhimi a iimeeli ka vooi
+why-email = <b>Bo zuɣu ka di nye sodoligu ŋɔ?
 size-gigabyte = GB
 size-megabyte = MB
 confirm-join-mailing-list = A bɔri ni a pahila ninvuɣ' shɛba Common Voice ni n-tiri yimaali maa zuɣu
