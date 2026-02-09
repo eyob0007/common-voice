@@ -54,6 +54,7 @@ dataset-metadata-age = A yuma
 dataset-donate-modal-heading = a di mi?
 data-download-yes = Iin
 data-download-deny = Aayi
+data-download-license = Shahara
 data-other-goto = Cham { $name }
 dataset-date = Dabisili
 license-mixed = Gabbu

@@ -22,6 +22,8 @@ misreadings-example-1 = Ti yɛn yimi n-ti bo kɔfi.
 misreadings-example-2 = Ti yɛn yimi n-ti bɔ kɔfi
 misreadings-example-3 = Ti yɛn yimi n-ti bo kɔfi.
 background-voices-tip-1 = A kanna?
+still-have-questions = Anna mali bohasi?
+contact-common-voice = Bolimi kukoyinga nim maa
 
 ## Sentence collection nav ids
 
