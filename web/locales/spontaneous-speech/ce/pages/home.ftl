@@ -11,3 +11,12 @@ why-card-2-text = Маттана дика гӀо лацар, масала:къа
 # text wrapped with <mark></mark> will have a light red background
 why-card-3-text = Дика гӀо лацар йозанан бух боцуш йа кӀеззиг болу метташна  (масала: социальни тобанийн меттадакъаш (социолекташ), меттан кеаш, йа исторически йоза хилла доцу меттанаш)
 how-spontaneous-speech-works = Шашха долу къамел муха хӀоттало
+# text wrapped in <mark></mark> will have a blue background
+prompt-bubble-title = <mark>Дехар</mark>
+prompt-bubble-subtitle = Оха хьуна гойтур ду дехар йа хаттар
+# text wrapped in <mark></mark> will have a blue background
+respond-bubble-title = <mark>Жоп ло</mark>
+respond-bubble-subtitle = Ма-дарра (кечам боцуш) жоп ло
+# text wrapped in <mark></mark> will have a blue background
+transcribe-bubble-title = <mark>Йозане ерзор</mark>
+transcribe-bubble-subtitle = Аудио-клипаш чохь хьайна хезарг дӀаязде
