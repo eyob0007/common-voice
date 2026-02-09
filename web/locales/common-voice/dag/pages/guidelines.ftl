@@ -3,11 +3,14 @@ guidelines-header = tɔhibu sodola
 voice-collection = Kukoya deebu
 sentence-collection = Yɛltɔɣa labivihi
 question-collection = Bɔhisi deebu
+scripted-speech = Yatuɣa din sabi
+spontaneous-speech = Saha shalikam yɛligu
 dont-subheader = Mira
 
 ## Voice Collection nav ids
 
 varying-pronunciations = Bɔlibu din wɔli
+misreadings = gab karim
 offensive-content = Barina lahabali
 background-voices = Kukoya ni vuri
 volume = kukɔli duhibu
