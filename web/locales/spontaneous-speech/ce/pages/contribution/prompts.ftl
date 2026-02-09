@@ -35,3 +35,5 @@ learn-how-to-use-transcribe = Йозане ерзор Ӏамаде
 learn-how-to-use-transcribe-explanation = Адамо ма-аллара нийса дӀаязде, «ммм», «э-э-э» санна долу маьӀна доцу дешнаш а юкъахь долуш
 learn-how-to-use-transcribe-guidance = <guidanceLink>кхузахь тӀетаӀайе</guidanceLink>хӀара агӀо муха лело еза Ӏамо
 learn-how-to-use-check-transcript = Йозане ерзийна аудио (транскрипци) муха талла еза Ӏамаде
+learn-how-to-use-check-transcript-explanation = (йозане ерзоро) адамо аьлла хӀора дош а, я къамелан маьӀна доцу аьзнаш а, юхаалларш а ма-дарра схьалаца деза Транскрипцино
+learn-how-to-use-check-transcript-guidance = <guidanceLink>кхузахь тӀетаӀайе</guidanceLink>хӀара агӀо муха лело еза Ӏамо
