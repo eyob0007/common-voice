@@ -30,3 +30,8 @@ submit-all-button = Дерриге дӀадахьийта
 
 learn-how-to-use-prompts = АгӀо муха лело беза хьажа
 learn-how-to-use-prompts-explanation = адамо ма-оллара, шина-кхаа аламцаа жоп ло. Хьайн къамел оьзда а, стагана цатам болчу хӀуманашна гена а хилийта
+learn-how-to-use-prompts-guidance = <guidanceLink>кхузахь тӀетаӀайе</guidanceLink>хӀара агӀо муха лело еза Ӏамо
+learn-how-to-use-transcribe = Йозане ерзор Ӏамаде
+learn-how-to-use-transcribe-explanation = Адамо ма-аллара нийса дӀаязде, «ммм», «э-э-э» санна долу маьӀна доцу дешнаш а юкъахь долуш
+learn-how-to-use-transcribe-guidance = <guidanceLink>кхузахь тӀетаӀайе</guidanceLink>хӀара агӀо муха лело еза Ӏамо
+learn-how-to-use-check-transcript = Йозане ерзийна аудио (транскрипци) муха талла еза Ӏамаде
