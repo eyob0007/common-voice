@@ -7,6 +7,7 @@ clips-you-recorded = Shinii sheŋa ani vuli soŋ
 clips-you-validated = Vulindi sheŋa ani dihitabili
 todays-recorded-progress = Zuŋɔ Common Voice shinii shaŋa din vuli doya
 todays-validated-progress = Zuŋɔ Common Voice shinii sheŋa din dihitabili toontibo
+stats = Yuli
 awards = Pina
 you = Nyini
 everyone = Eokam
@@ -21,10 +22,16 @@ show-ranking = Wuhimi n zaa shee
 
 ## Custom Goals
 
+get-started-goals = Pilimi ni tahimanima
+create-custom-goal = Nammi tahima din ni tum
 both-speak-and-listen = Di zaa
 both-speak-and-listen-long = Dizaa (Yɛlima ka Wum)
+daily-goal = Dabsili Tahima
+weekly-goal = Dakulo  Tahima
 easy-difficulty = Alaha
+average-difficulty = Sunsuni
 difficult-difficulty = Din to
+pro-difficulty = Pun niŋ
 want-to-continue = A bɔri ni a tuhi?
 finish-editing = N naai tɔhibu piligu?
 lose-changes-warning = Yibu sahaŋɔ wuhirimi ni antooi koŋ a yaɣibu nima.
