@@ -96,9 +96,15 @@ player-skip-backward-aria-label = Saltar retro 5 secondas
 player-skip-forward-aria-label = Saltar avante 5 secondas
 # Audio playback progress slider accessibility/aria label
 player-progress-slider-aria-label = Cursor del progresso reproduction audio
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = Activar/disactivar le menu del modos
 # Slower playback speed button accessibility/aria label
 player-speed-slow-aria-label = Relentar velocitate de reproduction
 # Normal playback speed button accessibility/aria label
 player-speed-normal-aria-label = Velocitate de reproduction normal
 # Faster playback speed button accessibility/aria label
 player-speed-fast-aria-label = Accelerar elocitate de reproduction
+# Auto transcription mode button accessibility/aria label
+transcription-mode-auto-aria-label = Activar/disactivar le lectura automatic parola per parola
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Activar/disactivar le menu del modos de transcription
