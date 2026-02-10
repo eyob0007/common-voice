@@ -29,15 +29,19 @@ misreadings-explanation-5 = N karindi binshɛŋa din ka ni.
 misreadings-example-1 = Ti yɛn yimi n-ti bo kɔfi.
 misreadings-example-2 = Ti yɛn yimi n-ti bɔ kɔfi
 misreadings-example-3 = Ti yɛn yimi n-ti bo kɔfi.
+misreadings-tip-3 = (lahabaya dim bi doli taba )
+background-noise-tip-2 = [yɛltɔɣa maa yaɣ' shɛli ku tooi wum]
 background-voices-tip-1 = A kanna?
 still-have-questions = Anna mali bohasi?
 contact-common-voice = Bolimi kukoyinga nim maa
 
 ## Sentence collection nav ids
 
+public-domain = saloni
 citing-sentences = Yɛltɔɣa yibushee
 adding-sentences = yɛltɔɣa pahibu
 reviewing-sentences = Yɛltɔɣa labivihi
+sentence-domain = Yɛltɔɣili ni yi yaɣ' shɛli na
 
 ## Sentence collection sidebar content
 
@@ -47,6 +51,7 @@ citing-sentences-subheader-academic-reference = Kundivihira
 citation =
     .label = Dini yi shɛli na
 adding-sentences-subheader-length = waɣilim
+adding-sentences-subheader-length-explanation = Yɛltɔɣili maa bi tu ni di bachinim pɔri gari pia ni anu
 adding-sentences-subheader-spelling-punctuation = bachiyisibu mini bihibahibu
 adding-sentences-subheader-spelling-punctuation-explanation = Yɛltɔɣili maa bachinima simdi ka di yiɣisi dede.
 adding-sentences-subheader-speakable = Din tooi yɛli
