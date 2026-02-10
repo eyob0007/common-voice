@@ -75,7 +75,9 @@ what-makes-a-good-question-explanation-criteria-1 = Ka di mali gbaabu ni garigib
 what-makes-a-good-question-explanation-criteria-2 = Di tu ni di mali anfaani
 spelling-and-pronunciation = bachiyisibu mini bihibahibu
 length = waɣilim
+length-explanation = Bɔhigu maa tu ni di tooi labisi ni yɛltɔɣa bela
 dont-add-subheader = Di pahi
+culturally-specific-questions = kaya ni ta-ada bɔhisi
 process-steps = Soya
 example-questions-subheader = Kotomsi bɔhisi
 example-questions-explanation-1 = A ni tooi nya <examplePromptsLink> kɔbigi ni pishi kotomsi gbaŋ ŋɔ ni.</examplePromptsLink>
@@ -84,6 +86,10 @@ example-questions-explanation-1 = A ni tooi nya <examplePromptsLink> kɔbigi ni 
 
 # Answer Questions
 answer-questions = Labisimi bɔhisi
+answer-questions-tip-1 = Yaami li luɣishɛli din fo.
+answer-questions-tip-2 = piimi luɣishɛli intaneeti ni be.
+# Transcribe the Audio
+transcribe-the-audio = Sabimi kukɔli maa.
 tags-table-header-2 = Gbinni
 tags-laugh = La
 tags-noise = Vuri
