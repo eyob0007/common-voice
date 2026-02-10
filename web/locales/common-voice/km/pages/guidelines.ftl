@@ -100,6 +100,13 @@ adding-sentences-subheader-punctuation-explanation = និមិត្តសញ
 adding-sentences-subheader-special-characters = តួអក្សរពិសេស និងអក្សរបរទេស
 adding-sentences-subheader-special-characters-explanation-1 = អក្សរត្រូវតែមានសុពលភាពជាភាសាដែលកំពុងនិយាយ។ ឧទាហរណ៍ “ж” គឺជាអក្សរមួយនៅក្នុងអក្ខរក្រមរុស្ស៊ី ប៉ុន្តែមិនដែលត្រូវបានប្រើប្រាស់ជាភាសាអង់គ្លេសទេ ដូច្នេះហើយមិនគួរលេចឡើងក្នុងអត្ថបទប្រភពភាសាអង់គ្លេសណាមួយឡើយ។
 adding-sentences-subheader-special-characters-explanation-2 = ភាសាអាចមានច្បាប់ផ្ទៀងផ្ទាត់ផ្ទាល់ខ្លួនជាមួយនឹងតម្រូវការបន្ថែមនៅពេលដែលពួកវាធ្វើមូលដ្ឋានីយកម្ម។ ប្រសិនបើមិនមានឯកសារផ្ទៀងផ្ទាត់ជាក់លាក់សម្រាប់ភាសាណាមួយទេ ច្បាប់ភាសាអង់គ្លេសនឹងបង្ហាញសម្រាប់អ្នករួមចំណែក។
+adding-sentences-subheader-offensive-content = ខ្លឹមសារ​ប្រមាថ
+adding-sentences-subheader-offensive-content-explanation = ប្រសិនបើប្រយោគនេះមានលក្ខណៈប្រមាថ ឬធ្វើឲ្យមានការខកចិត្ត - ឧទាហរណ៍ ដោយសារតែខ្លឹមសារជាក់លាក់ ឬការរំលោភលើ <communityGuidelines>គោលការណ៍ណែនាំអំពីការចូលរួមសហគមន៍</communityGuidelines> របស់យើង - អ្នកគួរតែបដិសេធប្រយោគនេះ។ អ្នកក៏អាចទាក់ទងមកយើងតាមរយៈ <emailFragment>commonvoice@mozilla.com</emailFragment> ដើម្បីរាយការណ៍បញ្ហានេះផងដែរ។
+reviewing-sentences-explanation-1 = ប្រសិនបើប្រយោគនេះបំពេញតាមលក្ខណៈវិនិច្ឆ័យខាងលើ សូមចុចប៊ូតុង "បាទ/ចាស"។
+reviewing-sentences-explanation-2 = ប្រសិនបើប្រយោគមិនបំពេញតាមលក្ខណៈវិនិច្ឆ័យខាងលើ សូមចុចប៊ូតុង "ទេ"។
+reviewing-sentences-explanation-3 = ប្រសិនបើអ្នកមិនប្រាកដអំពីប្រយោគនេះទេ អ្នកក៏អាចរំលងវា ហើយបន្តទៅប្រយោគបន្ទាប់បានដែរ។
+reviewing-sentences-explanation-4 = ប្រសិនបើអ្នកអស់ប្រយោគដែលត្រូវពិនិត្យឡើងវិញ សូមជួយយើងប្រមូលប្រយោគបន្ថែមទៀត!
+domain-explanation = ដែន សំដៅលើប្រធានបទនៃប្រយោគ។ បច្ចុប្បន្ន អ្នកអាចជ្រើសរើសរវាង៖
 
 ## Question collection ids
 
@@ -107,17 +114,51 @@ adding-questions = ការបន្ថែមសំណួរ
 
 ## Question collection sidebar content
 
+what-makes-a-good-question-subheader = តើអ្វីដែលធ្វើឱ្យសំណួរល្អមួយ?
+what-makes-a-good-question-explanation = សំណួរល្អសម្រាប់សំណុំទិន្នន័យការចូលរួមសាធារណៈគួរតែ៖
+what-makes-a-good-question-explanation-criteria-1 = ងាយយល់ និងឆ្លើយតប
+what-makes-a-good-question-explanation-criteria-2 = ត្រូវមានភាពពាក់ព័ន្ធជាទូទៅ
+what-makes-a-good-question-explanation-criteria-3 = កុំប្រើ ឬស្នើសុំភាសាដែលបង្កគ្រោះថ្នាក់ ឬប្រមាថ
+what-makes-a-good-question-tip = អ្នកក៏ប្រហែលជាចង់ពិចារណាពង្រីកបរិបទ និងដែនផ្សេងៗគ្នាផងដែរ។
 easy-to-understand = ងាយយល់
+easy-to-understand-explanation = ជ្រើសរើសសំណួរសាមញ្ញៗដែលងាយស្រួលសម្រាប់អ្នកណាម្នាក់យល់ ដោយមិនគិតពីវប្បធម៌ ឬបរិបទឡើយ។
+spelling-and-pronunciation = អក្ខរាវិរុទ្ធ និង សញ្ញាវណ្ណយុត្តិ
+spelling-and-pronunciation-explanation = ប្រើអក្ខរាវិរុទ្ធ និងវេយ្យាករណ៍ត្រឹមត្រូវ។
+length = ប្រវែង
+length-explanation = សំណួរគួរតែអាចឆ្លើយបានក្នុងរយៈពេលត្រឹមតែពីរបីប្រយោគប៉ុណ្ណោះ។
 dont-add-subheader = កុំបន្ថែម
+culturally-specific-questions = សំណួរជាក់លាក់ខាងវប្បធម៌
+culturally-specific-questions-explanation = សំណួរដែលមានលក្ខណៈជាក់លាក់ខាងវប្បធម៌ខ្លាំង ឬធ្វើការសន្មត់ច្រើនអំពីអ្នកឆ្លើយ
+length-avoid-explanation = សំណួរដែលនរណាម្នាក់ពិបាកឆ្លើយក្នុងរយៈពេល 15 វិនាទី (ប្រវែងវីដេអូអតិបរមា)
 process-steps = ដំណើរការ / ជំហាន
+process-steps-explanation = សំណួរដែលតម្រូវឱ្យនរណាម្នាក់រាយបញ្ជីជំហានជាច្រើន។ ជំហាននៃការរាយបញ្ជីជំរុញឱ្យអ្នកប្រើប្រាស់សូត្រចម្លើយជាជាងការឆ្លើយតបធម្មជាតិជាង។
+offensive-content-sensitive-information = ខ្លឹមសារ​ដែល​ប៉ះពាល់​ដល់​សុខភាព ឬ​ព័ត៌មាន​រសើប
+offensive-content-sensitive-information-explanation-explanation-1 = សំណួរដែលអាចស្នើសុំព័ត៌មានផ្ទាល់ខ្លួនដែលអាចកំណត់អត្តសញ្ញាណបាន
+offensive-content-sensitive-information-explanation-explanation-2 = សំណួរដែលអាចបង្កឱ្យមានពាក្យសម្ដីស្អប់ខ្ពើម ឬអារម្មណ៍លម្អៀង ឬប្រមាថផ្សេងទៀត
+offensive-content-sensitive-information-explanation-explanation-3 = សំណួរដែលអាចបណ្តាលឱ្យនរណាម្នាក់ចែករំលែកចម្លើយដែលរសើប និងអាចបង្កឱ្យមានការចាប់អារម្មណ៍
+example-questions-subheader = សំណួរឧទាហរណ៍
+example-questions-explanation-1 = អ្នកអាចរកឃើញ <examplePromptsLink>ឧទាហរណ៍នៃការណែនាំចំនួន 120 នៅក្នុងសន្លឹកនេះ។</examplePromptsLink>
+example-questions-explanation-2 = ប្រសិនបើអ្នកចង់ដាក់ស្នើសំណួរមួយចំនួនសម្រាប់ការទទួលយក អ្នក <githubLink>អាចធ្វើដូច្នេះបានតាមរយៈ GitHub របស់យើង</githubLink> ឬផ្ញើបញ្ជីរបស់អ្នកតាមអ៊ីមែលទៅកាន់ <emailFragment>commonvoice@mozilla.com</emailFragment>។
 
 ## Spontaneous Speech sidebar content
 
 # Answer Questions
 answer-questions = ឆ្លើយសំណួរ
 answer-questions-subheader = ការណែនាំទូទៅ
+answer-questions-explanation-1 = សូមគិតមួយភ្លែតអំពីការណែនាំ ពិចារណាអំពីប្រភេទរឿងដែលអ្នកចង់និយាយ ប៉ុន្តែកុំសរសេរស្គ្រីបច្រើនពេក។ ចុចលើរូបតំណាង "ថត"។ នៅពេលដែលអ្នកបានថតរួចហើយ អ្នកអាចស្តាប់ខ្លួនឯង ថតឡើងវិញ លុប ឬដាក់ស្នើ។
+answer-questions-explanation-2 = សូមចងចាំ - កុំបារម្ភប្រសិនបើអ្នកនិយាយตะกุกตะกัก ផ្អាក ឬនិយាយពាក្យណាមួយ។ នេះគឺជាទិន្នន័យមានប្រយោជន៍ទាំងអស់សម្រាប់វិស្វករដែលកំពុងព្យាយាមបង្កើតឧបករណ៍សម្គាល់ការនិយាយដែលរួមបញ្ចូល និងមានលក្ខណៈពិត។
+answer-questions-tip-1 = ថតនៅកន្លែងស្ងាត់ល្មម
+answer-questions-tip-2 = ជ្រើសរើសកន្លែងដែលមានការតភ្ជាប់អ៊ីនធឺណិតល្អ
+answer-questions-tip-3b = ព្យាយាមរក្សាការឆ្លើយតបរបស់អ្នកឱ្យដល់ 15-30 វិនាទី
+answer-questions-tip-4 = ជៀសវាងការនិយាយបែបស្អប់ខ្ពើម បង្កបញ្ហា ឬប្រមាថមើលងាយតាមរបៀបផ្សេងទៀត
+answer-questions-tip-5 = និយាយដោយធម្មជាតិ ដូចដែលអ្នកធ្វើជាមួយមិត្តភក្តិ - ប្រើវ៉ារ្យ៉ង់ពិត គ្រាមភាសា និងសង្កត់សំឡេងរបស់អ្នក
+answer-questions-tip-6 = រក្សាកម្រិតសំឡេងរបស់អ្នកឱ្យស្មើគ្នា - កុំស្រែក ឬច្រៀង
+# Transcribe the Audio
+transcribe-the-audio = ចម្លងសំឡេង
 transcribe-the-audio-subheader-1 = ការណែនាំទូទៅ
+transcribe-the-audio-subheader-2 = លេខ និងអក្សរកាត់
 transcribe-the-audio-subheader-3 = ស្លាកពិសេស
+transcribe-the-audio-subheader-4 = ផ្នែកពាក្យ, ការចាប់ផ្តើមមិនពិត, ពាក្យដដែលៗ
 tags-table-header-1 = ស្លាក
 tags-table-header-2 = អត្ថន័យ
 tags-laugh = សើច
