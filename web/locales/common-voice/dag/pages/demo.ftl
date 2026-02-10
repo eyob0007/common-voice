@@ -12,7 +12,14 @@ card-button-next = Din paya
 card-button-back = nyaaŋa
 demo-language-select-label = Chemi poham zuɣu ti bo bala
 demo-eofy-header = 2019 yuuni bahigu bahibu
+demo-eofy-sub_header = Kɔkuya kpanjɔɣu la, yi pa ni tooi n zaŋ n-kpɛhi a maʒina puuni
 demo-account = acounti
+
+## Demo Account
+
+demo-account-card-header = Di bi n kpa talahi ni a mali akaunti pɔi ka naan n tooi n tɔhi, tɔ! amaa di malibu nyɛla din yɛn n sɔŋ a.
+demo-account-enter-email =
+    .label = Kpɛhimi yimeli ka di chɛ ka n yooi linki
 
 ## Demo Contribute
 
