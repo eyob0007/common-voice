@@ -24,6 +24,8 @@ example = shɛhira
 
 varying-pronunciations-example = Lala soli maa daa bi ne n do polo ni.
 misreadings-explanation-2 = Chiriŋ shɛŋa din tooi bɛni n-nyɛ;
+misreadings-explanation-4 = 's' kahiyaɣi bachi bahigu
+misreadings-explanation-5 = N karindi binshɛŋa din ka ni.
 misreadings-example-1 = Ti yɛn yimi n-ti bo kɔfi.
 misreadings-example-2 = Ti yɛn yimi n-ti bɔ kɔfi
 misreadings-example-3 = Ti yɛn yimi n-ti bo kɔfi.

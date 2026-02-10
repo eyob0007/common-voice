@@ -20,6 +20,7 @@ demo-account = acounti
 demo-account-card-header = Di bi n kpa talahi ni a mali akaunti pɔi ka naan n tooi n tɔhi, tɔ! amaa di malibu nyɛla din yɛn n sɔŋ a.
 demo-account-enter-email =
     .label = Kpɛhimi yimeli ka di chɛ ka n yooi linki
+demo-account-sign-up = zaŋmi kpɛbu soli ti
 
 ## Demo Contribute
 
