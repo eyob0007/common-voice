@@ -102,3 +102,9 @@ player-toggle-mode-menu-aria-label = Переключить меню режим�
 player-speed-slow-aria-label = Медленная скорость воспроизведения
 # Normal playback speed button accessibility/aria label
 player-speed-normal-aria-label = Нормальная скорость воспроизведения
+# Faster playback speed button accessibility/aria label
+player-speed-fast-aria-label = Быстрая скорость воспроизведения
+# Auto transcription mode button accessibility/aria label
+transcription-mode-auto-aria-label = Включить/отключить автоматическое пословное воспроизведение
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Включить/отключить меню режима транскрипции
