@@ -26,6 +26,10 @@ contribute = Contribuer
 # Button text which appears when there are no more resources
 continue-with-skipped = Continuar con contento saltate
 
+## Common aria-labels
+
+keyboard-shortcuts-button-aria-label = Monstrar vias breve de claviero
+
 ## Navbar
 
 question = Question
@@ -53,3 +57,36 @@ language-search-placeholder = Cercar un lingua...
 language-search-aria-label = Cercar un lingua
 language-search-label = Solo cambia le lingua de de contribution de collection de datos
 language-search-no-results = Necun lingua trovate
+
+## Transcription Player - Mode Buttons
+
+# Transcription Player - Automatic Mode
+transcription-mode-auto = Auto
+# Player - slower
+player-speed-slow = Lente
+# Player - normal speed
+player-speed-normal = Normal
+# Player - faster
+player-speed-fast = Veloce
+
+## Transcription Player Controls - Keyboard Shortcuts
+
+# Player control shortcut for play/pause: pressed with Ctrl/Cmd
+player-play-pause-shortcut = p
+player-play-pause-shortcut-key = Ctrl / Cmd + P
+player-play-pause-shortcut-name = Play / Pause
+# Player control shortcut to go back 5 seconds: pressed with Ctrl/Cmd
+player-skip-backward-shortcut = 8
+player-skip-backward-shortcut-key = Ctrl / Cmd + 8
+# Player control shortcut to go forwards 5 seconds: pressed with Ctrl/Cmd
+player-skip-forward-shortcut = 9
+player-skip-forward-shortcut-key = Ctrl / Cmd + 9
+
+## Transcription Player - Aria Labels
+
+# Play button accessibility/aria label
+player-play-button-aria-label = Reproducer audio
+# Skip back button accessibility/aria label
+player-skip-backward-aria-label = Saltar retro 5 secondas
+# Normal playback speed button accessibility/aria label
+player-speed-normal-aria-label = Velocitate de reproduction normal
