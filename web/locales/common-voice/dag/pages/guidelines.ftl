@@ -94,6 +94,8 @@ tags-table-header-2 = Gbinni
 tags-laugh = La
 tags-noise = Vuri
 tags-laugh-explanation = Lari komsi
+tags-unclear-explanation = Bachi bee yɛltɔɣili din ka gbaabu
+tags-noise-explanation = Vuri kam kamani ŋun yɛri maa kɔhingu,siɣimbu,loori kikaa kumsi, binshɛɣu ŋme ye'duhirigu maa, taŋgalimii vubu
 
 ## Code-Switching
 
