@@ -165,6 +165,10 @@ transcribe-the-audio-subheader-1-explanation-example-1 = សរសេរនូ�
 transcribe-the-audio-subheader-1-explanation-example-2 = ការដាក់ស្លាកព្រឹត្តិការណ៍សំឡេងរំខានដូចជាការក្អក ឬសើច
 transcribe-the-audio-subheader-1-explanation-example-3 = ការ​ដាក់​ស្លាក​លើ​ការ​បំពុល​សំឡេងរំខាន​ធ្ងន់ធ្ងរដូចជា​សំឡេង​ពី​ផ្ទៃ​ខាង​ក្រោយ ឬ​សំឡេង​ស៊ីផ្លេ​រថយន្ត
 transcribe-the-audio-subheader-1-explanation-example-4 = ភាពខុសគ្នានៃវេយ្យាករណ៍ និងភាសាតាមតំបន់គួរតែត្រូវបានថតយ៉ាងជាក់លាក់នៅពេលវាកើតឡើង។ កុំកែតម្រូវ ឬកែសម្រួលការនិយាយរបស់មនុស្ស។
+transcribe-the-audio-subheader-2-explanation-1 = លេខ និងនិមិត្តសញ្ញាគួរតែត្រូវបានសរសេរជាពាក្យជាជាងការប្រើលេខ ឬតួអក្សរពិសេស។ ឧទាហរណ៍៖
+transcribe-the-audio-subheader-2-explanation-2 = អក្សរកាត់គួរតែសរសេរដូចដែលវាបានសរសេរជាធម្មតាក្នុងភាសានោះ ដោយអនុវត្តតាមច្បាប់ស្តង់ដារនៃការប្រើប្រាស់អក្សរធំ។ ពួកវាមិនគួរត្រូវបានចម្លងតាមសូរសព្ទទេ។ ឧទាហរណ៍៖
+# text wrapped in correct will be shown as green text in the UI
+transcribe-the-audio-subheader-2-example-1-correct = <correct> ត្រឹមត្រូវ</correct>៖ វាមានចម្ងាយមួយរយម៉ាយពីទីនេះ
 tags-table-header-1 = ស្លាក
 tags-table-header-2 = អត្ថន័យ
 tags-laugh = សើច
