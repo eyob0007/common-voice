@@ -169,12 +169,24 @@ transcribe-the-audio-subheader-2-explanation-1 = លេខ និងនិមិ
 transcribe-the-audio-subheader-2-explanation-2 = អក្សរកាត់គួរតែសរសេរដូចដែលវាបានសរសេរជាធម្មតាក្នុងភាសានោះ ដោយអនុវត្តតាមច្បាប់ស្តង់ដារនៃការប្រើប្រាស់អក្សរធំ។ ពួកវាមិនគួរត្រូវបានចម្លងតាមសូរសព្ទទេ។ ឧទាហរណ៍៖
 # text wrapped in correct will be shown as green text in the UI
 transcribe-the-audio-subheader-2-example-1-correct = <correct> ត្រឹមត្រូវ</correct>៖ វាមានចម្ងាយមួយរយម៉ាយពីទីនេះ
+# text wrapped in wrong will be shown as red text in the UI
+transcribe-the-audio-subheader-2-example-1-wrong = <ខុស>ខុស</ខុស>៖ វាមានចម្ងាយ 100 ម៉ាយពីទីនេះ
+# text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-correct = <correct> ត្រឹមត្រូវ</correct>៖ ជួបគ្នានៅឆ្នាំ <underline>ពីរពាន់ដប់ប្រាំ</underline>
+# text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-wrong = <ខុស>ខុស</ខុស>៖ ជួបគ្នានៅឆ្នាំ 2015</ក្រោមបន្ទាត់>
+transcribe-the-audio-subheader-2-example-3-correct = <correct>ត្រឹមត្រូវ</correct>៖ វា​បាន​បញ្ចុះតម្លៃ​ម្ភៃ​ភាគរយ
+transcribe-the-audio-subheader-2-example-3-wrong = <ខុស>ខុស</ខុស>៖ វា​បាន​បញ្ចុះតម្លៃ 20%
+transcribe-the-audio-subheader-2-example-4-correct = <correct>ត្រឹមត្រូវ</correct>៖ ពួកគេត្រូវបានចាប់ខ្លួនដោយ <underline>FBI</underline> កាលពីថ្ងៃព្រហស្បតិ៍មុន
+transcribe-the-audio-subheader-2-example-4-wrong = <ខុស>ខុស</ខុស>៖ ពួកគេត្រូវបានចាប់ខ្លួនដោយ <underline>អេហ្វប៊ីអាយ</underline> កាលពីថ្ងៃព្រហស្បតិ៍មុន
+transcribe-the-audio-subheader-3-explanation = ស្លាកពិសេសខាងក្រោមគួរតែត្រូវបានប្រើដើម្បីសម្គាល់ភាពមិនច្បាស់លាស់ ការបំពេញ និងប្រភេទផ្សេងទៀតនៃខ្លឹមសារមិនមែនពាក្យសម្ដី (ជាភាសាអង់គ្លេស)។
 tags-table-header-1 = ស្លាក
 tags-table-header-2 = អត្ថន័យ
 tags-laugh = សើច
 tags-disfluency = ភាពមិនច្បាស់លាស់
 tags-unclear = មិនច្បាស់លាស់
 tags-noise = សំឡេងរំខាន
+tags-laugh-explanation = សំឡេងសើចចំអក។
 
 ## Review the Transcription
 
