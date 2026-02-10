@@ -58,7 +58,9 @@ adding-sentences-subheader-speakable = Din tooi yɛli
 adding-sentences-subheader-numbers = kalinli
 adding-sentences-subheader-abbreviations = bachi ŋmahi mini bachi ŋma'kurita
 adding-sentences-subheader-punctuation = Bihibahibu
+adding-sentences-subheader-offensive-content = Barina lahabali
 reviewing-sentences-explanation-1 = Yɛltɔɣili maa yi doli sodola maa,nyin dihimi "iin" bia maa
+reviewing-sentences-explanation-2 = Yɛltɔɣili maa yi bi doli sodola ŋan do zuɣusaa ŋɔ,nyin dihimi"aayi" bia maa
 reviewing-sentences-explanation-3 = A yi ka dihitabili ni yɛltɔɣili maa, a ni tooi yaɣili ka chaŋ dim paya
 reviewing-sentences-explanation-4 = Yɛltɔɣa yi lahi kani ni a labivihi, nyin dimi suɣulo ka sɔŋ ti ka ti laɣisi yɛltɔɣa pam m-pahi.
 
