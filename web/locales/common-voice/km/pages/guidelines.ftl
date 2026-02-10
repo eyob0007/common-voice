@@ -164,6 +164,7 @@ transcribe-the-audio-subheader-1-explanation = ជាទូទៅ អ្នក�
 transcribe-the-audio-subheader-1-explanation-example-1 = សរសេរនូវភាពមិនច្បាស់លាស់ រួមមានការស្ទាក់ស្ទើរ និងការធ្វើម្ដងទៀត
 transcribe-the-audio-subheader-1-explanation-example-2 = ការដាក់ស្លាកព្រឹត្តិការណ៍សំឡេងរំខានដូចជាការក្អក ឬសើច
 transcribe-the-audio-subheader-1-explanation-example-3 = ការ​ដាក់​ស្លាក​លើ​ការ​បំពុល​សំឡេងរំខាន​ធ្ងន់ធ្ងរដូចជា​សំឡេង​ពី​ផ្ទៃ​ខាង​ក្រោយ ឬ​សំឡេង​ស៊ីផ្លេ​រថយន្ត
+transcribe-the-audio-subheader-1-explanation-example-4 = ភាពខុសគ្នានៃវេយ្យាករណ៍ និងភាសាតាមតំបន់គួរតែត្រូវបានថតយ៉ាងជាក់លាក់នៅពេលវាកើតឡើង។ កុំកែតម្រូវ ឬកែសម្រួលការនិយាយរបស់មនុស្ស។
 tags-table-header-1 = ស្លាក
 tags-table-header-2 = អត្ថន័យ
 tags-laugh = សើច
