@@ -68,6 +68,9 @@ adding-questions = bohasi pahibu
 
 ## Question collection sidebar content
 
+what-makes-a-good-question-subheader = Bɔ n lee che ka bɔhigu nye bɔhi' maŋli
+what-makes-a-good-question-explanation-criteria-1 = Ka di mali gbaabu ni garigibu
+what-makes-a-good-question-explanation-criteria-2 = Di tu ni di mali anfaani
 spelling-and-pronunciation = bachiyisibu mini bihibahibu
 length = waɣilim
 dont-add-subheader = Di pahi
