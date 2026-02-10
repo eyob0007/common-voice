@@ -78,15 +78,27 @@ player-play-pause-shortcut-name = Play / Pause
 # Player control shortcut to go back 5 seconds: pressed with Ctrl/Cmd
 player-skip-backward-shortcut = 8
 player-skip-backward-shortcut-key = Ctrl / Cmd + 8
+player-skip-backward-shortcut-name = Retro
 # Player control shortcut to go forwards 5 seconds: pressed with Ctrl/Cmd
 player-skip-forward-shortcut = 9
 player-skip-forward-shortcut-key = Ctrl / Cmd + 9
+player-skip-forward-shortcut-name = Avante
 
 ## Transcription Player - Aria Labels
 
 # Play button accessibility/aria label
 player-play-button-aria-label = Reproducer audio
+# Pause button accessibility/aria label
+player-pause-button-aria-label = Pausar audio
 # Skip back button accessibility/aria label
 player-skip-backward-aria-label = Saltar retro 5 secondas
+# Skip forward button accessibility/aria label
+player-skip-forward-aria-label = Saltar avante 5 secondas
+# Audio playback progress slider accessibility/aria label
+player-progress-slider-aria-label = Cursor del progresso reproduction audio
+# Slower playback speed button accessibility/aria label
+player-speed-slow-aria-label = Relentar velocitate de reproduction
 # Normal playback speed button accessibility/aria label
 player-speed-normal-aria-label = Velocitate de reproduction normal
+# Faster playback speed button accessibility/aria label
+player-speed-fast-aria-label = Accelerar elocitate de reproduction
