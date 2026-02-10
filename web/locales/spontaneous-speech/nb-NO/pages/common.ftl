@@ -96,3 +96,5 @@ player-skip-backward-aria-label = Hopp bakover 5 sekunder
 player-skip-forward-aria-label = Hopp fremover 5 sekunder
 # Audio playback progress slider accessibility/aria label
 player-progress-slider-aria-label = Glidebryter for fremdrift av lydavspilling
+# Auto transcription mode button accessibility/aria label
+transcription-mode-auto-aria-label = Slå av/på automatisk ord-for-ord-avspilling
