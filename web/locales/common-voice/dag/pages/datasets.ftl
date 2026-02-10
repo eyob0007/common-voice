@@ -70,3 +70,4 @@ female = paɣa
 # MENU ITEM TOOLTIPS
 download-contribute-menu-tooltip = Ti kukoya kpanjuɣu din vuli doya
 datasets-show-more = zaŋmi kpanjɔɣu maa zaa wuhi
+datasets-show-less = Wuhimi kpanjɔɣu shɛŋa din na tuŋda saha ŋɔ

@@ -2,6 +2,7 @@
 
 demo-get-started = Ti Pili Ma
 demo-welcome = Amaraaba kukɔlaa zuɣu
+demo-welcome-subheader = A bɔri ni a zaŋ a tuhabu nim pam n ti tuma ŋɔ?
 
 ## Demo Datasets
 
