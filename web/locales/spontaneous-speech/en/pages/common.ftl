@@ -26,6 +26,9 @@ contribute = Contribute
 # Button text which appears when there are no more resources
 continue-with-skipped = Continue with Skipped
 
+## Common aria-labels
+keyboard-shortcuts-button-aria-label = Show keyboard shortcuts
+
 ## Navbar
 
 question = Question
