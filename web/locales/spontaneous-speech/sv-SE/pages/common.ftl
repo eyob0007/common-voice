@@ -61,7 +61,7 @@ language-search-no-results = Inga språk hittades
 ## Transcription Player - Mode Buttons
 
 # Transcription Player - Automatic Mode
-transcription-mode-auto = Auto
+transcription-mode-auto = Automatisk
 # Player - slower
 player-speed-slow = Långsam
 # Player - normal speed
@@ -82,7 +82,7 @@ player-skip-backward-shortcut-name = Bakåt
 # Player control shortcut to go forwards 5 seconds: pressed with Ctrl/Cmd
 player-skip-forward-shortcut = 9
 player-skip-forward-shortcut-key = Ctrl / Cmd + 9
-player-skip-forward-shortcut-name = Forwards
+player-skip-forward-shortcut-name = Framåt
 
 ## Transcription Player - Aria Labels
 
@@ -93,7 +93,7 @@ player-pause-button-aria-label = Pausa ljud
 # Skip back button accessibility/aria label
 player-skip-backward-aria-label = Hoppa bakåt 5 sekunder
 # Skip forward button accessibility/aria label
-player-skip-forward-aria-label = Hoppa 5 sekunder framåt
+player-skip-forward-aria-label = Hoppa framåt 5 sekunder
 # Audio playback progress slider accessibility/aria label
 player-progress-slider-aria-label = Reglage för ljuduppspelningsförlopp
 # Toggle speed and transcription mode menu button
