@@ -6,6 +6,7 @@ demo-welcome-subheader = A bɔri ni a zaŋ a tuhabu nim pam n ti tuma ŋɔ?
 
 ## Demo Datasets
 
+demo-language-select-card-header = Common Voice nyɛla zuliya bal' bɔbigu kɔkuya kpanjɔɣu shɛli din yoli n-ti ninsala kam dunia puuni.
 card-button-next = Din paya
 card-button-back = nyaaŋa
 demo-language-select-label = Chemi poham zuɣu ti bo bala

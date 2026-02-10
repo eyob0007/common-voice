@@ -94,6 +94,8 @@ player-pause-button-aria-label = Awdio zastajić
 player-skip-backward-aria-label = Za 5 sekundow wróćo skočić
 # Skip forward button accessibility/aria label
 player-skip-forward-aria-label = Za 5 sekundow doprědka skočić
+# Audio playback progress slider accessibility/aria label
+player-progress-slider-aria-label = Postupowy suwak za wothrawanje awdio
 # Toggle speed and transcription mode menu button
 player-toggle-mode-menu-aria-label = Modusowy meni přepinać
 # Slower playback speed button accessibility/aria label
@@ -102,5 +104,7 @@ player-speed-slow-aria-label = Pomałša wothrawanska spěšnosć
 player-speed-normal-aria-label = Normalna wothrawanska spěšnosć
 # Faster playback speed button accessibility/aria label
 player-speed-fast-aria-label = Spěšniša wothrawanska spěšnosć
+# Auto transcription mode button accessibility/aria label
+transcription-mode-auto-aria-label = Awtomatiske wothrawanje słowo po słowje přepinać
 # Mode menu button accessibility/aria label
 transcription-mode-menu-aria-label = Meni transkripciskeho modusa přepinać
