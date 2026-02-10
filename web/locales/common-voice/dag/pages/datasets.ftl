@@ -55,7 +55,10 @@ dataset-donate-modal-heading = a di mi?
 data-download-yes = Iin
 data-download-deny = Aayi
 data-download-license = Shahara
+data-get-started = <speechBlogLink>Pilimi ni yɛltɔɣa bangbu</speechBlogLink>
+data-other-title = Kukoli kpajuɣa shaŋa din pahi
 data-other-goto = Cham { $name }
+data-other-download = kpajuɣu din vuli doya
 dataset-date = Dabisili
 license-mixed = Gabbu
 # Support old genders in older datasets

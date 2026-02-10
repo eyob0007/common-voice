@@ -26,6 +26,10 @@ contribute = Sobu dźěłać
 # Button text which appears when there are no more resources
 continue-with-skipped = Z Přeskočeny pokročować
 
+## Common aria-labels
+
+keyboard-shortcuts-button-aria-label = Tastowe skrótšenki pokazać
+
 ## Navbar
 
 question = Prašenje
@@ -53,3 +57,36 @@ language-search-placeholder = Rěč pytać…
 language-search-aria-label = Rěč pytać
 language-search-label = Změni jenož rěč přinošowanja datoweje sadźby
 language-search-no-results = Žane rěče namakane
+
+## Transcription Player - Mode Buttons
+
+# Transcription Player - Automatic Mode
+transcription-mode-auto = Awtomatisce
+# Player - slower
+player-speed-slow = Pomału
+# Player - normal speed
+player-speed-normal = Normalny
+# Player - faster
+player-speed-fast = Spěšny
+
+## Transcription Player Controls - Keyboard Shortcuts
+
+# Player control shortcut for play/pause: pressed with Ctrl/Cmd
+player-play-pause-shortcut = p
+player-play-pause-shortcut-key = Strg / Cmd + P
+player-play-pause-shortcut-name = Wothrać / Přestawka
+# Player control shortcut to go back 5 seconds: pressed with Ctrl/Cmd
+player-skip-backward-shortcut = 8
+player-skip-backward-shortcut-key = Strg / Cmd + 8
+player-skip-backward-shortcut-name = Wróćo
+# Player control shortcut to go forwards 5 seconds: pressed with Ctrl/Cmd
+player-skip-forward-shortcut = 9
+player-skip-forward-shortcut-key = Strg / Cmd + 9
+player-skip-forward-shortcut-name = Doprědka
+
+## Transcription Player - Aria Labels
+
+# Play button accessibility/aria label
+player-play-button-aria-label = Awdio wothrać
+# Pause button accessibility/aria label
+player-pause-button-aria-label = Awdio zastajić
