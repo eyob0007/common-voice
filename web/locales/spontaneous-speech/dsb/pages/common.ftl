@@ -92,3 +92,19 @@ player-play-button-aria-label = Awdio wótgraś
 player-pause-button-aria-label = Awdio zastajiś
 # Skip back button accessibility/aria label
 player-skip-backward-aria-label = Za 5 sekundow slědk skócyś
+# Skip forward button accessibility/aria label
+player-skip-forward-aria-label = Za 5 sekundow doprědka skócyś
+# Audio playback progress slider accessibility/aria label
+player-progress-slider-aria-label = Suwak póstupa za wótgrawanje awdio
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = Modusowy meni pśešaltowaś
+# Slower playback speed button accessibility/aria label
+player-speed-slow-aria-label = Pómałčejša malsnosć wótgrawanja
+# Normal playback speed button accessibility/aria label
+player-speed-normal-aria-label = Normalna malsnosć wótgrawanja
+# Faster playback speed button accessibility/aria label
+player-speed-fast-aria-label = Malsnjejša malsnosć wótgrawanja
+# Auto transcription mode button accessibility/aria label
+transcription-mode-auto-aria-label = Awtomatiske wótgrawanje słowo pó słowje pśeltowaś
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Meni transkripciskego modusa pśešaltowaś
