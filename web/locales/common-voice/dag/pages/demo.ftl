@@ -8,6 +8,7 @@ demo-welcome-subheader = A bɔri ni a zaŋ a tuhabu nim pam n ti tuma ŋɔ?
 
 card-button-next = Din paya
 card-button-back = nyaaŋa
+demo-language-select-label = Chemi poham zuɣu ti bo bala
 demo-eofy-header = 2019 yuuni bahigu bahibu
 demo-account = acounti
 
