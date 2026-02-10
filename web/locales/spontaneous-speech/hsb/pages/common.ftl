@@ -90,3 +90,17 @@ player-skip-forward-shortcut-name = Doprědka
 player-play-button-aria-label = Awdio wothrać
 # Pause button accessibility/aria label
 player-pause-button-aria-label = Awdio zastajić
+# Skip back button accessibility/aria label
+player-skip-backward-aria-label = Za 5 sekundow wróćo skočić
+# Skip forward button accessibility/aria label
+player-skip-forward-aria-label = Za 5 sekundow doprědka skočić
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = Modusowy meni přepinać
+# Slower playback speed button accessibility/aria label
+player-speed-slow-aria-label = Pomałša wothrawanska spěšnosć
+# Normal playback speed button accessibility/aria label
+player-speed-normal-aria-label = Normalna wothrawanska spěšnosć
+# Faster playback speed button accessibility/aria label
+player-speed-fast-aria-label = Spěšniša wothrawanska spěšnosć
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Meni transkripciskeho modusa přepinać

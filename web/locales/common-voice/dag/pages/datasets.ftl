@@ -59,9 +59,14 @@ data-get-started = <speechBlogLink>Pilimi ni yɛltɔɣa bangbu</speechBlogLink>
 data-other-title = Kukoli kpajuɣa shaŋa din pahi
 data-other-goto = Cham { $name }
 data-other-download = kpajuɣu din vuli doya
+data-bundle-button = Kpanjɔɣu din laɣ'm vuli doya
+release-version = Tahima
 dataset-date = Dabisili
+license = Shahara gbagbili
 license-mixed = Gabbu
 # Support old genders in older datasets
 male = doo
 female = paɣa
+# MENU ITEM TOOLTIPS
+download-contribute-menu-tooltip = Ti kukoya kpanjuɣu din vuli doya
 datasets-show-more = zaŋmi kpanjɔɣu maa zaa wuhi
