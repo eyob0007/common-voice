@@ -1,5 +1,6 @@
 # GUIDELINES PAGE
 guidelines-header = tɔhibu sodola
+guidelines-header-subtitle = Baŋmi di ni tu ni a tɔhi ka n niŋ dihitabili shɛm Common Voice kpanjɔɣu zuɣu
 voice-collection = Kukoya deebu
 sentence-collection = Yɛltɔɣa labivihi
 question-collection = Bɔhisi deebu
@@ -12,6 +13,7 @@ dont-subheader = Mira
 varying-pronunciations = Bɔlibu din wɔli
 misreadings = gab karim
 offensive-content = Barina lahabali
+background-noise = Vuri din m-be nyaaŋa
 background-voices = Kukoya ni vuri
 volume = kukɔli duhibu
 reader-effects = Karinda kukoli taɣibu
@@ -20,6 +22,7 @@ example = shɛhira
 
 ## Voice collection sidebar content
 
+varying-pronunciations-example = Lala soli maa daa bi ne n do polo ni.
 misreadings-explanation-2 = Chiriŋ shɛŋa din tooi bɛni n-nyɛ;
 misreadings-example-1 = Ti yɛn yimi n-ti bo kɔfi.
 misreadings-example-2 = Ti yɛn yimi n-ti bɔ kɔfi
