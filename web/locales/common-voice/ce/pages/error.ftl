@@ -8,6 +8,7 @@ error-clip-upload = ХӀара кийск чуцайолу, юха хьажа в
 error-clip-upload-server = хӀара кийск серверна чуялла ца ло. АгӀо карлаяккха я тӀаьхьа юха хьажа
 error-title-404 = Тхуна и агӀо ца карийра
 error-title-500 = Бехк ма билла, цхьа гӀалат даьлла
+error-content-500 = ЦӀаьххьана гӀалат даьлла.цхьа кӀеззиг хан яьлча юха хьажа. ГӀо эшахь, чу вало тхан<matrixLink>Matrix чате</matrixLink> сайтан тӀехь долчу гӀалаташна тергам бе<githubLink>GitHub-ехь</githubLink> .  я  вола тхан <discourseLink>Discourse форумашка</discourseLink>
 error-title-502 = ЗӀе хаьдда
 error-title-503 = ЦӀаьххьана системан сацам хилла
 error-code = ГӀалат
