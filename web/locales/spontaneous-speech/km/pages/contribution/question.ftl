@@ -4,8 +4,18 @@ question-page-instruction = បន្ថែមសំណួរមួយ <icon></i
 add-question-textarea-placeholder = ឧទាហរណ៍ "តើមានអ្វីខ្លះ ដែលអ្នកចង់ឲ្យបច្ចេកវិទ្យាអាចធ្វើបានសម្រាប់អ្នក?"
 add-questions-terms-checkbox = * ខ្ញុំបញ្ជាក់ថា សំណួរនេះស្ថិតនៅក្នុង <publicDomainLink>ដែនសាធារណៈ</publicDomainLink> ហើយខ្ញុំមានសិទ្ធិអនុញ្ញាតឲ្យផ្ទុកវាឡើង។
 question-dataset-language = សំណុំទិន្នន័យ៖ { $datasetLanguage }
+add-question-success-toast-message =
+    { $totalQuestions ->
+        [one] { $uploadedQuestions } នៃ 1 សំណួរដែលប្រមូលបាន
+       *[other] សំណួរចំនួន { $uploadedQuestions } ក្នុងចំណោម { $totalQuestions } សំណួរដែលប្រមូលបាន
+    }
 add-question-error-message = ការផ្ទុកឡើងបរាជ័យ សូមព្យាយាមម្តងទៀត។
 add-question-too-many-questions-error = បានលើសពី ២៥ សំណួរ។ សូមកាត់បន្ថយចំនួនសំណួរ ហើយព្យាយាមម្ដងទៀត។
+partial-questions-upload-message =
+    { $totalQuestions ->
+        [one] សំណួរចំនួន { $uploadedQuestions } នៃ 1 ដែលប្រមូលបាន។ មើលទំព័រ <guidelinesLink>គោលការណ៍ណែនាំ</guidelinesLink> របស់យើង ដើម្បីស្វែងយល់បន្ថែមអំពីរបៀបបន្ថែមសំណួរ។
+       *[other] សំណួរចំនួន { $uploadedQuestions } ក្នុងចំណោម { $totalQuestions } ដែលប្រមូលបាន។ មើលទំព័រ <guidelinesLink>គោលការណ៍ណែនាំ</guidelinesLink> របស់យើង ដើម្បីស្វែងយល់បន្ថែមអំពីរបៀបបន្ថែមសំណួរ។
+    }
 # Guidelines
 add-question-guidelines-title = តើខ្ញុំអាចបន្ថែមសំណួរអ្វីខ្លះ?
 do-section-title = ធ្វើ

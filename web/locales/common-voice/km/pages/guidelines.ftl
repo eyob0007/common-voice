@@ -187,28 +187,171 @@ tags-disfluency = ភាពមិនច្បាស់លាស់
 tags-unclear = មិនច្បាស់លាស់
 tags-noise = សំឡេងរំខាន
 tags-laugh-explanation = សំឡេងសើចចំអក។
+tags-disfluency-explanation = ពាក្យ ឬសំឡេងបំពេញចន្លោះ ដែលប្រើប្រាស់ជាការផ្អាកបណ្ដោះអាសន្ន ខណៈពេលដែលអ្នកនិយាយកំពុងរកនឹកពាក្យបន្ទាប់។ នៅក្នុងភាសាអង់គ្លេស សំឡេងបង្ហាញពីការស្ទាក់ស្ទើរដែលនិយមប្រើរួមមាន"អ័រ", "អ៊ឹម", "ហ្អា" ជាដើម។
+tags-unclear-explanation = ពាក្យ ឬលំដាប់នៃពាក្យដែលមិនអាចយល់បាន។
+tags-noise-explanation = សំឡេងរំខានផ្សេងៗទៀត ដូចជា ការក្អក ឬការក្រហែមរបស់អ្នកនិយាយ, សំឡេងស៊ីផ្លេរថយន្ត, សំឡេងទង្គិចមីក្រូហ្វូន, ឬសំឡេងរំញ័រទូរស័ព្ទ ជាដើម។
+# Note: do not translate any tag, like [noise] or [laugh]
+special-tags-example-2 =
+    ហើយបន្ទាប់មកខ្ញុំ [សំឡេងរំខាន] បានទៅវិស្សមកាល។
+    មែនហើយ [សំឡេងរំខាន] [សើច] វាមិនមែនជាថ្ងៃឈប់សម្រាកទេ [សើច]
+transcribe-the-audio-subheader-4-explanation-1 = ការនិយាយដោយឯកឯងជាធម្មតាមានការចាប់ផ្ដើមមិនពិត ដែលមានតែបំណែកនៃពាក្យពេញលេញមួយប៉ុណ្ណោះ។ ចំពោះឧទាហរណ៍ទាំងនេះ សូមចម្លងពាក្យបំណែកតាមដែលអាចធ្វើទៅបាន ហើយភ្ជាប់សហសញ្ញានៅចុងបញ្ចប់នៃពាក្យ (-) ដើម្បីបង្ហាញថាពាក្យនេះជាការចាប់ផ្តើមមិនពិត។ ឧទាហរណ៍៖
+transcribe-the-audio-subheader-4-explanation-1-example = គាត់ឈ្មោះ <underline>Jo- Jona-</underline> Jonathan។
+transcribe-the-audio-subheader-4-explanation-2 = ពេលខ្លះអ្នកនិយាយនឹងនិយាយពាក្យ ឬបំណែកពាក្យឡើងវិញច្រើនដង។ នេះគួរតែត្រូវបានចម្លងផងដែរ។ ឧទាហរណ៍៖
+transcribe-the-audio-subheader-4-explanation-2-example = ហើយបន្ទាប់មកខ្ញុំបានទៅបន្ទប់គេង <underline> គ្រែ - បន្ទប់គេង</underline>
+transcribe-the-audio-subheader-5-explanation-1 = ការនិយាយដោយឯកឯងជាធម្មតានឹងមានកំហុសវេយ្យាករណ៍។ កំហុសទាំងនេះមិនគួរត្រូវបានកែតម្រូវនៅពេលសរសេរប្រយោគទេ។ ការសរសេរប្រយោគគួរតែឆ្លុះបញ្ចាំងពីខ្លឹមសារដែលបាននិយាយយ៉ាងពិតប្រាកដ។
+transcribe-the-audio-subheader-5-explanation-2 = អ្នកនិយាយអាចប្រើពាក្យប្រើប្រាស់ទូទៅ (ដូចជា “gonna”, “cuz” ជាដើម) ដែលអាចមិនត្រូវបានចាត់ទុកថាត្រឹមត្រូវជាផ្លូវការនោះទេ។ ទាំងនេះគួរតែត្រូវបានចម្លងតាមដែលវាមាន ហើយមិនត្រូវផ្លាស់ប្តូរទៅជាពាក្យសមមូលជាផ្លូវការជាងនេះទេ។
 
 ## Review the Transcription
 
+review-the-transcription = ពិនិត្យមើលការចម្លងអត្ថបទ
 review-the-transcription-subheader = ការណែនាំទូទៅ
+review-the-transcription-explanation-1 = ជាទូទៅ យើងសូមណែនាំថា អ្នកដែលពិនិត្យមើលការចម្លងអត្ថបទមិនគួរជាមនុស្សដូចគ្នាដែលបានធ្វើការចម្លងអត្ថបទដើមនោះទេ។ វាពិបាកណាស់ក្នុងការត្រួតពិនិត្យការងារផ្ទាល់ខ្លួនរបស់អ្នក! ការមានបន្ទាត់ពិនិត្យច្រើនអាចជួយធ្វើឱ្យការធានាគុណភាពកាន់តែរឹងមាំ និងជួយកាត់បន្ថយភាពលំអៀង និងបញ្ហាផ្សេងៗ។
+review-the-transcription-explanation-2 = សូមពិនិត្យមើលគោលការណ៍ណែនាំអំពីការចម្លងអត្ថបទខាងលើ ដើម្បីពិនិត្យមើលថាការចម្លងអត្ថបទត្រឹមត្រូវឬអត់។ អ្នកអាចផ្តល់ការកែសម្រួល និងដាក់ស្នើវាបាន។
+review-the-transcription-explanation-3 = ជាថ្មីម្តងទៀត អ្នកអាចរាយការណ៍អំពីខ្លឹមសារដែលប្រមាថ បង្កគ្រោះថ្នាក់ ឬគួរឱ្យព្រួយបារម្ភ ហើយវានឹងត្រូវបានដកចេញពីបទពិសោធន៍របស់អ្នករហូតដល់ក្រុមការងារ Common Voice អាចពិនិត្យមើលវា និងស៊ើបអង្កេតបន្ថែមទៀត។
 
 ## Code-Switching
 
+code-switching = ការប្តូរលេខកូដ
 adding-a-question = ការបន្ថែមសំណួរ
+# Adding a Question
+code-switching-adding-question-subheader = តើអ្វីដែលធ្វើឱ្យសំណួរល្អមួយ?
+code-switching-adding-question-explanation = សំណួរដ៏ល្អសម្រាប់សំណុំទិន្នន័យនៃការចូលរួមពីសាធារណជន គួរតែ៖
+code-switching-adding-question-criteria-1 = ងាយយល់ និងឆ្លើយតប
+code-switching-adding-question-criteria-2 = ត្រូវមានភាពពាក់ព័ន្ធជាទូទៅ
+code-switching-adding-question-criteria-3 = កុំប្រើប្រាស់ ឬជំរុញឱ្យប្រើប្រាស់ ភាសាដែលបង្កគ្រោះថ្នាក់ ឬមានលក្ខណៈប្រមាថ
+code-switching-adding-question-note = អ្នកក៏ប្រហែលជាចង់ពិចារណាពង្រីកបរិបទ និងដែនផ្សេងៗគ្នាផងដែរ។
+# What types of questions to add
+code-switching-types-subheader = តើសំណួរប្រភេទណាខ្លះដែលត្រូវបន្ថែម?
+code-switching-use-bilingual-prompts-header = ប្រើ​ការ​ណែនាំ​ទ្វេ​ភាសា
+code-switching-use-bilingual-prompts-explanation = ប្រើ​សំណួរ​ទ្វេ​ភាសា​ដែល​បញ្ចូល​ភាសា​ទាំងពីរ​ក្នុង​សំណួរ​របស់​អ្នក៖ ឧទាហរណ៍៖
+code-switching-use-bilingual-prompts-explanation-example = “¿Qué te dijo tu mamá ពេលណាអ្នកដល់ផ្ទះនៅថ្ងៃនោះ?
+code-switching-ask-bilingual-contexts-header = សួរអំពីបរិបទពីរភាសា
+code-switching-ask-bilingual-contexts-explanation = ប្រើស្ថានភាពដែលភាសាទាំងពីរត្រូវបានប្រើប្រាស់ជាទូទៅ (ឧទាហរណ៍ នៅផ្ទះ សាលារៀន ព្រឹត្តិការណ៍សហគមន៍)។ ឧទាហរណ៍៖
+code-switching-ask-bilingual-contexts-explanation-example = «ពេលអ្នកនិយាយជាមួយបងប្អូនជីដូនមួយរបស់អ្នក តើអ្នកលាយភាសាអេស្ប៉ាញ និងអង់គ្លេសទេ?»
+code-switching-focus-emotional-header = ផ្តោតលើពេលវេលាដែលរំជួលចិត្ត ឬមានហានិភ័យខ្ពស់
+code-switching-focus-emotional-explanation = មនុស្សច្រើនតែប្តូរលេខកូដនៅពេលបង្ហាញពីអារម្មណ៍ ឬភាពបន្ទាន់។ ឧទាហរណ៍៖
+code-switching-focus-emotional-explanation-example = «ប្រាប់ខ្ញុំពីអ្វីដែលឪពុកម្តាយរបស់អ្នកបាននិយាយនៅពេលអ្នកប្រាប់ពួកគេពីដំណឹងធំរបស់អ្នក — ដូចដែលពួកគេបាននិយាយ»។
+code-switching-direct-quotes-header = ស្នើសុំសម្រង់តម្លៃដោយផ្ទាល់ ឬការសម្ដែងឡើងវិញ
+code-switching-direct-quotes-explanation = លើកទឹកចិត្តអ្នកចូលរួមឱ្យនិយាយឡើងវិញអំពីរបៀបដែលរឿងទាំងនោះត្រូវបាននិយាយ។ ឧទាហរណ៍៖
+code-switching-direct-quotes-explanation-example = «តើ​ពាក្យ​សម្ដី​ពិត​របស់​អ្នក​ពេល​អ្នក​ដឹង​រឿង​នេះ​ជា​អ្វី?»
+code-switching-cultural-topics-header = ជ្រើសរើសប្រធានបទជាក់លាក់ខាងវប្បធម៌
+code-switching-cultural-topics-explanation = ម្ហូបអាហារ ប្រពៃណី ថ្ងៃឈប់សម្រាក និងសក្ដានុភាពគ្រួសារ ជារឿយៗអញ្ជើញឱ្យមានការប្តូរលេខកូដ។
+code-switching-cultural-topics-explanation-example = "តើអ្នកពិពណ៌នា Día de los Muertos ទៅកាន់នរណាម្នាក់ដែលនិយាយតែភាសាអង់គ្លេសយ៉ាងដូចម្តេច?"
+code-switching-informal-scenarios-header = ស្វែងយល់ពីសេណារីយ៉ូក្រៅផ្លូវការ
+code-switching-informal-scenarios-explanation = ការសន្ទនាជាមួយមិត្តភក្តិ ឬការផ្ញើសារជាញឹកញាប់រួមបញ្ចូលការផ្លាស់ប្តូរដោយធម្មជាតិជាង។ ឧទាហរណ៍៖
+code-switching-informal-scenarios-explanation-example = «តើ​រឿង​កំប្លែង​អ្វី​ដែល​មិត្តភ័ក្តិ​របស់​អ្នក​តែងតែ​ធ្វើ — ហើយ​តើ​ពួកគេ​និយាយ​វា​ដោយ​របៀប​ណា?»
 # What to Avoid
 code-switching-avoid-subheader = អ្វីដែលត្រូវជៀសវាង
 code-switching-avoid-intro = សំណួរដែលអាចមាន៖
+code-switching-avoid-1 = ស្នើសុំព័ត៌មានផ្ទាល់ខ្លួនដែលអាចកំណត់អត្តសញ្ញាណបាន
+code-switching-avoid-2 = ស្នើសុំ​ពាក្យ​សម្ដី​ស្អប់ខ្ពើម ឬ​អារម្មណ៍​លម្អៀង ឬ​ប្រមាថ​ផ្សេងៗ​ទៀត
+code-switching-avoid-3 = ធ្វើឱ្យនរណាម្នាក់ចែករំលែកការឆ្លើយតបដែលងាយរងគ្រោះ និងអាចបង្កឱ្យមានការចាប់អារម្មណ៍
 code-switching-dont-header = កុំ
+code-switching-dont-1 = កុំប្រើភាសាផ្លូវការពេក
+# Reviewing a Question
+code-switching-review-subheader = ការពិនិត្យឡើងវិញនូវសំណួរមួយ
+code-switching-review-intro = ត្រូវប្រាកដថាសំណួរនេះបំពេញតាមលក្ខណៈវិនិច្ឆ័យ៖
+code-switching-review-criterion-1 = ងាយយល់ និងឆ្លើយតប
+code-switching-review-criterion-2 = ត្រូវមានភាពពាក់ព័ន្ធជាទូទៅ
+code-switching-review-criterion-3 = កុំប្រើប្រាស់ ឬជំរុញឱ្យប្រើប្រាស់ ភាសាដែលបង្កគ្រោះថ្នាក់ ឬមានលក្ខណៈប្រមាថ
+code-switching-review-does-not-header = ហើយ <bold>មិន</bold> រួមបញ្ចូល៖
+code-switching-review-offensive-content = <bold>ខ្លឹមសារ​ប្រមាថ ឬ​ព័ត៌មាន​រសើប</bold>
+code-switching-answer-header = <bold>ខ្លឹមសារ​ប្រមាថ ឬ​ព័ត៌មាន​រសើប</bold>
+code-switching-review-no-1 = សំណួរដែលអាចស្នើសុំព័ត៌មានផ្ទាល់ខ្លួនដែលអាចកំណត់អត្តសញ្ញាណបាន
+code-switching-review-no-2 = សំណួរដែលអាចបង្កឱ្យមានពាក្យសម្ដីស្អប់ខ្ពើម ឬអារម្មណ៍លម្អៀង ឬប្រមាថផ្សេងទៀត
+code-switching-review-no-3 = សំណួរដែលអាចបណ្តាលឱ្យនរណាម្នាក់ចែករំលែកចម្លើយដែលរសើប និងអាចបង្កឱ្យមានការចាប់អារម្មណ៍
 # Answering a Question
 code-switching-answer-subheader = ការឆ្លើយសំណួរ
+code-switching-answer-intro = នៅពេលឆ្លើយតបនឹងសំណួរ គោលដៅគឺឆ្លើយតបដោយធម្មជាតិ - ដូចដែលអ្នកធ្វើនៅក្នុងការសន្ទនាក្នុងជីវិតពិត។ យើងចង់ចាប់យកពីរបៀបដែលភាសាពិតជាលាយឡំគ្នានៅក្នុងការនិយាយប្រចាំថ្ងៃ។
+code-switching-answer-bullet-1 = សូមគិតអំពីគ្រា ឬស្ថានភាពក្នុងជីវិតពិត៖ រឿងកំប្លែង ការឈ្លោះប្រកែកគ្នា ប្រពៃណី
+code-switching-answer-bullet-2 = ស្រមៃថាអ្នកកំពុងផ្ញើសារទៅមិត្តភក្តិ ឬកំពុងរៀបរាប់រឿងអ្វីមួយទៅកាន់នរណាម្នាក់
+code-switching-answer-bullet-3 = ប្រើពាក្យដែលអ្នកពិតជានឹងប្រើ ទោះបីជាខ្ចី ឬលាយបញ្ចូលគ្នាក៏ដោយ
+code-switching-answer-bullet-4 = មិនមានវិធី "ល្អឥតខ្ចោះ" ដើម្បីឆ្លើយទេ
+code-switching-authentic-header = ឆ្លើយដោយធម្មជាតិ និងដោយភាពត្រឹមត្រូវ
+code-switching-authentic-speak = <bold>និយាយ​តាម​របៀប​ដែល​អ្នក​ធ្វើ​ជាមួយ​មិត្តភ័ក្តិ ឬ​ក្រុម​គ្រួសារ។</bold> ប្រសិន​បើ​អ្នក​និយាយ​ភាសា​ចម្រុះ​ក្នុង​ជីវិត​ពិត សូម​ធ្វើ​ដូច​គ្នា​នៅ​ទីនេះ។ ឧទាហរណ៍៖
+code-switching-authentic-speak-example = «ខ្ញុំបានប្រាប់នាងថាខ្ញុំមិនអាចទៅបានទេ ប៉ុន្តែនាងបាននិយាយថា 'អ្នកគួរតែបង្ហាញខ្លួន!'»
+code-switching-use-both-languages = <bold>ប្រើភាសាទាំងពីរ ប្រសិនបើនោះជារបៀបដែលអ្នកតែងតែនិយាយ។</bold> សូម្បីតែការប្តូរពាក្យមួយ ឬពីរក៏មានប្រយោជន៍ដែរ។ ឧទាហរណ៍៖
+code-switching-use-both-languages-example = «នាងខឹងខ្លាំងណាស់ ខ្ញុំមិនបានទូរស័ព្ទទៅនាងវិញទេ»
+code-switching-authentic-direct-quotes = <bold>រួមបញ្ចូលសម្រង់សម្តី ឬការសន្ទនាដោយផ្ទាល់។</bold> និយាយឲ្យចំនូវអ្វីដែលនរណាម្នាក់បាននិយាយ មិនមែនជាកំណែដែលបានសម្អាត ឬផ្លូវការនោះទេ។ ឧទាហរណ៍៖
+code-switching-authentic-direct-quotes-example = "Mi mamá dijo, 'Tú crees que esto es un juego?' ហើយខ្ញុំដូចជា 'Okay chill!'"
+code-switching-authentic-reflect = <bold>ឆ្លុះបញ្ចាំងពីអារម្មណ៍ អត្តសញ្ញាណ និងបរិបទ។</bold> ជាធម្មតា ការផ្លាស់ប្ដូរកើតឡើងនៅពេលដែលមនុស្សបង្ហាញពីអារម្មណ៍ ភាពបន្ទាន់ ឬគំនិតវប្បធម៌។ ចូរផ្ដោតលើចំណុចទាំងនេះនៅពេលឆ្លើយសំណួរ។
+code-switching-authentic-full-context = <bold>ប្រើចម្លើយពេញលេញជាមួយបរិបទ។</bold> ត្រូវសរសេរឱ្យបានលម្អិតតាមដែលអាចធ្វើទៅបាន ដោយផ្តល់ព័ត៌មានលម្អិតឱ្យបានច្រើនតាមដែលអ្នកអាចធ្វើបាន។ ចែករំលែករឿង ឬឧទាហរណ៍មួយនៅក្នុងចម្លើយរបស់អ្នក។
+# Don’t Overthink or Overedit
+code-switching-answer-dont-subheader = កុំគិតច្រើនពេក ឬកែប្រែច្រើនពេក
+code-switching-answer-dont-correct-language = <bold>"កែ" ភាសារបស់អ្នក។</bold> នេះមិនមែនជាការសាកល្បងទេ។ ទម្រង់ "ត្រឹមត្រូវ" មិនសំខាន់នៅទីនេះទេ ភាសាធម្មជាតិសំខាន់ជាង។
+code-switching-answer-dont-avoid-switching = <bold>ជៀសវាងការប្តូរប្រសិនបើអ្នកតែងតែធ្វើវា។</bold> វាមិនអីទេក្នុងការប្តូរពាក់កណ្តាលប្រយោគ ពាក់កណ្តាលគំនិត ឬគ្រាន់តែសម្រាប់ពាក្យមួយ។
+code-switching-answer-dont-formal-writing = <bold>និយាយដូចជាអ្នកកំពុងសរសេរជាផ្លូវការ។</bold> ជៀសវាងចម្លើយផ្លូវការ និងមានលក្ខណៈសិក្សា។ ធ្វើវាឱ្យមានលក្ខណៈសន្ទនា។
+code-switching-answer-dont-force-switch = <bold>បង្ខំ​ឲ្យ​ប្តូរ​ប្រសិនបើ​វា​មិនមែន​ជា​រឿង​ធម្មជាតិ។</bold> ប្តូរ​លុះត្រាតែ​នោះ​ជា​របៀប​ដែល​អ្នក​និយាយ​ដោយ​ធម្មជាតិ​ក្នុង​ស្ថានភាព​នោះ។
+code-switching-answer-dont-translate-repeat = <bold>បកប្រែ ឬនិយាយឡើងវិញនូវអ្វីៗគ្រប់យ៉ាង។</bold> គ្រាន់តែនិយាយវាម្តង តាមរបៀបដែលវានឹងកើតឡើងនៅក្នុងការសន្ទនា។ អ្នកមិនចាំបាច់និយាយកំណែនៃការឆ្លើយតបជាភាសានីមួយៗទេ។
+# Transcribing
+code-switching-transcribe-subheader = ការចម្លងអត្ថបទ
+code-switching-transcribe-intro = នៅពេលចម្លងចម្លើយដែលរួមបញ្ចូលការប្តូរលេខកូដ សូមតំណាងឱ្យភាសារបស់អ្នកនិយាយដូចដែលវាត្រូវបាននិយាយ - ដោយមិនចាំបាច់កែតម្រូវ កែសម្រួល ឬធ្វើឱ្យសាមញ្ញនោះទេ។ នេះគឺសម្រាប់ការប្តូររវាងភាសាទាំងអស់ ការនិយាយក្រៅផ្លូវការ និងពាក្យភាសាចម្រុះ។
+code-switching-transcribe-do-1 = ចាក់​ផ្នែក​ខ្លីៗ​ច្រើនដង​ដើម្បី​ចាប់​យក​ការ​ប្ដូរ​បន្តិចបន្តួច
+code-switching-transcribe-do-2 = ផ្អាកបន្ទាប់ពីប្រយោគនីមួយៗ ដើម្បីពិនិត្យឡើងវិញសម្រាប់ពាក្យប្តូរ ឬពាក្យចម្រុះ
+# Capture Speech Exactly as Spoken
+code-switching-capture-header = ថតសំឡេងដូចដែលបាននិយាយ
+code-switching-capture-explanation = សូមចម្លងភាសាទាំងពីរតាមដែលវាលេចឡើង/សំឡេង។ កុំ «ជួសជុល» ភាសា ឬផ្លាស់ប្តូរវាទៅជាភាសាតែមួយ។
+# Include filler words and markers
+code-switching-filler-header = បញ្ចូលពាក្យបំពេញចន្លោះ និងពាក្យសម្គាល់
+code-switching-filler-explanation = ពាក្យដូចជា “um,” “like,” “pues,” “you know,” និង “entonces” សុទ្ធតែមានអត្ថន័យ។ ឧទាហរណ៍៖ “ដូច្នេះ um ខ្ញុំបានប្រាប់នាងថា ‘pues no sé ប្រហែលជាពេលក្រោយ’”។
+# Use standard spelling for each language
+code-switching-spelling-header = ប្រើប្រាស់អក្ខរាវិរុទ្ធស្តង់ដារ សម្រាប់ភាសានីមួយៗ
+code-switching-spelling-explanation = ព្យាយាមសរសេរពាក្យឱ្យបានត្រឹមត្រូវសម្រាប់ភាសានីមួយៗ លុះត្រាតែអ្នកនិយាយបញ្ចេញសំឡេងវាយ៉ាងច្បាស់តាមរបៀបមិនស្តង់ដារ។
+# Don’t Clean Up or Simplify the Language
+code-switching-cleanup-header = កុំ​សម្អាត ឬ​ធ្វើ​ឲ្យ​ភាសា​សាមញ្ញ
+code-switching-cleanup-1 = បកប្រែ ឬ សរសេរឡើងវិញនូវអ្វីដែលអ្នកនិយាយបាននិយាយ មិនមែនអ្វីដែលពួកគេ «ចង់មានន័យ» នោះទេ។
+code-switching-cleanup-2 = វេយ្យាករណ៍ ឬ ការបញ្ចេញសំឡេង «ត្រឹមត្រូវ» – រក្សាការប្រើប្រាស់ធម្មជាតិរបស់អ្នកនិយាយ។
+code-switching-cleanup-3 = រំលង​ប៊ូតុង​ដែល​ហាក់​ដូច​ជា​តូចតាច ឬ​តូចតាច - សូម្បី​តែ​ពាក្យ​ខ្ចី​ក៏​សំខាន់​ដែរ។
+code-switching-cleanup-4 = បញ្ចូលសញ្ញាវណ្ណយុត្តិដែលអាចផ្លាស់ប្តូរអត្ថន័យ - រក្សាលំហូរឱ្យមានលក្ខណៈធម្មជាតិ។
+code-switching-cleanup-5 = សន្មតថាអ្នកស្គាល់ភាសានៃពាក្យនីមួយៗ - ស្លាកដោយផ្អែកលើការប្រើប្រាស់។
 # Tagging
 code-switching-tagging-subheader = ការដាក់ស្លាក
+code-switching-tagging-error-intro = ប្រសិនបើ​ការចម្លង​មាន​កំហុស សូម​ប្រើ​មុខងារ​រាយការណ៍​ដើម្បី​ដាក់​ទង់​សម្គាល់​វា។ កំហុស​ដែល​អាច​កើតមាន​រួមមាន៖
+code-switching-tagging-error-1 = វណ្ណយុត្តិ ឬអក្សរធំមិនត្រឹមត្រូវ
+code-switching-tagging-error-2 = កំហុសវាយអក្សរ
+code-switching-tagging-error-3 = ពាក្យដែលសរសេរក្នុងអក្ខរាវិរុទ្ធខុស
+# Using Correct Orthography for Each Language
+code-switching-orthography-header = ការប្រើប្រាស់អក្ខរាវិរុទ្ធត្រឹមត្រូវសម្រាប់ភាសានីមួយៗ
+code-switching-orthography-explanation = សរសេរពាក្យនីមួយៗតាមអក្ខរាវិរុទ្ធនៃភាសាដែលវាមកពី។ ឧទាហរណ៍៖
+code-switching-orthography-explanation-example-1 = ប្រសិនបើពាក្យ "kitchen" លេចឡើង​ដោយ​សំឡេង​ដូច​ជា​ភាសា​អេស្ប៉ាញ វាគួរតែ​សរសេរ​ដូច​ជា​ភាសា​អង់គ្លេស មិនមែន​ជា "quichen" ទេ។
+code-switching-orthography-explanation-example-2 = ប្រសិនបើពាក្យ quinceaños ត្រូវបានអានដូចភាសាអង់គ្លេស សូមសរសេរវាជាមួយ ñ។
+# Use Pronunciation to Help Determine the Language
+code-switching-pronunciation-header = ប្រើការបញ្ចេញសំឡេងដើម្បីជួយកំណត់ភាសា
+code-switching-pronunciation-explanation = ពាក្យខ្លះអាចមើលទៅដូចគ្នានៅក្នុងភាសាទាំងពីរ ប៉ុន្តែអាចបញ្ចេញសំឡេងខុសគ្នា។ សូមស្តាប់ការបញ្ចេញសំឡេងដើម្បីជួយដាក់ស្លាកបានត្រឹមត្រូវ។ ឧទាហរណ៍៖ cable, taco, actor, detective។
 code-switching-pronunciation-explanation-example-1 = អង់គ្លេស៖ /ˈkeɪ.bəl/
 code-switching-pronunciation-explanation-example-2 = អេស្ប៉ាញ៖ /ˈkable/
+# Tagging in a Single Token
+code-switching-single-token-header = ការដាក់ស្លាកសញ្ញាក្នុងសញ្ញាសម្គាល់តែមួយ
+code-switching-single-token-explanation = ថូខឹន​តែមួយ​ដែល​បំបែក​ដោយ​ចន្លោះ​គួរតែមាន​ចន្លោះ​ដែល​បាន​ដាក់​ស្លាក​ច្រើនជាងមួយ។
+# Tag Punctuation Based on Nearby Language
+code-switching-punctuation-tagging-header = សញ្ញាវណ្ណយុត្តិស្លាកផ្អែកលើភាសាជិតខាង
+code-switching-punctuation-tagging-explanation = ដាក់សញ្ញាវណ្ណយុត្តិលើស្លាកដោយប្រើភាសាដែលនៅជិតបំផុតនៅខាងឆ្វេង។ ឧទាហរណ៍៖
+# text wrapped in purple and blue will be shown with a purple and blue background in the UI respectively
+code-switching-punctuation-tagging-explanation-example-1 = <purple>ហើយ​ពេល​មួយ​នោះ</purple> Maria <purple>បានស្រែកដាក់ខ្ញុំថា</purple> <blue>សាច់ជ្រូក</blue> <purple>នាងកំពុងព្យាយាមដើម្បី</purple> ចោះត្រចៀក <blue>un</blue> <purple>បញ្ជារ.</purple> (BangorTalk)
+code-switching-punctuation-tagging-explanation-example-2 = <purple>ប៉ុន្តែ</purple> <blue>tú los puedes ប្រៀបធៀប rojo, negro, azul</blue>, <purple>អ្វីក៏បាន។</purple> (BangorTalk)
+# Be Careful with Lookalikes
+code-switching-lookalikes-header = ប្រយ័ត្នជាមួយមនុស្សដែលមានរូបរាងដូចគ្នា
+code-switching-lookalikes-explanation = ពាក្យខ្លះអាចមើលទៅដូចជាភាសាមួយ ប៉ុន្តែត្រូវបានប្រើជាភាសាមួយទៀត។ ការដាក់ស្លាកផ្អែកលើអត្ថន័យ និងការប្រើប្រាស់ មិនមែនរូបរាងទេ។ ឧទាហរណ៍៖
+code-switching-lookalikes-explanation-example-1 = "Footing" ធ្លាប់មានន័យថា ការរត់ ជាភាសាអេស្ប៉ាញ > tag ជាភាសាអេស្ប៉ាញ
+code-switching-lookalikes-explanation-example-2 = “គ្មានបញ្ហា” ត្រូវបានប្រើជាភាសាអង់គ្លេស > ស្លាកជាភាសាអង់គ្លេស
+# When Not to Tag Words
+code-switching-not-tag-header = ករណីដែលមិនត្រូវដាក់ស្លាកពាក្យ
+code-switching-not-tag-explanation = ពាក្យ​មួយ​ចំនួន​មិន​គួរ​ត្រូវ​បាន​ដាក់​ស្លាក​ភាសា​ដោយ <bold>ទេ</bold> ទោះបីជា​វា​ហាក់​ដូច​ជា​លាយឡំ​គ្នា​ឬ​សម្រប​តាម​ក៏ដោយ។ នេះ​ជា​របៀប​ដោះស្រាយ​ឧទាហរណ៍​មួយ​ចំនួន៖
+code-switching-not-tag-proper-names = <bold>ឈ្មោះជាក់លាក់</bold> ឈ្មោះបុគ្គល, ទីកន្លែង, និងស្ថាប័ន ឬអង្គភាពនានា មិនត្រូវដាក់ស្លាកឡើយ។ ឧទាហរណ៍៖
+code-switching-not-tag-proper-names-example-1 = មនុស្ស៖ ម៉ារីយ៉ា, ចន
+code-switching-not-tag-proper-names-example-2 = ទីកន្លែង៖ ឡូសអាន់ជឺឡេស រដ្ឋផ្លរីដា
+code-switching-not-tag-proper-names-example-3 = ម៉ាក/អង្គការ៖ Target, Burger King
+code-switching-not-tag-mixed-words = <bold>ពាក្យចម្រុះ ឬពាក្យដែលសម្របតាមរូបរាង។</bold> កុំដាក់ស្លាកពាក្យដែលលាយបញ្ចូលគ្នានូវភាសា ឬមានចុងបញ្ចប់បន្ថែមពីភាសាផ្សេងទៀត។ ឧទាហរណ៍៖
+code-switching-not-tag-mixed-words-example = ដែលឫសជាភាសាអង់គ្លេស ប៉ុន្តែបច្ច័យជាភាសាអេស្ប៉ាញ៖ “parkear”, “printearlo”
+code-switching-not-tag-interjections = <bold>ឧបមា។</bold> ឧបមា និងពាក្យបំពេញ ដោយមិនគិតពីភាសា គួរតែនៅតែ <bold>មិនដាក់ស្លាក។</bold> ឧទាហរណ៍៖
+code-switching-not-tag-interjections-example-1 = «អឺ»
 code-switching-not-tag-interjections-example-2 = “ទេ”
+code-switching-not-tag-interjections-example-3 = «បាទ/ចា៎»
 code-switching-not-tag-interjections-example-4 = “អ័រ”
 
 ## Reporting Content
 
 reporting-content = រាយការណ៍មាតិកា
 reporting-content-subheader = ការណែនាំទូទៅ
+reporting-content-explanation-1 = អ្នកត្រូវតែរាយការណ៍អំពីខ្លឹមសារដែលប្រមាថ បង្កគ្រោះថ្នាក់ ឬគួរឱ្យព្រួយបារម្ភ។ វាក៏មិនត្រូវរួមបញ្ចូលព័ត៌មានកំណត់អត្តសញ្ញាណផ្ទាល់ខ្លួនដូចជាលេខទូរស័ព្ទ ឬអាសយដ្ឋានឡើយ។ វានឹងត្រូវបានដកចេញពីបទពិសោធន៍របស់អ្នករហូតដល់ក្រុមការងារ Common Voice អាចពិនិត្យមើលវា និងស៊ើបអង្កេតបន្ថែមទៀត។
+reporting-content-explanation-2 = ដើម្បីរាយការណ៍អំពីខ្លឹមសារ សូមជ្រើសរើសប៊ូតុង "រាយការណ៍" ហើយជ្រើសរើសជម្រើសមួយ ឬទាំងអស់៖ ខ្លឹមសារប្រមាថ ភាសាផ្សេង ព័ត៌មានដែលអាចកំណត់អត្តសញ្ញាណផ្ទាល់ខ្លួន ផ្សេងៗ។ ពីទីនេះ សូមផ្តល់ព័ត៌មានលម្អិតបន្ថែមអំពីមូលហេតុដែលអ្នកកំពុងរាយការណ៍អំពីខ្លឹមសារនៅក្នុងផ្នែកអត្ថបទ។ បន្ទាប់មក ដាក់ស្នើរបាយការណ៍ដោយចុចលើប៊ូតុង "រាយការណ៍"។
