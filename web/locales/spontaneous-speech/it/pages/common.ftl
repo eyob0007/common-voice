@@ -60,14 +60,21 @@ language-search-no-results = Nessuna lingua trovata
 
 ## Transcription Player - Mode Buttons
 
+# Transcription Player - Automatic Mode
+transcription-mode-auto = Automatica
+# Player - slower
+player-speed-slow = Lento
 # Player - normal speed
 player-speed-normal = Normale
+# Player - faster
+player-speed-fast = Veloce
 
 ## Transcription Player Controls - Keyboard Shortcuts
 
 # Player control shortcut for play/pause: pressed with Ctrl/Cmd
 player-play-pause-shortcut = P
 player-play-pause-shortcut-key = Ctrl / Cmd + P
+player-play-pause-shortcut-name = Riproduci / Interrompi
 # Player control shortcut to go back 5 seconds: pressed with Ctrl/Cmd
 player-skip-backward-shortcut = 8
 player-skip-backward-shortcut-key = Ctrl / Cmd + 8
@@ -81,6 +88,8 @@ player-skip-forward-shortcut-name = Avanti
 
 # Play button accessibility/aria label
 player-play-button-aria-label = Riproduci audio
+# Pause button accessibility/aria label
+player-pause-button-aria-label = Interrompi audio
 # Skip back button accessibility/aria label
 player-skip-backward-aria-label = Vai indietro di 5 secondi
 # Skip forward button accessibility/aria label
