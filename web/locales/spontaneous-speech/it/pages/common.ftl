@@ -58,6 +58,11 @@ language-search-aria-label = Cerca una lingua
 language-search-label = Modifica solo la lingua di contribuzione del dataset
 language-search-no-results = Nessuna lingua trovata
 
+## Transcription Player - Mode Buttons
+
+# Player - normal speed
+player-speed-normal = Normale
+
 ## Transcription Player Controls - Keyboard Shortcuts
 
 # Player control shortcut for play/pause: pressed with Ctrl/Cmd
@@ -80,3 +85,17 @@ player-play-button-aria-label = Riproduci audio
 player-skip-backward-aria-label = Vai indietro di 5 secondi
 # Skip forward button accessibility/aria label
 player-skip-forward-aria-label = Vai avanti di 5 secondi
+# Audio playback progress slider accessibility/aria label
+player-progress-slider-aria-label = Cursore di avanzamento della riproduzione audio
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = Attiva/disattiva il menu modalità
+# Slower playback speed button accessibility/aria label
+player-speed-slow-aria-label = Rallenta velocità di riproduzione
+# Normal playback speed button accessibility/aria label
+player-speed-normal-aria-label = Velocità di riproduzione normale
+# Faster playback speed button accessibility/aria label
+player-speed-fast-aria-label = Accelera velocità di riproduzione
+# Auto transcription mode button accessibility/aria label
+transcription-mode-auto-aria-label = Attiva/disattiva la riproduzione automatica parola per parola
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Attiva/disattiva il menu della modalità di trascrizione
