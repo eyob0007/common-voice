@@ -26,6 +26,10 @@ contribute = Collabora
 # Button text which appears when there are no more resources
 continue-with-skipped = Passa ai contenuti saltati
 
+## Common aria-labels
+
+keyboard-shortcuts-button-aria-label = Mostra scorciatoie da tastiera
+
 ## Navbar
 
 question = Domanda
