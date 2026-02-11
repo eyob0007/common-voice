@@ -9,6 +9,8 @@ no-prompts-continue-skipped-message = លែងមានសំណួរសម្
 error-skipping = មានកំហុសមួយបានកើតឡើង ក្នុងអំឡុងពេលរំលងសារណែនាំនេះ
 error-recording = កំហុសមួយបានកើតឡើងខណៈពេលកំពុងថត
 error-recording-too-short = ការថតខ្លីពេក។ រយៈពេលអប្បបរមាគឺ { $minDurationSeconds } វិនាទី។
+error-recording-too-long = ការថតវែងពេក។ រយៈពេលអតិបរមាគឺ { $maxDurationMinutes } នាទី។
+error-fetching-prompts = មានអ្វីមួយខុសប្រក្រតី ខណៈពេលកំពុងទាញយកសារជំរុញ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។
 error-uploading-response = មានកំហុសកើតឡើងខណៈពេលកំពុងផ្ទុកឡើងការឆ្លើយតបរបស់អ្នក
 error-empty-audio = ការថតបានបរាជ័យ។ ឯកសារអូឌីយ៉ូហាក់ដូចជាទទេ។ សូមព្យាយាមម្តងទៀត។
 error-platform-webview = ការថតសំឡេងអាចមិនត្រូវបានគាំទ្រនៅក្នុងកម្មវិធីរុករកដែលមានដែនកំណត់នេះទេ។ សូមប្រើកម្មវិធីរុករកតាមអ៊ីនធឺណិតពេញលេញ។
@@ -27,6 +29,7 @@ submit-all-button = ដាក់ស្នើទាំងអស់
 ## Explainer text (Respond to Prompt)
 
 learn-how-to-use-prompts = ស្វែងយល់ពីរបៀបប្រើប្រាស់ទំព័រនេះ
+learn-how-to-use-prompts-explanation = គ្រាន់តែឆ្លើយតបទៅនឹងសំណួរដោយធម្មជាតិតាមដែលអ្នកអាចធ្វើបានក្នុងរយៈពេលពីរបីប្រយោគ។ ត្រូវប្រាកដថាភាសារបស់អ្នកមានការគោរព និងមិនបង្កគ្រោះថ្នាក់។
 learn-how-to-use-prompts-guidance = ចុច <guidanceLink>នៅទីនេះ</guidanceLink> ដើម្បីស្វែងយល់ពីរបៀបប្រើប្រាស់ទំព័រនេះ
 learn-how-to-use-transcribe = រៀនពីរបៀបការចម្លងអត្ថបទ
 learn-how-to-use-transcribe-explanation = សរសេរ​ឲ្យ​បាន​ច្បាស់លាស់​ នូវ​អ្វី​ដែល​បុគ្គល​នោះ​បាន​និយាយ រួម​ទាំង​ពាក្យ​ជំនួស​ដូចជា 'um' ឬ 'errr'។

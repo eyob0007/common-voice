@@ -94,6 +94,10 @@ player-pause-button-aria-label = ផ្អាកសំឡេង
 player-skip-backward-aria-label = រំលង​ទៅ​ក្រោយ 5 វិនាទី
 # Skip forward button accessibility/aria label
 player-skip-forward-aria-label = រំលងទៅមុខ 5 វិនាទី
+# Audio playback progress slider accessibility/aria label
+player-progress-slider-aria-label = របាររំកិលវឌ្ឍនភាពចាក់សំឡេងឡើងវិញ
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = ម៉ឺនុយបិទ/បើករបៀប
 # Slower playback speed button accessibility/aria label
 player-speed-slow-aria-label = ល្បឿនចាក់កម្រិតយឺត
 # Normal playback speed button accessibility/aria label
