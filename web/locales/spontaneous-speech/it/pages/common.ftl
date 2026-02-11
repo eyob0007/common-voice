@@ -61,5 +61,5 @@ language-search-no-results = Nessuna lingua trovata
 ## Transcription Player Controls - Keyboard Shortcuts
 
 # Player control shortcut for play/pause: pressed with Ctrl/Cmd
-player-play-pause-shortcut = p
+player-play-pause-shortcut = P
 player-play-pause-shortcut-key = Ctrl / Cmd + P

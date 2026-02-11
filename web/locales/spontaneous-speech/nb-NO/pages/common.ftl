@@ -96,6 +96,8 @@ player-skip-backward-aria-label = Hopp bakover 5 sekunder
 player-skip-forward-aria-label = Hopp fremover 5 sekunder
 # Audio playback progress slider accessibility/aria label
 player-progress-slider-aria-label = Glidebryter for fremdrift av lydavspilling
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = Slå av/på modusmenyen
 # Slower playback speed button accessibility/aria label
 player-speed-slow-aria-label = Lavere avspillingshastighet
 # Normal playback speed button accessibility/aria label
@@ -104,3 +106,5 @@ player-speed-normal-aria-label = Normal avspillingshastighet
 player-speed-fast-aria-label = Høyere avspillingshastighet
 # Auto transcription mode button accessibility/aria label
 transcription-mode-auto-aria-label = Slå av/på automatisk ord-for-ord-avspilling
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Slå av/på meny for transkripsjonsmodus
