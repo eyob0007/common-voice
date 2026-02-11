@@ -57,3 +57,9 @@ language-search-placeholder = Cerca una lingua…
 language-search-aria-label = Cerca una lingua
 language-search-label = Modifica solo la lingua di contribuzione del dataset
 language-search-no-results = Nessuna lingua trovata
+
+## Transcription Player Controls - Keyboard Shortcuts
+
+# Player control shortcut for play/pause: pressed with Ctrl/Cmd
+player-play-pause-shortcut = p
+player-play-pause-shortcut-key = Ctrl / Cmd + P
