@@ -70,5 +70,7 @@ male = doo
 female = paɣa
 # MENU ITEM TOOLTIPS
 download-contribute-menu-tooltip = Ti kukoya kpanjuɣu din vuli doya
+# MENU ITEM ARIA LABELS
+download-contribute-menu-aria-label = Vulindigu din mali peebu ka lahi yam n ti kukoli yini.
 datasets-show-more = zaŋmi kpanjɔɣu maa zaa wuhi
 datasets-show-less = Wuhimi kpanjɔɣu shɛŋa din na tuŋda saha ŋɔ
