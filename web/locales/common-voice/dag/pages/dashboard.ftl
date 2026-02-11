@@ -37,6 +37,11 @@ want-to-continue = A bɔri ni a tuhi?
 finish-editing = N naai tɔhibu piligu?
 lose-changes-warning = Yibu sahaŋɔ wuhirimi ni antooi koŋ a yaɣibu nima.
 build-custom-goal = Ŋmani tahima bin ni tum
+help-reach-hours-pluralized =
+    { $hours ->
+        [one] soŋmi ka di paaigi { $hours } awa { $language } zaŋ kpa a mammaŋa tahima.
+       *[other] { "" }
+    }
 set-a-goal = Mali tahima
 cant-decide = kutooi pii
 how-many-per-day = M-bo, klipu dibaala dabisili puuni?
