@@ -12,6 +12,7 @@ record-no-mic-found = Nulle microphono trovate
 record-error-too-short = Le registration era troppo breve.
 record-error-too-long = Le registration era troppo longe.
 record-error-too-quiet = Le registration era troppo quiete.
+record-error-empty-recording = Necun audio era capturate. Verifica tu microphono e retenta.
 record-error-uploaded-clip-corrupted =
     Tu registration audio pare esser corrumpite. Isto pote evenir per:
     • problemas de compatibilitate del navigator (tenta usar un navigator differente)
