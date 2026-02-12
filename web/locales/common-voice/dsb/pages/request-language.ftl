@@ -38,3 +38,4 @@ need-help-deciding-platform = Trjebaśo pomoc, aby rozsuźił, kótaru móžośo
 need-help-deciding-platform-explanation-1 = <strong>Powědanje ze skriptom</strong> (tradicionelnje to, což ako Common Voice znajośo) jo to, źož móžośo w swójej rěcy głosnje cytaś.
 need-help-deciding-platform-explanation-2 = <strong>Spontane powědanje</strong> jo nowy źěl Common Voice, źož móžośo na pšašanja na wěcej organiski, wobchadnorěcny nałog wótegroniś.
 need-help-deciding-platform-explanation-3 = Jolic swóju rěc we wobyma źěloma platformy njewiźiśo, wubjeŕśo wobej.
+request-language-search-bar = Móžośo zachopiś mě wašeje rěcy how pisaś; jolic njejo w Common Voice, móžośo formular z datami swójeje rěcy wupołniś.

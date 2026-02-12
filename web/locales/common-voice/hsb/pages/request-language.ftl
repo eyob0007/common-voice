@@ -45,5 +45,13 @@ request-language-found-pontoon-not-launched =
     powjerch platformy přełožujeće. Powjerch dyrbi 60 % přełoženy być;
     abo móžeće jenož zakładne znamješkowe rjećazki w 'web/locales/en/pages/contribute/*.ftl 100 %
     přełožować (je pjeć datajow) a powjerch budźe so awtomatisce startować.
+request-language-found-cv-contribution = Hura! Waša rěč je hižo w <strong>rěčenju ze skriptom</strong> na Common Voice.
+request-language-found-cv-sentences-lack =
+    Waša rěč je hižo w lisćinje rěčow Common Voice.
+    Móžeće rěčny start za <strong>rěčenje ze skriptom</strong> wosnadnić, hdyž
+    sady <sentencesContributionLink>tu</sentencesContributionLink> přinošujeće.
+request-language-found-spontaneous-speech =
+    Waša rěč je hižo w <strong>spontanym rěčenju</strong> na Common Voice.
+    Klikńće <spontaneousSpeechLink>sem</spontaneousSpeechLink>, zo byšće přinošował: Njezabywajće rěč přinoška/datoweho wobstawka změnić, prjedy hač dale přinošujeće!
 request-language-already-available-scs = Rěčenje ze skriptom je hižo k dispoziciji
 request-language-already-available-sps = Spontane rěčenje je hižo k dispoziciji
