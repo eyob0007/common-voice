@@ -26,6 +26,10 @@ contribute = Cyfrannu
 # Button text which appears when there are no more resources
 continue-with-skipped = Parhau gyda'r rhai sydd wedi'u Hepgor
 
+## Common aria-labels
+
+keyboard-shortcuts-button-aria-label = Dangos llwybrau byr bysellfwrdd
+
 ## Navbar
 
 question = Cwestiwn
@@ -53,3 +57,24 @@ language-search-placeholder = Chwilio am iaith...
 language-search-aria-label = Chwilio am iaith
 language-search-label = Yn newid iaith cyfraniad y set ddata yn unig
 language-search-no-results = Heb ganfod ieithoedd
+
+## Transcription Player - Mode Buttons
+
+# Transcription Player - Automatic Mode
+transcription-mode-auto = Awto
+# Player - slower
+player-speed-slow = Araf
+# Player - normal speed
+player-speed-normal = Arferol
+# Player - faster
+player-speed-fast = Cyflym
+
+## Transcription Player Controls - Keyboard Shortcuts
+
+# Player control shortcut for play/pause: pressed with Ctrl/Cmd
+player-play-pause-shortcut = p
+player-play-pause-shortcut-key = Ctrl / Cmd + P
+player-play-pause-shortcut-name = Chwarae / Oedi
+# Player control shortcut to go back 5 seconds: pressed with Ctrl/Cmd
+player-skip-backward-shortcut = 8
+player-skip-backward-shortcut-key = Ctrl / Cmd + 8

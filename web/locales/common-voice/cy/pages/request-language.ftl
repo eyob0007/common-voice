@@ -41,3 +41,6 @@ need-help-deciding-platform = Angen help i benderfynu pa un i'w ddewis?
 need-help-deciding-platform-explanation-1 = <strong>Lleferydd Ysgrifenedig</strong> (yn draddodiadol yr hyn yr ydych yn ei adnabod fel Common Voice) yw lle gallwch ddarllen brawddegau yn uchel yn eich iaith.
 need-help-deciding-platform-explanation-2 = Mae <strong>Llefaru Rhydd</strong> yn rhan newydd o Common Voice lle gallwch ymateb i gwestiynau mewn ffordd fwy organig, llafar.
 need-help-deciding-platform-explanation-3 = Os nad ydych yn gweld eich iaith yn y naill ran na'r llall o'r platfform, dewiswch y ddau.
+request-language-search-bar = Gallwch ddechrau teipio enw eich iaith yma; os nad yw ar Common Voice eto, byddwch yn gallu llenwi ffurflen gyda data eich iaith.
+request-language-already-available-scs = Lleferydd Testun Ar Gael Eisoes
+request-language-already-available-sps = Llefaru Rhydd Ar Gael Eisoes
