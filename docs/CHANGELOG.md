@@ -2,7 +2,7 @@
 
 ## Current release
 
-### [v1.157.0 (2025-02-06)](https://github.com/common-voice/common-voice/releases/tag/release-v1.157.0)
+### [v1.157.0 (2025-02-12)](https://github.com/common-voice/common-voice/releases/tag/release-v1.157.0)
 
 - Chore: Rework New Language Request page to check for existing language datasets, give feedback, and only enable emails when some are missing, by [@bandrandr](https://github.com/bandrandr) in [#5253](https://github.com/common-voice/common-voice/pull/5253)
 - Chore: Rework audio corruption error handling, codes, attempt to issues with Apple devices, disable KB shortcuts in contribution pages while typing, adjust cache durations, optimize queries for major languages, by [@moz-bozden](https://github.com/moz-bozden) in [#5279](https://github.com/common-voice/common-voice/pull/5279)
