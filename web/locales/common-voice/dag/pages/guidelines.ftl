@@ -45,7 +45,9 @@ background-noise-example-4 = Sodoligu
 background-noise-tip-1 = [Vuri din yiri yɛltɔɣa ni n sagdili]
 background-noise-tip-2 = [yɛltɔɣa maa yaɣ' shɛli ku tooi wum]
 background-voices-explanation = Vuri bela din yirina bi galim,amaa ayi ni tooi wum yɛltɔɣa maa,di ni tooi saɣim vilibu ka di ku lahi tum tuma.Di bahi bandi ti yi ti che ninyula kpanjɔɣu ka di tumda.
+background-voices-example-1 = Sodoligu
 background-voices-tip-1 = A kanna?
+reader-effects-explanation = Kukoya din yaai maa pam nyɛla niriba n-kuli yɛri bɛ ni yɛri shɛm. A ni tooi saɣi n-ti din ti chirigi n-yi di ko ka che o kukoli maa ka nyɛ tahigu, ŋumbu, bee ka di kuli yɛli ni kuko' shɛli din be di ko. Dim suɣulo, zaɣisimi karimbu din ŋmani yila bee kukoli shɛli bɛ ni zaŋ kɔmpiita n-niɣim.
 still-have-questions = Anna mali bohasi?
 contact-common-voice = Bolimi kukoyinga nim maa
 
