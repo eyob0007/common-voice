@@ -93,11 +93,11 @@ player-pause-button-aria-label = ხმის შეჩერება
 # Skip back button accessibility/aria label
 player-skip-backward-aria-label = გადახვევა 5 წამით ადრე
 # Skip forward button accessibility/aria label
-player-skip-forward-aria-label = გადახვევა 5 წამის შემდეგ
+player-skip-forward-aria-label = გადახვევა 5 წამით გვიან
 # Audio playback progress slider accessibility/aria label
 player-progress-slider-aria-label = გაშვებული ხმის მიმდინარეობის ზოლი
 # Toggle speed and transcription mode menu button
-player-toggle-mode-menu-aria-label = გადართვის რეჟიმი
+player-toggle-mode-menu-aria-label = რეჟიმის მენიუს გადამრთველი
 # Slower playback speed button accessibility/aria label
 player-speed-slow-aria-label = დაკვრის შენელებული სიჩქარე
 # Normal playback speed button accessibility/aria label
@@ -106,3 +106,5 @@ player-speed-normal-aria-label = დაკვრის საშუალო ს
 player-speed-fast-aria-label = დაკვრის ასწრაფებული სიჩქარე
 # Auto transcription mode button accessibility/aria label
 transcription-mode-auto-aria-label = გადართვა სიტყვების ცალ-ცალკე მოსმენაზე
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = ნაწერად ქცევის მენიუს გადამრთველი
