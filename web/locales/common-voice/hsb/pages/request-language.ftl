@@ -38,3 +38,6 @@ need-help-deciding-platform = Trjebaće pomoc, zo byšće rozsudźił, kotru mó
 need-help-deciding-platform-explanation-1 = <strong>Rěčenje ze skriptom</strong> (tradicionalnje to, štož jako Common Voice znajeće) jeto, hdźež móžeće w swojej rěči wótře čitać.
 need-help-deciding-platform-explanation-2 = <strong>Spontane rěčenje</strong> je nowy dźěl Common Voice, hdźež móžeće na prašenja na bóle organiske, wobchadnorěčne wašnje wotmołwić.
 need-help-deciding-platform-explanation-3 = Jeli swoju rěč we woběmaj dźělomaj platformy njewidźiće, wubjerće wobaj.
+request-language-search-bar = Móžeće započeć mjeno wašeje rěče tu pisać; jeli w Common Voice njeje, móžeće formular z datami swojeje rěče wupjelnić.
+request-language-already-available-scs = Rěčenje ze skriptom je hižo k dispoziciji
+request-language-already-available-sps = Spontane rěčenje je hižo k dispoziciji
