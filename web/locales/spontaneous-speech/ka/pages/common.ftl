@@ -26,6 +26,10 @@ contribute = წვლილის შეტანა
 # Button text which appears when there are no more resources
 continue-with-skipped = გამოტოვებულზე გადასვლა
 
+## Common aria-labels
+
+keyboard-shortcuts-button-aria-label = კლავიატურის მალსახმობები
+
 ## Navbar
 
 question = შეკითხვა
@@ -53,3 +57,18 @@ language-search-placeholder = ენის მოძებნა...
 language-search-aria-label = ენის მოძებნა
 language-search-label = ცვლის მხოლოდ კრებულში წვლილის შესატან ენას
 language-search-no-results = ენა არ მოიძებნა
+
+## Transcription Player - Mode Buttons
+
+# Transcription Player - Automatic Mode
+transcription-mode-auto = თვითშერჩევა
+# Player - slower
+player-speed-slow = ნელი
+# Player - normal speed
+player-speed-normal = საშუალო
+# Player - faster
+player-speed-fast = სწრაფი
+
+## Transcription Player Controls - Keyboard Shortcuts
+
+player-play-pause-shortcut-key = Ctrl / Cmd + P
