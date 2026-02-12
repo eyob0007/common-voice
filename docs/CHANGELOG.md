@@ -46,6 +46,7 @@
 
 ##### SS Data Changes in v1.157.0
 
+- Add Javanese (`jv`) questions by [@bandrandr](https://github.com/bandrandr) in [#513](https://github.com/common-voice/spontaneous-speech/pull/513)
 - Add Sundanese (`su`) questions by [@bandrandr](https://github.com/bandrandr) in [#510](https://github.com/common-voice/spontaneous-speech/pull/510)
 - Add Sinhala (`si`) questions by [@bandrandr](https://github.com/bandrandr) in [#508](https://github.com/common-voice/spontaneous-speech/pull/508) (in v1.156.4)
 - Add Tedaga (`tuq`) questions by [@bandrandr](https://github.com/bandrandr) in [#507](https://github.com/common-voice/spontaneous-speech/pull/507) (in v1.156.4)
