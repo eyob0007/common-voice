@@ -51,3 +51,8 @@ request-language-found-cv-contribution =
 request-language-found-cv-sentences-lack =
     A súa lingua xa figura na lista de linguas de Common Voice.
     Pode facilitar o seu lanzamento na modalidade de <strong>Fala Guiada</strong> achegando frases <sentencesContributionLink>aquí</sentencesContributionLink>.
+request-language-found-spontaneous-speech =
+    A súa lingua xa está dispoñible na modalidade de <strong>Fala Guiada</strong> de Common Voice.
+    Prema <spontaneousSpeechLink>aquí</spontaneousSpeechLink> para contribuír: non esqueza escoller a lingua/conxunto de datos antes de comezar.
+request-language-already-available-scs = A Fala Guiada xa está dispoñible
+request-language-already-available-sps = A Fala Espontánea xa está dispoñible
