@@ -100,3 +100,5 @@ player-progress-slider-aria-label = Ehecha mba’epu mba’éichapa oku’e
 player-toggle-mode-menu-aria-label = Poravorã ñemoambueha
 # Slower playback speed button accessibility/aria label
 player-speed-slow-aria-label = Ñembopu mbegueveha
+# Normal playback speed button accessibility/aria label
+player-speed-normal-aria-label = Ñembopu hendapeguáva
