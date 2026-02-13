@@ -26,6 +26,10 @@ contribute = Colabore
 # Button text which appears when there are no more resources
 continue-with-skipped = Continuar co contido omitido
 
+## Common aria-labels
+
+keyboard-shortcuts-button-aria-label = Amosar os atallos de teclado
+
 ## Navbar
 
 question = Engada preguntas
@@ -43,6 +47,7 @@ not-found-page-header = Non se atopou
 not-found-page-content = Non se atopou a páxina que estaba buscando.
 # Privacy and Terms checkbox
 accept-privacy-and-terms = Acepto as <termsLink>Condicións</termsLink> e o <privacyLink>Aviso de privacidade</privacyLink> de Common Voice
+el-CY = Grego chipriota
 
 ## Language search component
 
@@ -50,3 +55,20 @@ language-search-placeholder = Busque un idioma…
 language-search-aria-label = Busque un idioma
 language-search-label = Cambia só o idioma de contribución ao conxunto de datos
 language-search-no-results = Non se atopou ningún idioma
+
+## Transcription Player - Mode Buttons
+
+# Transcription Player - Automatic Mode
+transcription-mode-auto = Automático
+# Player - slower
+player-speed-slow = Lento
+# Player - normal speed
+player-speed-normal = Normal
+# Player - faster
+player-speed-fast = Rápido
+
+## Transcription Player Controls - Keyboard Shortcuts
+
+player-play-pause-shortcut-name = Reproducir/Pausa
+player-skip-backward-shortcut-name = Para atrás
+player-skip-forward-shortcut-name = Para adiante
