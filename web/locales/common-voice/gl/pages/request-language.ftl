@@ -48,3 +48,6 @@ request-language-found-pontoon-not-launched =
 request-language-found-cv-contribution =
     Parabéns! A súa lingua xa está dispoñible na modalidade de  <strong>Fala Guiada</strong> de Common Voice.
     Pode contribuír <homePageLink>aquí</homePageLink>.
+request-language-found-cv-sentences-lack =
+    A súa lingua xa figura na lista de linguas de Common Voice.
+    Pode facilitar o seu lanzamento na modalidade de <strong>Fala Guiada</strong> achegando frases <sentencesContributionLink>aquí</sentencesContributionLink>.
