@@ -72,3 +72,24 @@ player-speed-fast = Rápido
 player-play-pause-shortcut-name = Reproducir/Pausa
 player-skip-backward-shortcut-name = Para atrás
 player-skip-forward-shortcut-name = Para adiante
+
+## Transcription Player - Aria Labels
+
+# Play button accessibility/aria label
+player-play-button-aria-label = Reproducir audio
+# Pause button accessibility/aria label
+player-pause-button-aria-label = Pausar audio
+# Skip back button accessibility/aria label
+player-skip-backward-aria-label = Retroceder 5 segundos
+# Skip forward button accessibility/aria label
+player-skip-forward-aria-label = Avanzar 5 segundos
+# Audio playback progress slider accessibility/aria label
+player-progress-slider-aria-label = Cursor do progreso da reprodución de audio
+# Toggle speed and transcription mode menu button
+player-toggle-mode-menu-aria-label = Activar/desactivar o menu de modos
+# Faster playback speed button accessibility/aria label
+player-speed-fast-aria-label = Aumentar a velocidade de reprodución
+# Auto transcription mode button accessibility/aria label
+transcription-mode-auto-aria-label = Activar/desactivar a reprodución automática palabra por palabra
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Activar/desactivar o menú do modo de transcrición
