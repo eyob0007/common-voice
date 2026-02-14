@@ -133,6 +133,7 @@ os = osetinščina
 pa-IN = pandžabščina
 pap = papiamento
 pap-AW = papiamento (Aruba)
+pau = palavščina
 pl = poljščina
 ps = paštunščina
 pt = portugalščina
