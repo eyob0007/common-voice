@@ -4,6 +4,9 @@ guidelines-header-subtitle = ทำความเข้าใจวิธีก
 voice-collection = การรวบรวมเสียง
 sentence-collection = การรวบรวมประโยค
 question-collection = การรวบรวมคำถาม
+scripted-speech = เสียงพูดตามบท
+spontaneous-speech = เสียงพูดธรรมชาติ
+dont-subheader = อย่า
 
 ## Voice Collection nav ids
 
@@ -136,3 +139,47 @@ offensive-content-sensitive-information-explanation-explanation-3 = คำถา
 example-questions-subheader = ตัวอย่างคำถาม
 example-questions-explanation-1 = คุณสามารถพบ<examplePromptsLink>ข้อความคำสั่งตัวอย่างจำนวน 120 รายการได้ในชีตนี้</examplePromptsLink>
 example-questions-explanation-2 = ถ้าคุณต้องการส่งคำถามเพื่อสอบถามข้อมูล คุณ<githubLink>สามารถส่งคำถามได้ผ่าน GitHub ของเรา</githubLink> หรือส่งมาทางอีเมลที่ <emailFragment>commonvoice@mozilla.com</emailFragment>
+
+## Spontaneous Speech sidebar content
+
+# Answer Questions
+answer-questions = ตอบคำถาม
+answer-questions-subheader = คำแนะนำทั่วไป
+answer-questions-explanation-1 = ลองคิดสักครู่เกี่ยวกับคำถาม พิจารณาว่าคุณอยากจะพูดอะไร แต่ไม่ต้องเขียนบทพูดเองมากเกินไป คลิกไอคอน ‘บันทึก’ เมื่อบันทึกเสร็จแล้ว คุณสามารถฟังเสียงของคุณเอง บันทึกซ้ำ ลบ หรือส่งได้
+answer-questions-explanation-2 = จำไว้ว่าไม่ต้องกังวลหากคุณพูดติดอ่าง หยุดพูด หรือพูดซ้ำคำใดคำหนึ่ง ข้อมูลเหล่านี้ล้วนมีประโยชน์สำหรับวิศวกรที่พยายามสร้างเครื่องมือรู้จำเสียงพูดที่ใช้งานได้จริงและครอบคลุมทุกกลุ่มคน
+answer-questions-tip-1 = บันทึกในสถานที่ที่ค่อนข้างเงียบ
+answer-questions-tip-2 = เลือกสถานที่ที่มีการเชื่อมต่ออินเทอร์เน็ตที่ดี
+answer-questions-tip-3b = พยายามตอบภายใน 15-30 วินาที
+answer-questions-tip-4 = หลีกเลี่ยงการใช้ถ้อยคำแสดงความเกลียดชัง ยุยงปลุกปั่น หรือถ้อยคำที่ไม่เหมาะสม
+answer-questions-tip-5 = พูดอย่างเป็นธรรมชาติเหมือนตอนที่คุณคุยกับเพื่อน โดยใช้รูปแบบและสำเนียงท้องถิ่นของคุณเอง
+answer-questions-tip-6 = รักษาระดับเสียงให้คงที่ อย่าตะโกนเสียงดังหรือร้องเพลง
+# Transcribe the Audio
+transcribe-the-audio = ถอดเสียง
+transcribe-the-audio-subheader-1 = คำแนะนำทั่วไป
+transcribe-the-audio-subheader-2 = ตัวเลขและคำย่อ
+transcribe-the-audio-subheader-3 = แท็กพิเศษ
+transcribe-the-audio-subheader-4 = ส่วนของคำ การเริ่มคำที่ไม่ถูกต้อง คำซ้ำ
+transcribe-the-audio-subheader-5 = ข้อผิดพลาดทางไวยากรณ์และสำนวนภาษาพูด
+transcribe-the-audio-subheader-1-explanation = โดยทั่วไป คุณควรจดบันทึกทุกสิ่งที่คุณได้ยิน ซึ่งรวมถึง
+transcribe-the-audio-subheader-1-explanation-example-1 = จดบันทึกความไม่ราบรื่นในการพูด รวมถึงการลังเลและการพูดซ้ำ
+transcribe-the-audio-subheader-1-explanation-example-2 = การระบุเหตุการณ์เสียงรบกวนต่าง ๆ เช่น การไอหรือการหัวเราะ
+transcribe-the-audio-subheader-1-explanation-example-3 = การระบุถึงมลพิษทางเสียงที่สำคัญ เช่น เสียงพูดคุยในพื้นหลังหรือเสียงแตรรถยนต์
+transcribe-the-audio-subheader-1-explanation-example-4 = สำหรับความแตกต่างทางไวยากรณ์และคำแสลง ให้บันทึกให้ตรงตามที่ปรากฏ และห้ามแก้ไขหรือตัดต่อคำพูดของผู้อื่น
+transcribe-the-audio-subheader-2-explanation-1 = สำหรับตัวเลขและสัญลักษณ์ ให้เขียนเป็นคำแทนการใช้ตัวเลขหรืออักขระพิเศษ ตัวอย่าง:
+transcribe-the-audio-subheader-2-explanation-2 = สำหรับคำย่อ ให้เขียนตามวิธีการเขียนปกติในภาษา โดยใช้ตัวพิมพ์ใหญ่ตามกฎมาตรฐาน ไม่ควรเขียนโดยถอดเสียงตามหลักสัทศาสตร์ ตัวอย่าง:
+# text wrapped in correct will be shown as green text in the UI
+transcribe-the-audio-subheader-2-example-1-correct = <correct> ถูก</correct>: มันอยู่ห่างจากที่นี่หนึ่งร้อยกิโลเมตร
+# text wrapped in wrong will be shown as red text in the UI
+transcribe-the-audio-subheader-2-example-1-wrong = <wrong>ผิด</wrong>: มันอยู่ห่างจากที่นี่ 100 กิโลเมตร
+# text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-correct = <correct> ถูก</correct>: เจอกันในปี<underline>สองพันสิบห้า</underline>
+# text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-wrong = <wrong>ผิด</wrong>: เจอกันในปี <underline>2015</underline>
+transcribe-the-audio-subheader-2-example-3-correct = <correct>ถูก</correct>: ลดราคายี่สิบเปอร์เซ็นต์
+transcribe-the-audio-subheader-2-example-3-wrong = <wrong>ผิด</wrong>: ลดราคา 20%
+transcribe-the-audio-subheader-2-example-4-correct = <correct>ถูก</correct>: พี่ชายของเขาอยู่ที่บ้านซื้อใหม่ใน <underline>กทม.</underline>
+transcribe-the-audio-subheader-2-example-4-wrong = <wrong>ผิด</wrong>: พี่ชายของเขาอยู่ที่บ้านซื้อใหม่ใน<underline>กอทอมอ</underline>
+transcribe-the-audio-subheader-3-explanation = ให้ใช้แท็กพิเศษต่อไปนี้เพื่อระบุความไม่ราบรื่น คำพูดแทรก และเนื้อหาที่ไม่ใช่คำพูดประเภทอื่น ๆ
+tags-table-header-1 = แท็ก
+tags-table-header-2 = ความหมาย
+tags-laugh = หัวเราะ
