@@ -91,12 +91,14 @@ export default class Clip {
     // Fast voter: ~10 votes/minute = 600/hour
     // But if audio is bad, they may vote faster to get a new clip
     // => Rate limiting for clip voting: ~900 votes/hour
+    // => Relax for shared IPs => 200 votes per 10 minutes (1200/hour max)
+    // + block for 1 minutes if limit exceeded
     router.post(
       '/:clipId/votes',
       rateLimiter('clips/vote', {
-        points: 150, // 150 votes
-        duration: 600, // per 10 minutes (900/hour max)
-        blockDuration: 300, // Block for 5 minutes
+        points: 200, // 200 votes
+        duration: 600, // per 10 minutes (1200/hour max)
+        blockDuration: 60, // Block for 1 minute
       }),
       this.saveClipVote
     )
@@ -108,12 +110,14 @@ export default class Clip {
     // Batch of 5 clips: ~50 seconds
     // 5 batches (25 clips): ~4+ minutes
     // => Allow 70 uploads per 10 minutes (7 uploads/minute, 420 uploads/hour < 600))
+    // => Relax for shared IPs => 150 uploads per 10 minutes (900/hour max)
+    // + block for 1 minutes if limit exceeded
     router.post(
       '*',
       rateLimiter('clips/record', {
-        points: 70, // 70 uploads
+        points: 150, // 150 uploads
         duration: 600, // per 10 minutes
-        blockDuration: 300, // Block for 5 minutes
+        blockDuration: 60, // Block for 1 minute
       }),
       this.saveClip
     )
