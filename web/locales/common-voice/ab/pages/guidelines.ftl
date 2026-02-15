@@ -137,6 +137,7 @@ offensive-content-sensitive-information-explanation-explanation-1 = Ахатә �
 offensive-content-sensitive-information-explanation-explanation-2 = Ацәымӷра, аиаша адымгылара, ахьымӡӷргара зныԥԥшуа аҳәамҭақәа цәырҵратәы аҟаҵара зылшо азҵаарақәа
 example-questions-subheader = Азҵаарақәа рҿырԥштәқәа
 example-questions-explanation-1 = Шәара ишәылшоит <examplePromptsLink>120 азҵаарақәа рҿырԥштәқәа ари атаблицаҿы шәыԥшаарц.</examplePromptsLink>
+example-questions-explanation-2 = Иацырҵаша азҵаарақәа ргәыԥ нашәышьҭыр шәҭахызар, шәара <githubLink> уи ҟашәҵар шәылшоит ҳ-GitHub</githubLink> ала, мамзаргьы <emailFragment>commonvoice@mozilla.com</emailFragment> ахь асиа нашәышьҭыр шәылшоит.
 
 ## Spontaneous Speech sidebar content
 
@@ -156,6 +157,8 @@ transcribe-the-audio-subheader-4 = Ажәақәа рсегментқәа, афа
 transcribe-the-audio-subheader-5 = Аграмматикатә гхақәеи ацәажәаратә жәаҳәахьақәеи
 transcribe-the-audio-subheader-1-explanation = Ажәакала, ишәаҳауа зегьы ҭажәыҩлароуп. Уахь иаҵанакуеит:
 transcribe-the-audio-subheader-1-explanation-example-1 = Аилагарқәа рҭаҩра, агәрамгареи аиҭаҳәарақәеи налаҵаны
+transcribe-the-audio-subheader-1-explanation-example-2 = Аимҳәа, ма асмаилик реиԥш иҟоу ашьҭыбжьтә хҭысқәа разгәаҭара
+transcribe-the-audio-subheader-1-explanation-example-3 = Игәауҭартә иҟоу ашьҭыбжьтә нырра азгәаҭара, иаҳҳәап, афонтә цәажәара, мамзаргьы амашьынақәа рыбжьы
 # text wrapped in correct will be shown as green text in the UI
 transcribe-the-audio-subheader-2-example-1-correct = <корректное>Ииашоуп</корректное>: Арантәи шә-мильк бжьоуп
 # text wrapped in wrong will be shown as red text in the UI
