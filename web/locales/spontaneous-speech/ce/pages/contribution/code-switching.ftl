@@ -17,3 +17,23 @@ cs-question-dataset-name = Хаамийн гулам
 ## Validate Page Items
 
 cs-validate-page-instruction = ХӀара хаттар бакъонашца догӀуш хилар тӀечӀагӀде <validateIcon></validateIcon>
+cs-no-questions-continue-skipped = ХӀокху хаамийн гуларехь кхин хаттарш дац. Нагахь ахь цхьаерш тӀехйитинехь, хьан цаьрца болх бан йиш ю, йа аудиона транскрипци йазйа гӀо, тӀаккха тӀаьхьо юха хьа
+cs-add-vote-error-message = Хаттарна кхаж туьйсуш гӀалат даьлла
+
+## Transcribe Page Items
+
+cs-no-audio-continue-skipped-message = ХӀокху хаамийн гуларехь транскрипцин йан аудио хӀинца йац. Нагахь ахь цхьаерш тӀехйитинехь, хьан цаьрца болх бан йиш ю, я транскрипцеш талла гӀо, тӀаккха тӀаьхьо юха хьажа
+
+## Review Page Items
+
+cs-no-transcriptions-continue-skipped = ХӀокху хаамийн гуларехь транскрипцин йан аудио хӀинца йац. Нагахь ахь цхьаерш тӀехйитинехь, хьан цаьрца болх бан йиш ю, я транскрипцеш талла гӀо, тӀаккха тӀаьхьо юха хьажа
+
+## Tag Page Items
+
+cs-no-transcriptions-to-tag-continue-skipped = ХӀокху хаамийн гуларехь транскрипцин йан аудио хӀинца йац. Нагахь ахь цхьаерш тӀехйитинехь, хьан цаьрца болх бан йиш ю, я транскрипцеш талла гӀо, тӀаккха тӀаьхьо юха хьажа
+cs-tag-dataset-name = Хаамийн гулар
+
+## Guidelines
+
+learn-how-to-use = АгӀо муха лело беза хьажа
+read-full-guidelines-here = <guidanceLink>Бакъонаш кхузахь еша</guidanceLink>
