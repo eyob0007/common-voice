@@ -87,6 +87,7 @@ spontaneous-speech = АСПОНТАНТӘ ЖӘАҲӘА
 ## MENU ITEMS TOOLTIPS
 
 about-menu-tooltip = Алахәыларақәа, апрессеи астатиақәеи, аилазаареи абызшәақәеи
+press-and-stories-menu-item-tooltip = Шәаҭаа ҳаблог, ма ҳара иҳазкны ианышәҵа
 
 ## MENU ITEM ARIA LABELS
 
