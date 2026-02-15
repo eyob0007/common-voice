@@ -37,3 +37,11 @@ cs-tag-dataset-name = Хаамийн гулар
 
 learn-how-to-use = АгӀо муха лело беза хьажа
 read-full-guidelines-here = <guidanceLink>Бакъонаш кхузахь еша</guidanceLink>
+
+## Answer Page Guidelines
+
+cs-learn-how-to-use-answer-explanation = Хаттарна ма-хуьллу атта жоп ло, нагахь хьуна нийса хетахь, меттанаш эдеш (code-switching) къамел де. Хьан мотт лераме а, цхьанна а бехке (offensive) боцуш а хила беза
+
+## Review Page Guidelines
+
+cs-learn-how-to-use-check-transcript-explanation = Транскрипцино стага аьлла хӀора дош а, дешнийн маьӀна доцу (non-lexical) къамелан аьзнаш а чулаца деза, юхадийцарш (repetitions) юкъахь а долуш
