@@ -53,5 +53,8 @@ request-language-found-cv-sentences-lack =
     Váš jazyk je již na seznamu jazyků Common Voice.
     Spuštění <strong>skriptované řeči</strong> můžete podpořit
     přispíváním vět <sentencesContributionLink>zde</sentencesContributionLink>.
+request-language-found-spontaneous-speech =
+    Váš jazyk už je v Common Voice v části <strong>Spontánní řeč</strong> zveřejněn. 
+    Pro přispění klepněte <spontaneousSpeechLink>zde</spontaneousSpeechLink>: nezapomeňte změnit jazyk příspěvků či datové sady dříve, než začnete přispívat!
 request-language-already-available-scs = Skriptovaná řeč je již dostupná
 request-language-already-available-sps = Spontánní mluvení je již dostupné

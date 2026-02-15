@@ -55,7 +55,7 @@ report-offensive-speech = Yɛltɔɣ' tula
 report-offensive-speech-detail = Di malila jilimankai bee yɛltɔɣ' tula
 report-other-comment =
     .placeholder = Pahigu
-success = Toontibo
+success = Nasara
 continue = Tuɣima
 report-success = Lahibali maa paasiya viɛnyɛla
 
