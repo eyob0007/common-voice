@@ -112,7 +112,13 @@ answer-questions-tip-4 = Chɛli yɛltɔɣa kana, yɛltɔɣa fina, bee yɛltɔɣa
 transcribe-the-audio = Sabimi kukɔli maa.
 transcribe-the-audio-subheader-2 = nambanima mini bachi ŋmahi
 # text wrapped in wrong will be shown as red text in the UI
-transcribe-the-audio-subheader-2-example-1-wrong = <wrong>Ka yɛlmaŋli</wrong>:  Di nyɛla maali kɔbiga zaŋ kana kpe
+transcribe-the-audio-subheader-2-example-1-wrong = <wrong>Ka viɛnyɛla</wrong>:  Di nyɛla maali kɔbiga zaŋ kana kpe
+# text wrapped in correct will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-correct = <correct> Viɛnyɛla</correct>: Ni nya a <underline>yuun tusaayi ni pia ni anu ni</underline>
+# text wrapped in wrong will be shown as green text in the UI, text wrapped in underline will be underlined in the UI
+transcribe-the-audio-subheader-2-example-2-wrong = <wrong>Ka viɛnyɛla</wrong>: Ni nya a <underline>2015 ni</underline>
+transcribe-the-audio-subheader-2-example-3-correct = <correct>Viɛnyɛla</correct>: Didi nyɛla vaabu pishi kɔbiga puuni
+transcribe-the-audio-subheader-2-example-3-wrong = <wrong>Ka viɛnyɛla</wrong>: Didi nyɛla 20% off
 tags-table-header-2 = Gbinni
 tags-laugh = La
 tags-noise = Vuri
