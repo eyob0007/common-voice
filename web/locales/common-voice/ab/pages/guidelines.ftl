@@ -248,6 +248,9 @@ code-switching-answer-dont-formal-writing = <bold>Официалла ижәыҩ�
 code-switching-transcribe-subheader = Атранскрибациа
 # Use standard spelling for each language
 code-switching-spelling-header = Иарбан бызшәазаалак азы истандарттәу аорфографиа шәхы иашәырхәала
+# Don’t Clean Up or Simplify the Language
+code-switching-cleanup-header = Абызшәа шәымрыцқьалан, насгьы ишәмырмариалан
+code-switching-cleanup-1 = Аиҭагара ма еиҭакны ахархәара — ицәажәо «ииҳәарц ииҭаху» акәымкәа, ииҳәаҵәҟьаз анышәҵала.
 code-switching-cleanup-2 = «Ииашоу» аграмматика, ма аҳәашьа — иԥсабаратәу абызшәа еиқәшәырхала.
 code-switching-tagging-error-2 = Агхақәа
 # Use Pronunciation to Help Determine the Language
