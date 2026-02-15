@@ -12,3 +12,8 @@ cs-locale-change-modal-subtitle = Хьан хӀокху агӀон тӀехь Ӏ
 
 cs-question-page-instruction = тӀетоха 25 кхаччалц хаттарш<icon></icon>хаамийн гуларе{ $currentLocale } нахе жоьпаш далийтархьамма
 cs-add-question-textarea-placeholder = Меттанаш эдеш (code-switching) хаттарш чудаха, хӀора могӀарехь цхьацца. Нахана иштта ийначу маттахь жоп дала атта хир ду, нагахь хаттар а иштта делахь
+cs-question-dataset-name = Хаамийн гулам
+
+## Validate Page Items
+
+cs-validate-page-instruction = ХӀара хаттар бакъонашца догӀуш хилар тӀечӀагӀде <validateIcon></validateIcon>
