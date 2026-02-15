@@ -1,5 +1,6 @@
 ## NAV ITEMS
 
+about-us = Тхох лаьцна
 scripted-speech = Йозанан ларца къамел
 
 ## Hero section
