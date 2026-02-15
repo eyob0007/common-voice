@@ -82,6 +82,7 @@ save-api-key-info = <bold>Ишәарҭамкәа шәцаԥхақәа еиқәш
 api-key-name-display-label = API аҳасабрбатә дыррақәа рыхьӡ
 api-client-id-display-label = API аклиент иидентификатор
 api-key-modal-confirmation-header = Агәра ганы шәыҟоума?
+create-api-key-error-toast-message = API аҳасабрбатә дыррақәа раԥҵараан агха ҟалеит
 copy-api-credential-success-toast-message = Қәҿиарала ихкьыԥхьаауп
 copy-api-credential-error-toast-message = Ахкьыԥхьаара агха
 # Genders

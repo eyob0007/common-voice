@@ -35,6 +35,7 @@ tag = Адыргақәа
 ## Not Found Page
 
 not-found-page-header = Иԥшаам
+not-found-page-content = Шәзышьҭоу адаҟьа ԥшаам
 # Locales-Variants
 ms-MY = Абахаса Малаи
 
@@ -43,3 +44,24 @@ ms-MY = Абахаса Малаи
 language-search-placeholder = Абызшәа аԥшаара...
 language-search-aria-label = Абызшәа аԥшаара
 language-search-no-results = Абызшәақәа ԥшаам
+
+## Transcription Player - Mode Buttons
+
+# Transcription Player - Automatic Mode
+transcription-mode-auto = Ахала
+# Player - slower
+player-speed-slow = Ашьшьыҳәа
+# Player - faster
+player-speed-fast = Ирласны
+
+## Transcription Player Controls - Keyboard Shortcuts
+
+# Player control shortcut for play/pause: pressed with Ctrl/Cmd
+player-play-pause-shortcut = p
+player-play-pause-shortcut-key = Ctrl / Cmd + P
+# Player control shortcut to go back 5 seconds: pressed with Ctrl/Cmd
+player-skip-backward-shortcut = 8
+player-skip-backward-shortcut-key = Ctrl / Cmd + 8
+player-skip-backward-shortcut-name = Ашьҭахьҟа
+# Player control shortcut to go forwards 5 seconds: pressed with Ctrl/Cmd
+player-skip-forward-shortcut = 9
