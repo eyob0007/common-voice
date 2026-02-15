@@ -59,6 +59,11 @@
 
 ### Changes merged after current release
 
+- Feat: Add prefetching to statistics to be always up to date and prevent timeouts, by [@moz-bozden](https://github.com/moz-bozden) in [#5292](https://github.com/common-voice/common-voice/pull/5292) (in v.1.157.1)
+- Chore: Add more data checking guards in audio pipeline, by [@moz-bozden](https://github.com/moz-bozden) in [#5291](https://github.com/common-voice/common-voice/pull/5291) (in v.1.157.1)
+- Fix: Deadlock on local dev while getting SPS datasets, by [@moz-bozden](https://github.com/moz-bozden) in [#5295](https://github.com/common-voice/common-voice/pull/5295) (in v.1.157.1)
+- Fix: Two regressions on Speak page, by [@moz-bozden](https://github.com/moz-bozden) in [#5293](https://github.com/common-voice/common-voice/pull/5293) (in v.1.157.1)
+
 #### Data Changes after current release
 
 #### Spontaneous Speech after current release
