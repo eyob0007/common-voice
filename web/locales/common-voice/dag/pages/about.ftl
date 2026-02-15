@@ -113,12 +113,12 @@ about-playbook-how-grow-language-content-4 = pɔhim zuɣu
 about-playbook-how-grow-language-content-5 = A ni tooi zaŋ pɔhim zuɣu dundɔna n- yihi satara na.Tɔhimi a hankali n ti zama ban be pɔhim zuɣu ka yali din tu kamaata shɛm ka zaŋ a maŋa n ti dalim ninvuɣ' shɛb ban diri alizama gandi bala yiko,AI kukoya bee ban be kukoya tabiibi ni.Yulimi saɣsigu pam kpe<campaignLink>Bam mali zamatu yɛltɔɣa tumdi tuma n ti pahi tuma. <campaignLink>.
 about-playbook-how-grow-language-content-6 = kpalanzuya gbunibu mini zuliya balli zoobu
 about-playbook-how-grow-language-content-7 = Yulibo ninvuɣi shɛbi ban mali zaɣa,di ni tooi nyɛ yunivɛsiti nima,balla shikuruti,laɣisi ban mali kukoya bee tabiibi baŋsim yaɣ'.Bomi bi shee ka bi taɣisi kahiga bi ni soŋdi sham,ni bintahili.<outreachTemplates>yulimi di mŋahinli sodolisi ŋɔ zuɣu<outreachTemplates>.
-about-playbook-how-grow-language-content-8 = <strong>pilima!</strong>a zuliya balli yɛn bela di ko,ŋɔ maa mi kuli nyɛla so' shɛŋa a ni yɛn zaŋ pili.
+about-playbook-how-grow-language-content-8 = <strong>pilima!</strong>a zuliya balli nyɛla din yan yi di ko, ŋɔ maa mi kuli nyɛla so' shɛŋa a ni yɛn zaŋ pili.
 
 ## How to validate
 
-about-playbook-how-validate = wula ka n yɛn n niŋ m- baŋ ni n saɣiti kukɔli kliipu?
-about-playbook-how-validate-content-1 = Ayi ni tooi<strong>n wum bɛ yɛligu</strong> ka<strong>baŋ di gbunni</strong>, fi zooya<strong>pam ka a daɣi</strong>.
+about-playbook-how-validate = wula ka n yɛn n niŋ m-baŋ ni n saɣiti kukɔli kliipu?
+about-playbook-how-validate-content-1 = Ayi ni tooi<strong>wummi bɛ yɛligu</strong> ka<strong>baŋ di gbunni</strong>, di zooya<strong>pam ka a ni saɣi ti</strong>.
 about-playbook-how-validate-content-2 = Di zaɣisi vulindi shaŋɔ din yari yɛltɔɣ'  din waligi ka che a zilil kum<strong>-dinboŋɔ kpa talahi n ti kukoli baŋbu din yan che ka di tu viɛnyɛla n ti sokam
 about-playbook-how-validate-content-3 = Di yi niŋ ka a tɛhi ni kukoli maa nyɛla din gbaabu yɛn niŋ tom bee vori yimina di ni bee ninvuɣu shɛba gba nyɛla ban yɛlli niŋ di ni nyini zaɣasimi li. Lihimi lahabali ŋɔ ni nya di vɛnyɛla niŋbu
 about-playbook-how-validate-content-4 = Niriba ayi yi zaɣisi anfooni ŋmaa, di yirimi labi dataset yaɣ' shɛli polo.
