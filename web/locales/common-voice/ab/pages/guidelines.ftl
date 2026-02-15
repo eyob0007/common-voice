@@ -252,7 +252,12 @@ code-switching-spelling-header = Иарбан бызшәазаалак азы и
 code-switching-cleanup-header = Абызшәа шәымрыцқьалан, насгьы ишәмырмариалан
 code-switching-cleanup-1 = Аиҭагара ма еиҭакны ахархәара — ицәажәо «ииҳәарц ииҭаху» акәымкәа, ииҳәаҵәҟьаз анышәҵала.
 code-switching-cleanup-2 = «Ииашоу» аграмматика, ма аҳәашьа — иԥсабаратәу абызшәа еиқәшәырхала.
+code-switching-cleanup-4 = Атекст аҵакы аԥсахра зылшо ааҭгыларатә дыргақәа рыбжьаргылара — есымша шәшыҟоу шәыҟаз.
+code-switching-tagging-error-1 = Ииашам апунктуациа ма ахьӡынҵа
 code-switching-tagging-error-2 = Агхақәа
+code-switching-tagging-error-3 = Ииашам аорфографиала иҩу ажәақәа
+# Using Correct Orthography for Each Language
+code-switching-orthography-header = Иарбан бызшәазаалак азы ииашоу аорфографиа ахархәара аҭара
 # Use Pronunciation to Help Determine the Language
 code-switching-pronunciation-header = Абызшәа аилкаара шәацхраарц азы аҳәашьа шәхы иашәырхәа
 code-switching-pronunciation-explanation-example-1 = Англыз: /ˈkeɪ.bəl/
