@@ -11,3 +11,11 @@ vote-transcript-error = Транскрипцина кхаж туьйсуш гӀ�
 transcript-edited-success = Транскрипци кхиамца хийцина
 transcript-edited-error = Транскрипци хийцуш гӀалат даьлла
 error-fetching-transcriptions = Транскрипцеш схьаоьцуш гӀалат даьлла. КӀеззиг хан яьлча юха хьажа
+transcript-skipped-success = Транскрипци кхиамца чекхйалийтина
+transcript-skipped-error = Транскрипци чекхйолуьйтуш гӀалат даьлла
+# For the button on the Check Transcriptions page to assert that a transcription is correct
+correct = Нийса ду
+# For the button on the Check Transcriptions page to indicate that a user has finished editing a transcription
+done = Дина
+# For the button on the Check Transcriptions page to edit a transcription
+edit = Нисдар
