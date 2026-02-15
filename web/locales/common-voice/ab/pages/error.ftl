@@ -15,6 +15,8 @@ error-content-500 = Ҳазқәымгәыӷуаз агха ҟалеит. Ԥыҭр
 error-title-502 = Аимадара еиԥырҟьоуп
 error-title-503 = Ҳара ҳҿы узқәымгәыӷуа имариоу
 error-content-503 = Асаит хара имгакәа аусура еиҭалагоит. Аҵыхәтәантәи аинформациа аиуразы, шәалал<matrixLink>аилазаара ачат Matrix</matrixLink> аҿы, шәаҭаа <githubLink>GitHub</githubLink> мамзаргьы <discourseLink>ҳ-Discoure  форумқәа</discourseLink> азҵаарақәа рзы адырра аҭаразы, насгьы урҭ рыцклаԥшразы.
+error-title-504 = Аҳәара азыԥшра аамҭа нҵәеит
+error-content-504 = Аҳәара мыцхәы аамҭа агеит. Абжьааԥны ари аамҭалоуп. Даҽазнык шәҽазышәшәа. Ҳшәыҳәоит, ацхыраара аиуразы  Matrix аҿы</matrixLink> аилазаара <matrixLink> ачат шәалал, асаит аҿы апроблемақәа <githubLink>GitHub</githubLink> ала шәрышьклаԥшла, мамзаргьы <discourseLink>ҳ-Discourse-формуқәа</discourseLink> шәырҭаа.
 error-code = Агха акод: { $code }
 # Warning message shown when none of the clips could be uploaded
 error-duplicate-clips-all =
@@ -22,3 +24,5 @@ error-duplicate-clips-all =
         [one] Шәыклип аҭагалара ҳалымшаӡеит. Уи уаанӡа иҭагалахьан. Шәааи анаҩстәи апачкала иацаҳҵап!
        *[other] Ҳара { $total } клипк рҭагалара ҳалымшаӡеит. Урҭ уаанӡа иҭагалахьан. Шәааи анаҩстәи апачкала иацаҳҵап!
     }
+# Warning message shown when only some of the clips could be uploaded (uploaded count will be <5)
+error-duplicate-clips-some = Ҳара шәыклипқәа { $uploaded } ҭаҳгеит — егьырҭ иҭагалоуп. Шәааи анаҩстәи апачкала иацаҳҵап!
