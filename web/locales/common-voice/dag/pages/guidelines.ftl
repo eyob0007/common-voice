@@ -97,6 +97,7 @@ length = waɣilim
 length-explanation = Bɔhigu maa tu ni di tooi labisi ni yɛltɔɣa bela
 dont-add-subheader = Di pahi
 culturally-specific-questions = kaya ni ta-ada bɔhisi
+culturally-specific-questions-explanation = Bɔhisi shɛŋa din n-jɛndi kaya ni taada, bee din n tɛhiri pam n-tiri ŋun labisiri maa
 process-steps = Soya
 example-questions-subheader = Kotomsi bɔhisi
 example-questions-explanation-1 = A ni tooi nya <examplePromptsLink> kɔbigi ni pishi kotomsi gbaŋ ŋɔ ni.</examplePromptsLink>

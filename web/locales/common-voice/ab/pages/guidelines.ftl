@@ -237,7 +237,9 @@ code-switching-answer-bullet-2 = Шәҩыза атексттә аацҳамҭа 
 code-switching-answer-bullet-3 = Шәхы иашәырхәаҵәҟьаз ажәақәа ахархәара рышәҭ, урҭ иамаԥсахзаргьы, ма еилаԥсазаргьы
 code-switching-answer-bullet-4 = Иҟаӡам «зеиӷьыҟам» аҭак аҟаҵашьа
 code-switching-authentic-header = Иԥсабаратәны, насгьы иҵабыргны аҭак ҟашәҵала
+code-switching-authentic-speak = <bold>Шәҩызцәа ма шәҭаацәа шәрацәажәошәа шәцәажәала.</bold>Ареалтә ԥсҭазаараҿы абызшәақәа еилашәҵозар, араҟагьы убасҵәҟьа иҟашәҵала. Аҿырԥштәы:
 code-switching-use-both-languages = <bold>Аҩбызшәак шәхы иашәырхәала абжьааԥны ус ҟашәҵозар.</bold> Ихәарҭоуп ажәак, ма ҩажәак мацара рыԥсахрагьы. Аҿырԥштәы:
+code-switching-use-both-languages-example = «Лара ииашаҵәҟьаны лгәы ԥнажәеит сахьылзамысыз».
 # Don’t Overthink or Overedit
 code-switching-answer-dont-subheader = Мыцхәы шәазымхәыцлан, иара убас мыцхәы аредакциа азыжәымун
 code-switching-answer-dont-correct-language = <bold>Убызшәа «Ариашара».</bold> Ари ԥышәараӡам. «Ииашоу» аформа акәӡам ара аҵакы злоу, аҵакы злоу иԥсабаратәу абызшәа ауп.
