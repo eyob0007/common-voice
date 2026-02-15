@@ -109,6 +109,7 @@ answer-questions-tip-1 = Yaami li luɣishɛli din fo.
 answer-questions-tip-2 = piimi luɣishɛli intaneeti ni be.
 # Transcribe the Audio
 transcribe-the-audio = Sabimi kukɔli maa.
+transcribe-the-audio-subheader-2 = nambanima mini bachi ŋmahi
 tags-table-header-2 = Gbinni
 tags-laugh = La
 tags-noise = Vuri
