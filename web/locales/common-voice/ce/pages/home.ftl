@@ -3,6 +3,14 @@
 about-us = Тхох лаьцна
 scripted-speech = Йозанан ларца къамел
 
+## MENU ITEMS TOOLTIPS
+
+about-menu-tooltip = Цхьанхалла, зорбанан гӀирс а, дийцарш а, юкъаралла а, меттанаш а
+
+## MENU ITEM ARIA LABELS
+
+partnerships-menu-item-aria-label = Common Voice компаница накъосталла дарх лаьцнарг довза .
+
 ## Hero section
 
 hero-title = Хьан мотт буьйцу технологи
@@ -17,3 +25,8 @@ get-started = ДӀадоладе<icon><icon>
 action-items-section-title = Common Voice — иза маьхза а, дӀайиллина код йолу а платформа ю, юкъараллин гӀоьнца хаамаш кхолла лерина йолу
 action-items-section-subtitle = Йозанан а, къамелан а хаамаш кхуллуш, дӀасабаржош, иштта вовшахтухуш, хӀоранна а шен мотт ларбан, юхаденбан, кхио а йиш ю
 scripted-card-header = Йозанан ларца къамел
+
+## Partner section
+
+# Partners section
+our-partners-include = Тхан накъосташна юкъабоху
