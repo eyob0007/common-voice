@@ -159,6 +159,7 @@ transcribe-the-audio-subheader-1-explanation = Ажәакала, ишәаҳау�
 transcribe-the-audio-subheader-1-explanation-example-1 = Аилагарқәа рҭаҩра, агәрамгареи аиҭаҳәарақәеи налаҵаны
 transcribe-the-audio-subheader-1-explanation-example-2 = Аимҳәа, ма асмаилик реиԥш иҟоу ашьҭыбжьтә хҭысқәа разгәаҭара
 transcribe-the-audio-subheader-1-explanation-example-3 = Игәауҭартә иҟоу ашьҭыбжьтә нырра азгәаҭара, иаҳҳәап, афонтә цәажәара, мамзаргьы амашьынақәа рыбжьы
+transcribe-the-audio-subheader-2-explanation-1 = Ахыԥхьаӡарақәеи асимволқәеи нбанла иҩызароуп, аԥхьаӡацқәа, ма иҷыдоу асимволқәа рыламзароуп. Аҿырԥштәы:
 # text wrapped in correct will be shown as green text in the UI
 transcribe-the-audio-subheader-2-example-1-correct = <корректное>Ииашоуп</корректное>: Арантәи шә-мильк бжьоуп
 # text wrapped in wrong will be shown as red text in the UI
@@ -234,6 +235,8 @@ code-switching-answer-dont-subheader = Мыцхәы шәазымхәыцлан, 
 code-switching-answer-dont-correct-language = <bold>Убызшәа «Ариашара».</bold> Ари ԥышәараӡам. «Ииашоу» аформа акәӡам ара аҵакы злоу, аҵакы злоу иԥсабаратәу абызшәа ауп.
 # Transcribing
 code-switching-transcribe-subheader = Атранскрибациа
+# Use standard spelling for each language
+code-switching-spelling-header = Иарбан бызшәазаалак азы истандарттәу аорфографиа шәхы иашәырхәала
 code-switching-cleanup-2 = «Ииашоу» аграмматика, ма аҳәашьа — иԥсабаратәу абызшәа еиқәшәырхала.
 code-switching-tagging-error-2 = Агхақәа
 # Use Pronunciation to Help Determine the Language
