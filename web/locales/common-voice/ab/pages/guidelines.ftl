@@ -265,6 +265,9 @@ code-switching-pronunciation-explanation-example-2 = Аиспан: /ˈkable/
 code-switching-punctuation-tagging-explanation-example-2 = <purple>аха<</purple><blue>tú los puedes comprar rojo, negro, azul</blue>, <purple>иарбанзаалак азы.</purple>(BangorTank)
 # Be Careful with Lookalikes
 code-switching-lookalikes-header = Еиԥшу ажәақәа рҿы шәгәышәҽаныз
+code-switching-lookalikes-explanation-example-1 = «Footing» уаанӡа аиспан бызшәала иаанагон аҩра > аиспан ҳәа азгәашәҭала
+code-switching-lookalikes-explanation-example-2 = «No problemo» ахархәара амоуп англыз бызшәаҿы > англыз ҳәа азгәашәҭала
+code-switching-not-tag-proper-names = <bold>Ахатәы хьыӡқәа.</bold> Ауаа, аҭыԥқәа, аиҿкаарақәа рыхьӡқәа адыргақәа рыла иазгәаҭамзароуп. Аҿырԥштәқәа:
 code-switching-not-tag-proper-names-example-1 = Ауаа:  Мариа, Џон
 code-switching-not-tag-proper-names-example-2 = Аҭыԥқәа: Лос-Анџьелес, Флорида
 code-switching-not-tag-proper-names-example-3 = Абрендқәа/Ахеидкылақәа:  Target, Burger King
