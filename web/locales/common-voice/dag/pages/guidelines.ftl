@@ -107,9 +107,12 @@ example-questions-explanation-1 = A ni tooi nya <examplePromptsLink> kɔbigi ni 
 answer-questions = Labisimi bɔhisi
 answer-questions-tip-1 = Yaami li luɣishɛli din fo.
 answer-questions-tip-2 = piimi luɣishɛli intaneeti ni be.
+answer-questions-tip-4 = Chɛli yɛltɔɣa kana, yɛltɔɣa fina, bee yɛltɔɣa yoya
 # Transcribe the Audio
 transcribe-the-audio = Sabimi kukɔli maa.
 transcribe-the-audio-subheader-2 = nambanima mini bachi ŋmahi
+# text wrapped in wrong will be shown as red text in the UI
+transcribe-the-audio-subheader-2-example-1-wrong = <wrong>Ka yɛlmaŋli</wrong>:  Di nyɛla maali kɔbiga zaŋ kana kpe
 tags-table-header-2 = Gbinni
 tags-laugh = La
 tags-noise = Vuri
