@@ -131,6 +131,7 @@ culturally-specific-questions = Акультуратә ҷыдара зныԥшу
 culturally-specific-questions-explanation = Иаразнак улаԥш иҵашәо акультуратә ҷыдара змоу, мамзаргьы ареспондент изку агәаанагарақәа рацәаны злоу азҵаарақәа.
 length-avoid-explanation = 15 секунд рыла зҭак аҟаҵара уадаҩхо азҵаарақәа (аклип иреиҳаӡоу аура)
 process-steps = Апроцесс / Ашьаҿақәа
+process-steps-explanation = Шьаҿақәак реиқәыԥхьаӡара зҭаху азҵаарақәа. Ас еиԥш иҟоу азҵаарақәа ареспондент ԥсабартәла аҭак ҟамҵакәа, аҭак даԥхьаратәы иҟарҵоит.
 offensive-content-sensitive-information = Ихьымӡӷыргаго аҵакы ма имаӡоу аинформациа
 example-questions-subheader = Азҵаарақәа рҿырԥштәқәа
 example-questions-explanation-1 = Шәара ишәылшоит <examplePromptsLink>120 азҵаарақәа рҿырԥштәқәа ари атаблицаҿы шәыԥшаарц.</examplePromptsLink>
