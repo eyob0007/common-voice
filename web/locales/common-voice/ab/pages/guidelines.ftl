@@ -134,6 +134,7 @@ process-steps = Апроцесс / Ашьаҿақәа
 process-steps-explanation = Шьаҿақәак реиқәыԥхьаӡара зҭаху азҵаарақәа. Ас еиԥш иҟоу азҵаарақәа ареспондент ԥсабартәла аҭак ҟамҵакәа, аҭак даԥхьаратәы иҟарҵоит.
 offensive-content-sensitive-information = Ихьымӡӷыргаго аҵакы ма имаӡоу аинформациа
 offensive-content-sensitive-information-explanation-explanation-1 = Ахатә дыррақәа ирыҳәар зылшо азҵаарақәа
+offensive-content-sensitive-information-explanation-explanation-2 = Ацәымӷра, аиаша адымгылара, ахьымӡӷргара зныԥԥшуа аҳәамҭақәа цәырҵратәы аҟаҵара зылшо азҵаарақәа
 example-questions-subheader = Азҵаарақәа рҿырԥштәқәа
 example-questions-explanation-1 = Шәара ишәылшоит <examplePromptsLink>120 азҵаарақәа рҿырԥштәқәа ари атаблицаҿы шәыԥшаарц.</examplePromptsLink>
 
