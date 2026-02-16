@@ -106,3 +106,5 @@ player-speed-normal-aria-label = Normale ôfspylsnelheid
 player-speed-fast-aria-label = Fluggere ôfspylsnelheid
 # Auto transcription mode button accessibility/aria label
 transcription-mode-auto-aria-label = Automatysk wurd-foar-wurd ôfspyljen yn-/útskeakelje
+# Mode menu button accessibility/aria label
+transcription-mode-menu-aria-label = Menu transkripsjemodus yn-/útskeakelje
