@@ -37,3 +37,4 @@ need-help-deciding-platform = Trenger du hjelp til å bestemme hva du skal velge
 need-help-deciding-platform-explanation-1 = <strong>Skript tale</strong> (tradisjonelt det du kjenner som Common Voice) er hvor du kan lese setninger høyt på språket ditt.
 need-help-deciding-platform-explanation-2 = <strong>Spontan Tale</strong> er en ny del av Common Voice der du kan svare på spørsmål på en mer naturlig måte.
 need-help-deciding-platform-explanation-3 = Hvis du ikke ser språket ditt i noen av delene av plattformen, velg begge.
+request-language-search-bar = Du kan begynne å skrive inn navnet på språket ditt her. Hvis det ennå ikke finnes på Common Voice, kan du fylle ut et skjema med språkinformasjonen for språket ditt.
