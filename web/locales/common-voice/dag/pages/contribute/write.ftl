@@ -125,4 +125,5 @@ write-contribute-menu-aria-label = sabimi pari gahim pii bɔŋ ni
 add-sentences-menu-item-aria-label = Pahimi yɛltɔɣa pala ka dundɔŋ ŋɔ nim karim
 review-sentences-menu-item-aria-label = Labi yuli yɛltɔɣa shɛŋa dundɔŋ ŋɔ nima ni zaŋ bahina
 add-questions-menu-item-aria-label = Zaŋmi bɔhi' pala sɔŋna ka dundɔŋnim karim ka labisi
+review-questions-menu-item-aria-label = Labi n-vihi ka n-vooti bɔhisi pala shɛŋa lala community ni zaŋ n-tahina maa
 transcribe-audio-menu-item-aria-label = labi yaa kukɔya yi sabbu
