@@ -47,8 +47,9 @@ about-stay-in-touch = چۆن لە پەیوەندیدا بمێنمەوە؟
 about-stay-in-touch-button = خۆت تۆمار بکە
 about-nav-why-common-voice = بۆچی؟
 about-nav-how-it-works = چۆن؟
+about-nav-partners = هاوبەشەکان
 about-nav-get-involved = بەشدار بە
-about-nav-how-it-works-2 = کۆمۆنڤۆیس چۆن کار دەکات؟
+about-nav-how-it-works-2 = "Common Voice" چۆن کار دەکات؟
 about-nav-playbook = فێربە چۆن بەشداری بکەیت
 
 ## Community Playbook Content
@@ -82,14 +83,17 @@ about-playbook-how-record-quality = چۆن کلیپێکی دەنگیی کوال�
 about-playbook-how-record-content-1 = بە دەنگی ئاسایی خۆت قسە بکە! ئەو شێوازەی تۆ قسەی پێ دەکەیت لێرە پێشوازیی لێ دەکرێت - شێوەزارەکەی خۆت چۆنە ئاوا دەمانەوێت، هەروەها بەرزونزمی و شێواز و نەوای ئاسایی دەنگتمان دەوێت.
 about-playbook-how-record-content-2 = دوور بکەوەرەوە لە ژاوەژاوی زۆری دەورووبەرت - پێویستە بیستنی قسەکانت ئاسان بێت.
 about-playbook-how-record-content-3 = ڕستەکە بەوریایی بخوێنەوە - هیچ وشەیەک فەرامۆش، یان زیاد مەکە، یاخود مەگۆڕە.
-about-playbook-how-record-content-4 = دڵنیابە لەوەی دوانگەکە دەنگت تۆماردەکات بەرلەوەی دەستبکەیت بە قسەکردن، وە تەنها کاتێک دەوەستێت کە تۆ لە تەواو بووبیت.
+about-playbook-how-record-content-4 = دڵنیابەرەوە کە پلاتفۆرمەکە دەستی بە تۆمارکردن کردووە پێش ئەوەی دەست بە قسەکردن بکەیت، و تەنها کاتێک بیوەستێنە کە قسەکانت تەواو کردووە.
+about-playbook-how-record-content-5 = <accuracyLink>بۆ زانیاریی زیاتر، سەیری پێوەرەکانی وردی (Accuracy) بکە.</accuracyLink>
 
 ## How to grow language
 
-about-playbook-how-grow-language = چۆن دەتوانین بەکارامەیی گەشە بە زمانێک بدەین لە دەنگی گشتی دا؟
-about-playbook-how-grow-language-content-1 = دروستکردنی دەرفەت بۆ خەڵکێکی جۆراوجۆر بۆ بەشداریکردن لە دەنگی هاوبەش دڵنیای دەدات لەوەی کە کۆمەڵە داتاکە خزمەت بە زۆرترین کەس دەکات. ئێمە سەرچاوە و قاڵبمان دروست کردووە کە دەتوانیت بەکاری بهێنیت!
-about-playbook-how-grow-language-content-2 = بۆنەکان
-about-playbook-how-grow-language-content-4 = تۆڕی کۆمەڵایەتی
+about-playbook-how-grow-language = چۆن دەتوانین بە شێوەیەکی کاریگەر زمانێک لە Common Voice گەشە پێ بدەین؟
+about-playbook-how-grow-language-content-1 = ڕەخساندنی هەلی بەشداریکردن بۆ کۆمەڵە خەڵکێکی هەمەچەشن لە Common Voice، دەستەبەری ئەوە دەکات کە داتاسێتەکە خزمەت بە زۆرترین کەس بکات. ئێمە چەندین سەرچاوە و نموونەمان ئامادە کردووە کە دەتوانیت بەکاریان بهێنیت!
+about-playbook-how-grow-language-content-2 = چالاکییەکان
+about-playbook-how-grow-language-content-3 = دەتوانیت چالاکییەکان ئەنجام بدەیت بۆ ئەوەی یارمەتی خەڵک بدەیت بەشداری بکەن. ئەمە لەوە ئاسانترە کە بیری لێ دەکەیتەوە. دەتوانیت بە شێوەی ئۆنلاین و بە ئامرازێکی ڤیدیۆ کۆنفرانس ئەنجامی بدەیت، یان بە شێوەی ڕووبەڕوو ئەگەر سەلامەت بێت. <eventTemplate>سەیری نموونەکان و سەرچاوەکانمان بکە بۆ ئەنجامدانی چالاکییەکان</eventTemplate>.
+about-playbook-how-grow-language-content-4 = تۆڕە کۆمەڵایەتییەکان
+about-playbook-how-grow-language-content-5 = دەتوانیت پلاتفۆرمەکانی سۆشیاڵ میدیا بەکاربهێنیت بۆ گەیاندنی پەیامەکە. ئەو پۆستانە بڵاو بکەرەوە کە ڕوونی دەکەنەوە بۆچی ئەم بابەتە گرنگە، و پەیوەندی بکە بەو کەسانەی تر کە باس لە بابەتەکانی وەک مافی زمان، ژیریی دەستکردی دەنگی، یان لایەنگری لە تەکنەلۆژیادا دەکەن. سەیری ئامۆژگاریی زیاتر بکە دەربارەی <campaignLink>بەڕێوەبردنی کەمپەینێکی کۆمەڵایەتی، لەگەڵ ئەو ناوەڕۆکانەی کە دەتوانیت دووبارە بەکاریان بهێنیتەوە</campaignLink>.
 about-playbook-how-grow-language-content-6 = هاوبەشییەکان و تۆڕەکان
 
 ## How to validate
