@@ -82,6 +82,7 @@ no-api-keys-header = <bold>Ko’ag̃aitéramo, ndaipóri API rerarenda upe ne mb
 api-key-name-input =
     .label = API réra ohechaukáva
 create-api-key-header = <bold>Marandu’i iporãrasáva: API réra ñemoheñói</bold>
+create-api-key-agreement = Amoneĩ nañeha’ãmo’ãiha ahechakuaa umi oñe’ẽva Común Voice mba’ekuaarã atypegua.
 generate-api-key-button = Emoheñói terachaukaha
 save-api-key-info = <bold>Eñongatu nde pe’aha tekorosãme</bold>
 api-key-name-display-label = API réra ohechaukáva
