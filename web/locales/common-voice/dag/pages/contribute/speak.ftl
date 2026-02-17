@@ -13,6 +13,7 @@ record-error-too-short = Kukoli maa nyɛla zaɣ' ŋmaa.
 record-error-too-long = Kukoli maa nyɛla zaɣ' waɣinli.
 record-error-too-quiet = Kukoli maa nyɛla din fɔhi pam.
 record-error-empty-recording = Kɔkuli shɛli daa bi tooi n-yaai. Dimi suɣulo labi n-lihi a kɔku' yaarigu maa zuɣu ka labi n-yaai.
+record-error-unknown-format = A bi tooi m-baŋ kɔkuya maa biɛhigu soli. Dimi suɣulo ka n taɣi birawuza shɛli n tum tuma.
 record-cancel = Nyahimi yaabu
 record-instruction = { $actionType }<recordIcon></recordIcon> karimmi yɛltɔɣili maa ka di yina.
 record-stop-instruction = { $actionType }<stopIcon></stopIcon> a yi naai

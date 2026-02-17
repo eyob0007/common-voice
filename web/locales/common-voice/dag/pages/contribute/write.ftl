@@ -97,6 +97,8 @@ too-many-files = Gbana pam
 
 ## SMALL BATCH SUBMISSION
 
+# <icon></icon> will be replaced with an icon that represents writing a sentence
+small-batch-instruction = <icon> </icon> Zaŋmi salo satara bɔbili m pahi
 multiple-sentences-error = A kutooi  pahi n laɣim yɛltɔɣa yinga n ti
 exceeds-small-batch-limit-error = A kutooi zaŋ yɛltɔɣa din yaɣi tuhi pia n ti
 small-batch-sentences-rule-1 = Doli zalizi ŋan yina "Yɛltɔɣa dini ka n ni tooi zaŋ pahi?"
