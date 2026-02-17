@@ -88,6 +88,7 @@ api-key-name-display-label = API réra ohechaukáva
 api-client-secret-display-label = API ñemuha ñemimby
 api-client-id-display-label = ID API ñemuha
 api-key-modal-confirmation-header = Eipotápa péicha
+cancel-api-key-confirmation-description = ¿Añetehápe emboguese peteĩ API credencial ñemoheñói?
 create-api-key-error-toast-message = Ojavy API rerachaukaha emoheñóivo
 delete-api-key-error-toast-message = Ojavy API rerachaukaha emboguévo
 fetching-api-keys-error-toast-message = Ojavy API rerachaukaha erekóvo
