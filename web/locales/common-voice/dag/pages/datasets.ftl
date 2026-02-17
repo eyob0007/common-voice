@@ -52,6 +52,7 @@ dataset-metadata-sex = Doo bee paɣa
 # dataset metadata - age of contributor
 dataset-metadata-age = A yuma
 dataset-donate-modal-heading = a di mi?
+data-download-button = Yaami binshɛli din nyɛ kukɔli yaabu.
 data-download-yes = Iin
 data-download-deny = Aayi
 data-download-license = Shahara
