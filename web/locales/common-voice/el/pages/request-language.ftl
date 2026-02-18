@@ -48,13 +48,6 @@ request-language-found-pontoon-not-launched =
     το περιβάλλον της πλατφόρμας <pontoonLink>εδώ</pontoonLink>. Το περιβάλλον πρέπει να μεταφραστεί κατά 60%· 
     εναλλακτικά, μπορείτε απλώς να μεταφράσετε πλήρως (100%) τις βασικές συμβολοσειρές στο ‘web/locales/en/pages/contribute/*.ftl’
     (υπάρχουν πέντε τέτοια αρχεία) και το περιβάλλον θα αρχίσει αυτόματα να λειτουργεί στη γλώσσα σας.
-request-language-found-cv-contribution =
-    Ωραία! Η γλώσσα σας είναι ήδη ενεργή στο <strong>scripted Speech</strong> Common Voice. 
-    Μπορείτε να συνεισφέρετε <homePageLink>εδώ</homePageLink>.
-request-language-found-cv-sentences-lack =
-    Η γλώσσα σας είναι ήδη στη λίστα γλωσσών του Common Voice.
-    Μπορείτε να διευκολύνετε την εκκίνηση της γλώσσας στο <strong>Scripted Speech</strong>
-    συνεισφέροντας στις προτάσεις <sentencesContributionLink>εδώ</sentencesContributionLink>.
 request-language-found-spontaneous-speech =
     Η γλώσσα σας υπάρχει ήδη στην <strong>Αυθόρμητη ομιλία</strong> του Common Voice. 
     Κάντε κλικ <spontaneousSpeechLink>εδώ</spontaneousSpeechLink> για να συνεισφέρετε: μην ξεχάσετε να αλλάξετε τη γλώσσα συνεισφοράς/συνόλου δεδομένων πριν ξεκινήσετε να συνεισφέρετε!

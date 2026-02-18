@@ -91,9 +91,9 @@ player-play-button-aria-label = Αναπαραγωγή ήχου
 # Pause button accessibility/aria label
 player-pause-button-aria-label = Παύση ήχου
 # Skip back button accessibility/aria label
-player-skip-backward-aria-label = Μετάβαση πίσω 5 δευτερόλεπτα
+player-skip-backward-aria-label = Μετάβαση προς τα πίσω κατά 5 δευτερόλεπτα
 # Skip forward button accessibility/aria label
-player-skip-forward-aria-label = Μετάβαση μπροστά 5 δευτερόλεπτα
+player-skip-forward-aria-label = Μετάβαση προς τα εμπρός κατά 5 δευτερόλεπτα
 # Audio playback progress slider accessibility/aria label
 player-progress-slider-aria-label = Ρυθμιστικό προόδου αναπαραγωγής ήχου
 # Toggle speed and transcription mode menu button
@@ -103,7 +103,7 @@ player-speed-slow-aria-label = Χαμηλότερη ταχύτητα αναπα�
 # Normal playback speed button accessibility/aria label
 player-speed-normal-aria-label = Κανονική ταχύτητα αναπαραγωγής
 # Faster playback speed button accessibility/aria label
-player-speed-fast-aria-label = Μεγαλύτερη ταχύτητα αναπαραγωγής
+player-speed-fast-aria-label = Υψηλότερη ταχύτητα αναπαραγωγής
 # Auto transcription mode button accessibility/aria label
 transcription-mode-auto-aria-label = (Απ)ενεργοποίηση αυτόματης αναπαραγωγής λέξη προς λέξη
 # Mode menu button accessibility/aria label
