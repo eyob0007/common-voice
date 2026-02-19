@@ -9,5 +9,6 @@ error-clip-upload-too-large = A ni yai kuko' shɛli maa galiya pam ni a zaŋ li 
 error-title-404 = Ti bɛ tooi nya yaɣa shɛli A ni bori maa
 error-title-500 = gaafara, binshɛɣu bɛ chaŋ viɛnyɛla
 error-title-502 = Gadama kpe kpa tuɣa maa ni
+error-title-503 = Ti nya la yɛli shɛli zuɣu ti ni di bi tiɛhira
 error-title-504 = Suhugu saha gariya
 error-code = chirimbu
