@@ -1,0 +1,30 @@
+## Profile Download
+
+download-q = Odeeffannoo kee buusuuf ni barbaaddaa?
+download-info = Maal buusuu akka barbaaddu nuu himi:-
+download-profile-title = Seenaa Ofii (Profile)
+download-profile-info = Iimeelii, maqaa fayyadamaa fi odeeffannoo lakkoofsa hawaasummaa (demographic) of keessaa qaba; battalatti argama.
+download-profile-size = Baay’ee xiqqaa (bytes muraasa)
+download-recordings-title = Sagaleewwan
+download-recordings-info = Faayiloota mp3 fi himoota walqabatan of keessaa qaba; qopheessuuf yeroo muraasa fudhachuu danda’a.
+download-recordings-size = Yeroo baay’ee meegaabayitii
+download-recordings-unavailable = Gaaffiin biraa sagaleewwan kee adeemsarra jiruun gaafachuu hin dandeessu.
+download-recently-requested = Guyyaa { $days } hunda sagaleewwan kee irratti buusaa haaraa gaafachuu dandeessa.
+download-size = Hammamtaa
+download-selected = Filatameera
+download-start = Odeeffannoo seenaa ofii buusi
+download-request = Sagaleewwan waraabaman gaafadhu
+download-requests = Gaaffiiwwan buusaa sagaleewwan duraanii
+download-requests-info = Yeroo sagaleewwan kee gaafattu, gara faayiloota ZIP tokko yookaan hedduutti walitti qabna. Gaaffiiwwan kee duraanii kanneen armaan gadiiti:
+download-request-button = Buusi
+download-request-title = { $created }
+download-request-description = Sagalee gabaabaa { $clipCount }, hammamtaa kuusaa waliigalaa { $size }. Yeroon itti xumuramu { $expires }.
+download-request-archive-single = Faayila ZIP tokko qofa qaba
+download-request-archive-multiple = Gara faayiloota ZIP { $archiveCount }tti qoodameera.
+download-request-assembling-description = Faayiloonni kee walitti qabamaa jiru. Mee eeggadhu, booda irra deebi’ii ilaali.
+download-request-refresh-button = Haaromsi
+download-request-modal-title = Shaarneeramtoota buusaa
+download-request-modal-description = Shaarneerama faayiloota ZIP buusuuf asitti argamu.
+download-request-link-text = ZIP #{ $offset } keessaa { $total }
+download-request-metadata-link = Barruu himootaa
+download-request-link-single = Akkasumas URL toora-qixa gara bulchaa buusaa kee jaallattuutti waraabuu fi maxxansuu dandeessa. Sa’aatii 12 keessatti ni dhuma; garuu yeroo kamiyyuu Shaarneeramtoota haaraa uumuuf gara fuula kanaatti deebi’uu dandeessa.

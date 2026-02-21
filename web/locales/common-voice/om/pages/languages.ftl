@@ -1,5 +1,32 @@
 ## Languages Overview
 
-contribute = Gumaacha
-get-involved-button = Irraatti hirmadha
-get-involved-title = { $lang } irraatti hirmadhaa
+language-section-in-progress = Hojii irra jira
+language-section-in-progress-new-description = Afaanota kanniin ammaa kana misooma hawaasaa irra jiru. <localizationGlossaryLink>Naannoo marsariitii</localizationGlossaryLink> fi <sentenceCollectionGlossaryLink>kuusaa jechootaa</sentenceCollectionGlossaryLink> jalqabuuf barbaachisaa dha.
+language-section-launched = Galii Argate
+language-section-launched-description = Afaanota jalqabamanii kun marsariitii irratti <localizationGlossaryLink>naannoo</localizationGlossaryLink> fi <sentenceCollectionGlossaryLink>kuusaa jechootaa gahaa</sentenceCollectionGlossaryLink> qaba; akkasumas <speakLink>dubbi</speakLink> fi deebii itti fufaa argamsiisuun jalqabu danda’u.
+language-section-last-updated = Dhumaa irratti haarawame: { $lastUpdatedTimeStamp }
+languages-show-more = Dabalata ilaali
+languages-show-less = Xiqqeessi ilaali
+language-meter-in-progress = Hojii irra
+language-total-progress = Waligala
+language-search-input =
+    .placeholder = Barbaadi
+language-speakers = Dubbattoota
+localized = Naannoo irratti qindaa’e
+sentences = Jechoota
+language-validation-hours = Sa’atii
+language-validation-progress = Hojii mirkaneessaa
+contribute = Hirmaadhu
+get-involved-button = Hirmaadhu
+get-involved-title = Hirmaadhu { $lang } irratti
+get-involved-text = { $lang } irratti hirmaachuuf barbaadduuf galatoomaa. Afaan hundi qophii irra jira, hojiitti seenuuf qophaa’aa jirra. Gareen hundi jijjiirraa isaanii bilbilaan hubachuu danda’u; odeeffannoo dabalaaf immoo email keessan galchaa.
+get-involved-form-title = { $lang } irratti jijjiirraa hubachiisuuf galmaa’ii
+get-involved-email =
+    .label = I-meelii
+get-involved-opt-in = Eeyyee, i-meelii naaf ergi. Jijjiirraa afaan kana irratti gaggeeffamaa jiru hordofu barbaada.
+get-involved-submit = Ergi
+get-involved-stayintouch = Mozilla waliin ta’uun hawaasa afaan tekinoolojii keessatti hojjetan waliin wal qunnamtii qaba. Odeeffannoo haaraa fi akkamitti itti fayyadamu akka dandeessan isin beeksifna.
+get-involved-privacy-info = Odeeffannoo keessan eeggannoo guutuu waliin tursiisuuf hojii goona. Odeeffannoo dabalataaf <privacyLink>Beeksisa Iccitii</privacyLink> ilaali.
+get-involved-success-title = Hirmaannaa { $language } irratti galmaa’ee jira - galatoomaa
+get-involved-success-text = Odeeffannoo haaraa yoo jiraate isin beeksifna.
+get-involved-return-to-languages = Gara tarree afaanotaatti deebii
